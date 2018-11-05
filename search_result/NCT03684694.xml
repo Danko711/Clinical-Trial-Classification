@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="363">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03684694</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ADCT-402-103</org_study_id>
+    <nct_id>NCT03684694</nct_id>
+  </id_info>
+  <brief_title>Safety and Antitumor Activity Study of Loncastuximab Tesirine + Ibrutinib in Diffuse Large B-Cell or Mantle Cell Lymphoma</brief_title>
+  <official_title>A Phase 1b Open-Label Study to Evaluate the Safety and Antitumor Activity of Loncastuximab Tesirine and Ibrutinib in Patients With Advanced Diffuse Large B-Cell Lymphoma or Mantle Cell Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ADC Therapeutics S.A.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>ADC Therapeutics S.A.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this Phase 1 study is to evaluate the safety and antitumor activity of
+      Loncastuximab Tesirine (ADCT-402) and Ibrutinib in patients with Advanced Diffuse Large
+      B-Cell Lymphoma or Mantle Cell Lymphoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 1b, open-label, single-arm combination study with a dose escalation phase
+      (Part 1) followed by a dose expansion phase (Part 2). The study will enroll approximately 60
+      patients.
+
+      A standard 3+3 dose escalation design will be used for Part 1. The DLT period will be the 21
+      days following the first dose of ibrutinib. The initial dose escalation cohort will receive
+      loncastuximab tesirine for 2 cycles with concurrent ibrutinib (concomitant therapy) and may
+      then continue ibrutinib therapy up to one year. Depending on the safety and tolerability of
+      loncastuximab tesirine given concurrently with ibrutinib in the initial cohort, subsequent
+      cohorts may receive either loncastuximab tesirine with concurrent ibrutinib or loncastuximab
+      tesirine followed by ibrutinib (sequential therapy).
+
+      Patients who have a response of PR or stable disease (SD) at the 14-week assessment may
+      receive two additional doses of loncastuximab tesirine given 4 weeks apart.
+
+      Part 2 will consist of up to two expansion cohorts, one for DLBCL and one for MCL. Each
+      cohort will be 20 patients treated at the dose determined in Part 1.
+
+      The study will include a Screening Period (of up to 28 days), a Treatment Period (cycles of 3
+      to 4 weeks), and a Follow-up Period (approximately every 12 week visits for up to 2 years
+      after treatment discontinuation).
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2018</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety and tolerability of loncastuximab tesirine in combination with ibrutinib by measuring frequency and severity of adverse events (AEs)</measure>
+    <time_frame>Until 30 days after last dose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability of loncastuximab tesirine in combination with ibrutinib by measuring frequency and severity of serious adverse events (SAEs)</measure>
+    <time_frame>Until 30 days after last dose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability of loncastuximab tesirine in combination with ibrutinib by measuring incidence of dose limiting toxicities (DLTs) (dose escalation only)</measure>
+    <time_frame>First 21-day cycle for each patient (dose escalation only)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (ORR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>ORR according to the 2014 Lugano classification, defined as the proportion of patients with a best overall response (BOR) of complete response (CR) or partial response (PR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete Response Rate (CR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>CR rate defined as the percentage of treated patients with a BOR of CR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR): time from first tumor response to disease progression or death</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (time between the start of treatment and death from any cause)</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Diffuse Large B-Cell Lymphoma</condition>
+  <condition>Mantle Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>ADCT-402</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A standard 3+3 dose escalation design will be used. The DLT period will be the 21 days following the first dose of ibrutinib. The initial dose escalation cohort will receive loncastuximab tesirine for 2 cycles with concurrent ibrutinib (concomitant therapy) and may then continue ibrutinib therapy up to one year. Depending on the safety and tolerability of loncastuximab tesirine given concurrently with ibrutinib in the initial cohort, subsequent cohorts may receive either loncastuximab tesirine with concurrent ibrutinib or loncastuximab tesirine followed by ibrutinib (sequential therapy).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Loncastuximab Tesirine and Ibrutinib</intervention_name>
+    <description>oral</description>
+    <arm_group_label>ADCT-402</arm_group_label>
+    <other_name>ADCT-402 in combination with ibrutinib</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Male or female patient aged 18 years or older
+
+          2. Pathologic diagnosis of DLBCL, non-GCB subtype; or MCL
+
+          3. Patients with DLBCL must have relapsed or refractory disease and have failed or been
+             intolerant to available standard therapy
+
+          4. Patients with MCL must have relapsed or refractory disease and have received at least
+             one prior line of therapy
+
+          5. Patients who have received previous CD19-directed therapy must have a biopsy which
+             shows CD19 expression after completion of the CD19-directed therapy
+
+          6. Measurable disease as defined by the 2014 Lugano Classification
+
+          7. Availability of formalin-fixed paraffin-embedded (FFPE) tumor tissue block (or minimum
+             10 freshly cut unstained slides if block is not available)
+
+          8. ECOG performance status 0 to 2
+
+          9. Screening laboratory values within the following parameters:
+
+               1. Absolute neutrophil count (ANC) ≥1.0 × 103/µL (off growth factors at least 72
+                  hours)
+
+               2. Platelet count ≥75 × 103/µL without transfusion in the past 7 days
+
+               3. Hemoglobin ≥8 g/dL (4.96 mmol/L), transfusion allowed
+
+               4. Alanine aminotransferase (ALT), aspartate aminotransferase (AST), and gamma
+                  glutamyl transferase (GGT) ≤2.5 × the upper limit of normal (ULN); ≤5 × ULN if
+                  there is liver involvement
+
+               5. Total bilirubin ≤1.5 × ULN (patients with known Gilbert's syndrome may have a
+                  total bilirubin up to ≤3 × ULN)
+
+               6. Blood creatinine ≤1.5 × ULN or calculated creatinine clearance ≥60 mL/min by the
+                  Cockcroft and Gault equation
+
+         10. Negative beta-human chorionic gonadotropin (β-HCG) pregnancy test within 7 days prior
+             to start of study drugs on C1D1 for women of childbearing potential
+
+         11. Women of childbearing potential* must agree to use a highly effective** method of
+             contraception from the time of giving informed consent until at least 16 weeks after
+             the last dose of study therapy. Men with female partners who are of childbearing
+             potential must agree that they will use a highly effective method of contraception
+             from the time of giving informed consent until at least 16 weeks after the patient
+             receives his last dose of study therapy
+
+        Exclusion Criteria:
+
+          1. Known history of hypersensitivity to or positive serum human ADA to a CD19 antibody
+
+          2. Known history of hypersensitivity to ibrutinib
+
+          3. Previous therapy with ibrutinib or other BTK inhibitors
+
+          4. Previous therapy with loncastuximab tesirine
+
+          5. Requires treatment or prophylaxis with a moderate or strong cytochrome P450 (CYP) 3A
+             inhibitor
+
+          6. Allogenic or autologous transplant within 60 days prior to start of study drugs (C1D1)
+
+          7. Active graft-versus-host disease
+
+          8. Post-transplantation lymphoproliferative disorder
+
+          9. Active autoimmune disease, including motor neuropathy considered of autoimmune origin
+             and other central nervous system (CNS) autoimmune disease
+
+         10. Known seropositive and requiring anti-viral therapy for human immunodeficiency (HIV)
+             virus, hepatitis B virus (HBV), or hepatitis C virus (HCV). Note: Testing is not
+             mandatory to be eligible
+
+         11. History of Stevens-Johnson syndrome or toxic epidermal necrolysis
+
+         12. Lymphoma with active CNS involvement at the time of screening, including
+             leptomeningeal disease
+
+         13. Clinically significant third space fluid accumulation (i.e., ascites requiring
+             drainage or pleural effusion that is either requiring drainage or associated with
+             shortness of breath)
+
+         14. Breastfeeding or pregnant
+
+         15. Significant medical comorbidities, including but not limited to, uncontrolled
+             hypertension (blood pressure [BP] ≥160/100 mmHg repeatedly), unstable angina,
+             congestive heart failure (greater than New York Heart Association class II),
+             electrocardiographic evidence of acute ischemia, coronary angioplasty or myocardial
+             infarction within 6 months prior to screening, uncontrolled atrial or ventricular
+             cardiac arrhythmia, poorly controlled diabetes mellitus, or severe chronic pulmonary
+             disease
+
+         16. Major surgery, radiotherapy, chemotherapy, or other anti-neoplastic therapy within 14
+             days prior to start of study drugs (C1D1), except shorter if approved by the Sponsor
+
+         17. Use of any other experimental medication within 14 days prior to start of study drugs
+             (C1D1)
+
+         18. Planned live vaccine administration after starting study drugs (C1D1)
+
+         19. Any condition that could interfere with the absorption or metabolism of ibrutinib
+             including malabsorption syndrome, disease significantly affecting gastrointestinal
+             function, or resection of the stomach or small bowel
+
+         20. Inherited or acquired bleeding disorders
+
+         21. Ongoing anticoagulation with warfarin or equivalent vitamin K antagonists
+
+         22. Failure to recover to Grade ≤1 (Common Terminology Criteria for Adverse Events [CTCAE]
+             version 4.0) from acute non-hematologic toxicity (Grade ≤2 neuropathy or alopecia) due
+             to previous therapy prior to screening
+
+         23. Congenital long QT syndrome or a corrected QTcF interval of &gt;480 ms at screening
+             (unless secondary to pacemaker or bundle branch block)
+
+         24. Active second primary malignancy other than non-melanoma skin cancers, non metastatic
+             prostate cancer, in situ cervical cancer, ductal or lobular carcinoma in situ of the
+             breast, or other malignancy that the Sponsor's medical monitor and Investigator agree,
+             and document should not be exclusionary
+
+         25. Any other significant medical illness, abnormality, or condition that would, in the
+             Investigator's judgment, make the patient inappropriate for study participation or put
+             the patient at risk
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>David Ungar</last_name>
+    <phone>908-864-6988</phone>
+    <email>david.ungar@adctherapeutics.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Maria Cincotta</last_name>
+    <email>Maria.cincotta@adctherapeutics.com</email>
+  </overall_contact_backup>
+  <verification_date>September 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>September 11, 2018</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 26, 2018</study_first_posted>
+  <last_update_submitted>September 24, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 26, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Loncastuximab Tesirine in Combination with Ibrutinib</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Mantle-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

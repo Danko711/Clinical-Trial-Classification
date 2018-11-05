@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="410">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03696784</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LCCC 1813-ATL</org_study_id>
+    <nct_id>NCT03696784</nct_id>
+  </id_info>
+  <brief_title>Anti-CD19 CAR-T Cells With Inducible Caspase 9 Safety Switch for B-cell Lymphoma</brief_title>
+  <official_title>A Phase I Study of Autologous Activated T-cells Targeting the CD19 Antigen and Containing the Inducible Caspase 9 Safety Switch in Subjects With Relapsed/Refractory B-cell Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UNC Lineberger Comprehensive Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bellicum Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>V Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>UNC Lineberger Comprehensive Cancer Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research study combines 2 different ways of fighting disease: antibodies and T cells.
+      Both antibodies and T cells have been used to treat patients with cancers, and both have
+      shown promise, but neither alone has been sufficient to cure most patients. This study
+      combines both T cells and antibodies to create a more effective treatment. The treatment
+      being researched is called autologous T lymphocyte chimeric antigen receptor cells targeted
+      against the CD19 antigen (ATLCAR.CD19) administration.
+
+      Prior studies have shown that a new gene can be put into T cells and will increase their
+      ability to recognize and kill cancer cells. The new gene that is put in the T cells in this
+      study makes a piece of an antibody called anti-CD19. This antibody sticks to leukemia cells
+      because they have a substance on the outside of the cells called CD19. For this study, the
+      anti-CD19 antibody has been changed so that instead of floating free in the blood part of it
+      is now joined to the T cells. When an antibody is joined to a T cell in this way it is called
+      a chimeric receptor. These CD19 chimeric (combination) receptor-activated T cells seem to
+      kill some of the tumor, but they do not last very long in the body and so their chances of
+      fighting the cancer are unknown.
+
+      Preliminary results have shown that subjects receiving this treatment have experienced
+      unwanted side effects including cytokine release syndrome and neurotoxocity. In this study,
+      to help reduce cytokine release syndrome and/or neurotoxicity symptoms, the ATLCAR.CD19 cells
+      have a safety switch that, when active, can cause the cells to become dormant. These modified
+      ATLCAR.CD19 cells with the safety switch are referred to as iC9-CAR19 cells. If the subject
+      experiences moderate to severe cytokine release syndrome and or neurotoxicity as a result of
+      being given iC9-CAR19 cells, the subject can be given a dose of a second study drug, AP1903,
+      if standard interventions fail to alleviate the symptoms of cytokine release syndrome and/or
+      neurotoxicity. AP1903 activates the iC9-CAR19 safety switch, reducing the number of the
+      iC9-CAR19 cells in the blood. The ultimate goal is to determine what dose of AP1903 can be
+      given that reduces the severity of the cytokine release syndrome and/or neurotoxicity, but
+      still allows the remaining iC9-CAR19 cells to effectively fight the lymphoma.
+
+      The primary purpose of this study is to determine whether receiving iC9-CAR19 cells is safe
+      and tolerable in patients with relapsed/refractory B-cell lymphoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a phase I dose finding trial to determine if chimeric antigen receptor T
+      (CAR-T) cells targeting the CD19 antigen and containing the inducible caspase 9 safety switch
+      can be safely administered to adult subjects with relapsed or refractory B-cell Lymphoma. The
+      safety of iC9-CAR19 cells will be investigated using the 3+3 design. The starting dose of 1 x
+      106 transduced cells/kg (dose level 1) will enroll at least 3 subjects in the initial cohort.
+      If there are no dose limiting toxicities (DLTs) within 4 weeks of the cell infusion in these
+      3 subjects, then the next cohort will evaluate 2 x 106 transduced cells/kg. If there is
+      toxicity in 1/3 subjects in the initial cohort, the cohort will be expanded to enroll up to 6
+      subjects. During iC9-CAR19 T cell dose exploration, AP1903 (0.4 mg/kg), a dimerizing agent
+      that is designed to engage and activate the caspase 9 safety switch to trigger iC9-CAR19 T
+      cell death by apoptosis will be given to subjects who develop grade 4 cytokine release
+      syndrome (CRS) or grade ≥3 CRS that is unresponsive to standard of care interventions, and to
+      subjects who develop grade ≥3 CAR-T-cell-related encephalopathy syndrome (CRES) or grade 2
+      CRES that does not improve to grade ≤1 within 72 hours with standard of care interventions.
+
+      Cell Procurement
+
+      Peripheral blood, up to 300 mL (in up to 3 collections) will be obtained from subjects for
+      cell procurement. In subjects with low T-cell count (CD3 count as assayed by flow cytometry
+      less than 200/μL) in the peripheral blood, a leukopheresis may be performed to isolate
+      sufficient T cells. The parameters for pheresis will be up to 2 blood volumes
+
+      Lymphodepleting Regimen
+
+      Subjects will receive a &quot;pre-conditioning&quot; cytoreductive regimen of bendamustine 70 mg/m2/day
+      administered IV followed by an IV dose of fludarabine 30 mg/m2/day administered over 3
+      consecutive days. These agents will be administered per institutional guidelines. Prophylaxis
+      (e.g., hydration, antiemetics, etc.) needed prior to fludarabine and bendamustine
+      chemotherapy will be provided per institutional guideline
+
+      Administration of iC9-CAR19 T cells
+
+      Post lymphodepletion, subjects who meet eligibility criteria for cellular therapy will
+      receive iC9-CAR19 T cells within 2 - 14 days after completing the lymphodepleting
+      chemotherapy regimen. We will administer iC9-CAR19 post lymphodepletion at dose levels
+      specified in the table in section 4.1. A recently published trial in refractory DLBCL
+      established that a dose of 2 x 106 CAR19+ T cells/kg was safe and associated with significant
+      in vivo expansion and we anticipate similar results with iC9-CAR19+ T cells.
+
+      Duration of Therapy
+
+      Therapy in this study involves 1 infusion of iC9-CAR19 cells.
+
+      Duration of Follow-up
+
+      Subjects who receive a cell infusion will be followed for up to 15 years for
+      replication-competent retrovirus evaluation or until death, whichever occurs first. Subjects
+      who are removed from study and do not receive the cellular therapy product due to
+      unacceptable adverse events will be followed until resolution or stabilization of the adverse
+      event.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 30, 2018</start_date>
+  <completion_date type="Anticipated">October 30, 2033</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with adverse events as a measure of safety and tolerability of iC9-CAR19 T cells</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Toxicity will be classified and graded according to the National Cancer Institute's Common Terminology Criteria for Adverse Events (CTCAE, version 5.0). Grade 1 Mild; asymptomatic or mild symptoms; clinical or diagnostic observations only; intervention not indicated. Grade 2 Moderate; minimal, local or noninvasive intervention indicated; limiting age-appropriate instrumental Activities of Daily Living (ADL). Grade 3 Severe or medically significant but not immediately life-threatening; hospitalization or prolongation of hospitalization indicated; disabling; limiting self care ADL. Grade 4 Life-threatening consequences; urgent intervention indicated. Grade 5 Death related to AE. CAR-T-cell-related encephalopathy (CRES) symptoms will be graded according to the criteria outline in Section 12.6 CRES Grading in the protocol and CRS symptoms will be graded according to criteria outlined in Section 12.2 CRS Grading of the protocol.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Identify a recommended phase 2 dose (RP2D) of iC9-CAR19 T cells in subjects with relapsed or refractory B-cell lymphoma</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The recommended phase 2 dose of iC9-CAR19 cells will be determined based on 3+3 dose finding rules and the tolerability of iC9-CAR19 cells assessed by NCI-CTCAE criteria, Cytokine release syndrome (CRS) grading criteria, and CAR‑T‑cell-related encephalopathy syndrome (CRES) per CAR-T-cell therapy-associated toxicity (CARTOX-10). In the CARTOX-10, one point is assigned for each of the following tasks that is performed correctly (normal cognitive function is defined by an overall score of 10): orientation to year, month, city, hospital, and President/Prime Minister of country of residence (total of 5 points); name three objects — for example, point to clock, pen, button (maximum of 3 points); write a standard sentence, for example, 'our national bird is the bald eagle' (1 point); count backwards from 100 in tens (1 point).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival of iC9-CAR19 T cells in vivo</measure>
+    <time_frame>15 years</time_frame>
+    <description>Persistence of iC9-CAR19 T cells in vivo will be determined by quantitative polymerase chain reaction (PCR) and flow cytometry in samples of peripheral blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (ORR) mediated by autologous iC9-CAR19 T cells administered to subjects with relapsed or refractory B-cell lymphoma.</measure>
+    <time_frame>15 years</time_frame>
+    <description>ORR (Complete Response (CR)) to iC9-CAR19 T cell therapy will be determined using the revised Lugano criteria. CR= no new lesions; normal bone marrow; Target nodes/nodal masses must regress to ≤ 1.5 cm in LDi; no extralymphatic sites of disease; and/or a PET-CT score of 1, 2, or 3* with or without a residual mass.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS) in subjects with relapsed or refractory B-cell lymphoma following infusion of iC9-CAR19 T cells.</measure>
+    <time_frame>15 years</time_frame>
+    <description>OS will be measured from the date of administration of iC9-CAR19 T cells to the date of death. Subjects who have not died by the analysis data cut-off date will be censored at their last date of contact.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival (PFS) in subjects with relapsed or refractory B-cell lymphoma following infusion of iC9-CAR19 T cells</measure>
+    <time_frame>15 years</time_frame>
+    <description>PFS is defined from day of iC9-CAR19 T cell infusion to the date of disease progression per the Lugano criteria or death as a result of any cause. Subjects who do not meet criteria for progression by the analysis data cut-off date will be censored at their last evaluable disease assessment date.
+Progression is defined as PET-CT score 4 or 5 with an increase in intensity of uptake from baseline and/or New FDG-avid foci consistent with lymphoma at interim or end-of-treatment assessment; An individual node/lesion must be abnormal with:
+Longest diameter (LDi) &gt; 1.5 centimeter (cm) and Increase by ≥ 50% from nadir and an increase in LDi or Shortest Diameter from nadir 0.5 cm for lesions ≤ 2 cm 1.0 cm for lesions &gt; 2 cm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR) in subjects with relapsed or refractory B-cell lymphoma who experience an objective response following infusion of iC9-CAR19 T cells.</measure>
+    <time_frame>15 years</time_frame>
+    <description>DOR is defined for subjects who experience an objective response as the date of first objective response to disease progression per the Lugano criteria, or death as a result of any cause. Subjects who do not meet criteria for progression or death by the analysis cut-off date will be censored at their last evaluable disease assessment date.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in patient-reported symptoms</measure>
+    <time_frame>1 year</time_frame>
+    <description>Patient reported symptoms will be measured using selected symptoms from the NCI Patient Reported Outcomes-Common Terminology Criteria for Adverse Events (PRO-CTCAE). The PRO-CTCAE is a patient-reported outcome measurement system developed to characterize the frequency, severity and interference of symptomatic treatment toxicities. Each of the symptom terms included in the PRO-CTCAE is assessed relative to one or more distinct attributes, including presence/absence, frequency, severity, and/or interference with usual or daily activities. Responses are provided on a 5-point Likert scale: Frequency item: How OFTEN did you have? (Never / Rarely / Occasionally / Frequently / Almost constantly); Severity item: What was the SEVERITY of your at its WORST? (None / Mild / Moderate / Severe / Very severe);Interference item: How much did INTERFERE with your usual or daily activities? (Not at all / A little bit / Somewhat / Quite a bit / Very much)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in physical function</measure>
+    <time_frame>1 year</time_frame>
+    <description>The Patient-Reported Outcomes Measurement Information System (PROMIS) Physical Function Short Form 20a v1.0. assesses one's ability to carry out activities that require physical actions, ranging from self-care (activities of daily living) to more complex activities that require a combination of skills, often within a social context. &quot;Physical Function&quot; is inclusive of the term &quot;disability&quot; and includes the full spectrum of physical functioning from severe impairment to exceptional physical abilities. Each question has five response options ranging in value from one to five, resulting in a total score (T-score) from 0 to 100. A higher PROMIS T-score represents more of the concept being measured. For positively-worded concepts like Physical Function, a T-score of 60 is one SD better than average. By comparison, a Physical Function T-score of 40 is one SD worse than average.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in health related quality of life</measure>
+    <time_frame>1 year</time_frame>
+    <description>The Patient-Reported Outcomes Measurement Information System (PROMIS) Global Health measures assess an individual's physical, mental, and social health. The measures are generic, rather than disease-specific, and often use an &quot;In General&quot; item context as it is intended to globally reflect individuals' assessment of their health. Each question has five response options ranging in value from one to five, which are summed into T-score values for physical and mental health. A higher PROMIS T-score represents more of the concept being measured. Thus, a person who has T- scores of 60 for the Global Physical Health or Global Mental Health scales is one standard deviation better (more healthy) than the general population.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Lymphoma</condition>
+  <condition>Lymphoma, B-Cell</condition>
+  <condition>Immune System Diseases</condition>
+  <condition>Immunoproliferative Disorders</condition>
+  <condition>Lymphatic Diseases</condition>
+  <arm_group>
+    <arm_group_label>Single Arm iC9.CAR19 T cells</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The safety of iC9-CAR19 cells will be investigated using the 3+3 design. Dose level (DL) Dose (#transduced cells/kg)
+-1 1 x 10^5
+1 x 10^6
+2 x 10^6 DL1 will enroll 3 subjects. If no toxicity within 4 weeks, then DL 2 will enroll 3 subjects. If toxicity in 1/3 subjects in DL 1, 3 more subjects will be enrolled. If DL 1 is not tolerable, a de-escalation to DL -1 will enroll 3 subjects. If 3 subjects at the higher dose do not have DLTs more will be enrolled at that dose to get more information about toxicity.
+Lymphodepleting chemotherapy of IV bendamustine 70 mg/m2 and IV fludarabine 30 mg/m2/day for 3 consecutive days will be given within 2-14 days prior to cell infusion.
+AP1903 (0.4 mg/kg), a dimerizing agent to engage and activate the caspase 9 safety switch to trigger iC9-CAR19 T cell death by apoptosis will be given to subjects who develop severe cytokine release syndrome (CRS) or CAR-T-cell-related encephalopathy syndrome (CRES) according to the protocol.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>iC9-CAR19 T cells</intervention_name>
+    <description>iC9-CAR19 T cells will be given by a licensed healthcare provider via intravenous injection over 5-10 minutes through either a peripheral or a central line.</description>
+    <arm_group_label>Single Arm iC9.CAR19 T cells</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bendamustine</intervention_name>
+    <description>70mg/m2 IV given as a daily infusion for 3 days per institutional guidelines 2 - 14 days prior to the T cell infusion.</description>
+    <arm_group_label>Single Arm iC9.CAR19 T cells</arm_group_label>
+    <other_name>Treanda</other_name>
+    <other_name>Bendeka</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine</intervention_name>
+    <description>30 mg/m2 given as a daily infusion for 3 days per institutional guidelines 2 - 14 days prior to the T cell infusion</description>
+    <arm_group_label>Single Arm iC9.CAR19 T cells</arm_group_label>
+    <other_name>Fludara</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AP1903</intervention_name>
+    <description>Subjects who develop Grade 4 CRS or grade ≥3 CRS that is unresponsive to standard of care interventions (i.e., does not resolve to grade 0 - 1 within 24 hours after 2 doses of tocilizumab, with sum of doses ≥12mg/kg) and subjects who develop grade ≥3 CRES or grade 2 CRES that does not improve to grade ≤1 within 72 hours with standard of care interventions will receive 0.4 mg/kg of AP1903 as an IV infusion over 2 hrs.</description>
+    <arm_group_label>Single Arm iC9.CAR19 T cells</arm_group_label>
+    <other_name>Rimiducid</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for the Study:
+
+        Unless otherwise noted, subjects must meet all of the following criteria to participate in
+        all stages of this study:
+
+          -  Written informed consent and HIPAA authorization for release of personal health
+             information.
+
+          -  Adults ≥18 years of age.
+
+          -  Histologically confirmed B-cell NHL, including the following types defined by WHO
+             2016:
+
+        Aggressive Lymphomas:
+
+          -  DLBCL not otherwise specified (NOS)
+
+          -  T cell/histiocyte rich large B cell lymphoma; primary cutaneous DLBCL, leg type;
+             EBV-positive DLBCL NOS; DLBCL associated with chronic inflammation; Lymphomatoid
+             granulomatosis; Large B-cell lymphoma with IRF4 rearrangement; Intravascular large
+             B-cell lymphoma; ALK-positive large B-cell lymphoma
+
+          -  Primary mediastinal (thymic) large B-cell lymphoma
+
+          -  High grade B-cell lymphoma with MYC and BCL2 and/or BCL6 rearrangement; high grade
+             B-cell lymphoma, NOS
+
+          -  B-cell lymphoma, unclassifiable, with features intermediate between DLBCL and
+             classical Hodgkin lymphoma
+
+          -  Transformation of indolent lymphoma or CLL to DLBCL will also be included
+
+        Indolent Lymphomas:
+
+          -  Follicular lymphoma
+
+          -  Splenic marginal zone lymphoma
+
+          -  Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue
+
+          -  Nodal marginal zone lymphoma
+
+          -  Mantle cell lymphoma
+
+          -  Subjects with CNS disease will not be excluded as long it has been stable for 3 months
+
+             --For aggressive lymphomas, relapsed or refractory disease, defined as one of the
+             following:
+
+          -  Residual disease after primary therapy and not eligible for autologous stem cell
+             transplant (ASCT)
+
+          -  Relapsed or persistent disease after prior ASCT
+
+          -  Beyond 1st complete remission with relapsed or persistent disease and not eligible or
+             appropriate for conventional allogeneic or ASCT
+
+               -  For indolent lymphomas, subjects must have received at least 2 prior lines of
+                  therapy for their lymphoma
+
+               -  Subjects relapsed after allogeneic stem cell transplant will be eligible if they
+                  meet other inclusion criteria and have no active graft vs host disease (GVHD)
+
+               -  Measurable or assessable disease by Lugano criteria
+
+               -  Karnofsky score of &gt; 60%
+
+               -  Women of childbearing potential (WOCBP) must be willing to use 2 methods of birth
+                  control or be surgically sterile, or abstain from heterosexual activity for the
+                  course of the study, and for 6 months after the study is concluded. WOCBP are
+                  those who have not been surgically sterilized or have not been free from menses
+                  for &gt; 1 year. The two birth control methods can be composed of: two barrier
+                  methods or a barrier method plus a hormonal method to prevent pregnancy. WOCBP
+                  subjects will also be instructed to tell their male partners to use a condom.
+
+        Exclusion Criteria for the Study:
+
+        Subjects meeting any of the following exclusion criteria will not be able to participate in
+        this study (procurement, lymphodepletion and cell infusion):
+
+          -  Subject is pregnant or lactating.
+
+          -  Tumor in a location where enlargement could cause airway obstruction.
+
+          -  Current use of systemic corticosteroids at doses ≥10mg prednisone daily or its
+             equivalent; those receiving &lt;10mg daily may be enrolled at discretion of investigator.
+
+          -  Active infection with HIV, HTLV, HBV, HCV (can be pending at the time of cell
+             procurement; only those samples confirming lack of active infection will be used to
+             generate transduced cells) defined as not being well controlled on therapy. Subjects
+             are required to have negative HIV antibody or negative HIV viral load, negative HTLV1
+             and HTLV2 antibodies, negative Hepatitis B surface antigen, and negative HCV antibody
+             or viral load. In addition, subjects with positive Hepatitis B core antibody, will
+             have Hepatitis B viral load tested and subjects with positive Hepatitis B viral load
+             will also be excluded.
+
+          -  Subject must either have core antibody negative HBV (results can be pending at the
+             time of cell procurement) OR if a subject is hepatitis B core antibody positive they
+             must have their hepatitis B viral load checked. These subjects will be excluded if
+             their viral load is positive at baseline. Subjects who are core antibody positive and
+             viral load negative at baseline will be considered eligible.
+
+          -  Known additional malignancy that is active and/or progressive requiring treatment;
+             exceptions include basal cell or squamous cell skin cancer, in situ cervical or
+             bladder cancer, or other cancer for which the subject has been disease-free for at
+             least five years.
+
+        Eligibility criteria to be met prior to procurement:
+
+          -  Subjects must sign a consent to undergo cell procurement.
+
+          -  Life expectancy ≥ 12 weeks.
+
+          -  Evidence of adequate organ function as defined by:
+
+        The following is required within 7 days prior to procurement:
+
+          -  Bilirubin ≤1.5 times the upper limit of normal (ULN). Subjects with Gilbert's syndrome
+             may be enrolled despite a total bilirubin level &gt;1.5 mg/dL if their conjugated
+             bilirubin is &lt;1.5× ULN)
+
+          -  AST ≤ 3 times ULN
+
+          -  Creatinine Clearance (CrCl) &gt;30mL/min per Cockcroft and Gault (See Section 12.3)
+
+          -  Pulse oximetry of &gt;90% on room air
+
+               -  Left ventricular ejection fraction (LVEF) ≥35% as measured by ECHO, with no
+                  additional evidence of decompensated heart failure.
+
+               -  Imaging results from within 90 days prior to procurement to assess presence of
+                  active disease.
+
+               -  Negative serum pregnancy test within 72 hours prior to procurement or
+                  documentation that the subject is post-menopausal. Post-menopausal status must be
+                  confirmed with documentation of absence of menses for &gt;1 year, or documentation
+                  of surgical menopause involving bilateral oophorectomy.
+
+        Eligibility criteria to be met prior to lymphodepletion:
+
+          -  Written informed consent to enroll in the CAR T-cell therapy trial must be obtained
+             prior to lymphodepletion.
+
+          -  Imaging results from within 7 days prior to lymphodepletion. Imaging must occur at
+             least 3 weeks after most recent therapy (used as baseline measure for documentation of
+             progression before the lymphodepletion) to document measurable or assessable disease.
+             Imaging does not need to be repeated if it is within 7 days prior to lymphodepletion.
+
+          -  Evidence of adequate organ function as defined by:
+
+        The following are required within 72 hours prior to lymphodepletion:
+
+          -  Adequate bone marrow function (ANC ≥1.0 x 109/L and platelets ≥75 x 109/L). Subjects
+             cannot have received platelet transfusion within 7 days of lymphodepletion.
+
+          -  Bilirubin ≤1.5 times the upper limit of normal (ULN). Subjects with Gilbert's syndrome
+             may be enrolled despite a total bilirubin level &gt;1.5 mg/dL if their conjugated
+             bilirubin is &lt;1.5× ULN)
+
+          -  AST ≤ 3 times ULN
+
+          -  Creatinine Clearance (CrCl) &gt;30mL/min per Cockcroft and Gault
+
+          -  Pulse oximetry of &gt; 90% on room air
+
+               -  Negative serum pregnancy test within 72 hours prior to lymphodepletion or
+                  documentation that the subject is post-menopausal. Post-menopausal status must be
+                  confirmed with documentation of absence of menses for &gt; 1 year, or documentation
+                  of surgical menopause involving bilateral oophorectomy.
+
+               -  Subjects that have received therapy with murine antibodies must have
+                  documentation of absence of human anti-mouse antibodies (HAMA) prior to
+                  lymphodepletion.
+
+               -  Available autologous transduced activated T cells product meets the certificate
+                  of analysis.
+
+               -  Has not received any investigational agents or received any tumor vaccines within
+                  the previous six weeks prior to lymphodepletion.
+
+               -  Subject is not taking a prohibited or contraindicated medication prior to
+                  lymphodepletion. Contraindicated medications should be discontinued at least two
+                  weeks prior to the scheduled lymphodepletion or by at least 5 half-lives of the
+                  contraindicated medication, whichever is shorter.
+
+               -  Subject is not taking strong inhibitors of CYP1A2 (e.g., fluvoxamine,
+                  ciprofloxacin) as these may increase plasma concentrations of bendamustine, and
+                  decrease plasma concentrations of its metabolites. See
+                  http://medicine.iupui.edu/clinpharm/ddis/ for an updated list of strong
+                  inhibitors of CYP1A2. (This applies to subjects who receive bendamustine for
+                  lymphodepletion (required) up through 72 hours after the last dose of
+                  bendamustine).
+
+               -  Subject has not received chemotherapy within the previous 3 weeks prior to
+                  lymphodepletion.
+
+        Eligibility criteria to be met prior to cell infusion after lymphodepletion:
+
+          -  No evidence of uncontrolled infection or sepsis.
+
+          -  Negative serum pregnancy within 7 days of cell infusion (does not need to be repeated
+             if pre-lymphodepletion pregnancy test is within window).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Natalie Grover, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UNC Lineberger Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Catherine Cheng</last_name>
+    <phone>919-445-4208</phone>
+    <email>catherine_cheng@med.unc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Spencer Laing</last_name>
+    <phone>919-962-8618</phone>
+    <email>ssblaing@email.unc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Lineberger Comprehensive Cancer Center at University of North Carolina - Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Catherine Cheng</last_name>
+      <phone>919-445-4208</phone>
+      <email>catherine_cheng@med.unc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Spencer Laing</last_name>
+      <phone>919-962-8618</phone>
+      <email>ssblaing@email.unc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Grover Natalie, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://unclineberger.org/patientcare/clinical-trials</url>
+    <description>University of North Carolina Lineberger Comprehensive Cancer Center Clinical Trials</description>
+  </link>
+  <verification_date>October 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>October 3, 2018</study_first_submitted>
+  <study_first_submitted_qc>October 3, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 5, 2018</study_first_posted>
+  <last_update_submitted>October 3, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 3, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CAR T cells</keyword>
+  <keyword>CD19</keyword>
+  <keyword>Lymphoma</keyword>
+  <keyword>AP1903</keyword>
+  <keyword>Cytokine Release Syndrome</keyword>
+  <keyword>Neurotoxicity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Immune System Diseases</mesh_term>
+    <mesh_term>Lymphatic Diseases</mesh_term>
+    <mesh_term>Immunoproliferative Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fludarabine</mesh_term>
+    <mesh_term>Fludarabine phosphate</mesh_term>
+    <mesh_term>Bendamustine Hydrochloride</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

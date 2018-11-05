@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="15">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03670888</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JHL-CLIN-1101-02</org_study_id>
+    <nct_id>NCT03670888</nct_id>
+  </id_info>
+  <brief_title>A Study to Compare the Bioequivalence and Safety of JHL1101 and Rituximab in CD20 Positive B Cell Lymphoma Patients</brief_title>
+  <official_title>&quot;A Multicenter, Randomized, Double-blind, Parallel-controlled Trial to Compare the Bioequivalence and Safety of the Recombinant Human-Mouse Chimeric Anti-CD20 Monoclonal Antibody Injection (JHL1101) and Rituximab Injection in CD20 Positive B Cell Lymphoma Patients&quot;</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>JHL Biotech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>JHL Biotech, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, randomized, double-blind, parallel group study to compare the PK,
+      safety, tolerability, immunogenicity and PD of JHL1101 vs Rituxan in subjects with
+      CD20-positive B cell lymphoma. The study duration is 13 weeks. Approximately 128 eligible
+      subjects will be randomized in a 1:1 ratio to receive either JHL1101 (n=64) or Rituxan
+      (n=64). Each subject will receive one intravenous (IV) infusions of the investigational
+      product (IP) at the dose of 375mg/m2 on Day 1. Assessments of PK, safety, tolerability,
+      immunogenicity, PD, and efficacy will be collected over the following 13-week period.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 30, 2018</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AUC0~t</measure>
+    <time_frame>91 days</time_frame>
+    <description>Area under the concentration-time curve (AUC) from time 0 (predose) of the first infusion on Day 1 to the last quantifiable concentration</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AUC0-∞</measure>
+    <time_frame>91 days</time_frame>
+    <description>AUC from time 0 of the first infusion on Day 1 extrapolated to infinity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax</measure>
+    <time_frame>91 days</time_frame>
+    <description>Maximum concentration after infusion</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">128</enrollment>
+  <condition>B Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>JHL1101</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose IV infusion of 375 mg/m2 of JHL1101</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Rituxan</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Single dose IV infusion of 375 mg/m2 of Rituximab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>JHL1101</intervention_name>
+    <description>100 mg/10 mL solution in a single-use vial</description>
+    <arm_group_label>JHL1101</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>100 mg/10 mL solution in a single-use vial</description>
+    <arm_group_label>Rituxan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. CD20-positive B-cell lymphoma.
+
+          2. Obtained CR (complete remission) or CRu (uncertain complete remission) after the prior
+             therapy
+
+          3. 18 years to 75 years
+
+          4. Signed an informed consent
+
+          5. Adequate organ function, including the following
+
+               -  Absolute neutrophil count (ANC) ≥ 1,500/uL; platelet count ≥ 75,000/uL;
+                  hemoglobin ≥ 8 g/dL
+
+               -  Total bilirubin ≤ 1.5 times the upper limit of normal (ULN), aspartate
+                  transaminase (AST) and/or alanine aminotransferase (ALT) ≤ 2.5 times ULN
+
+               -  Serum creatinine ≤ 1.5 times the ULN
+
+          6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1
+
+          7. Chemotherapy: must not have received within 8 weeks of entry onto this study
+
+          8. Radiotherapy: must not have received within 4 weeks of entry onto this study
+
+          9. Recovery (to baseline or to Grade 1 or less) from prior treatment-related toxicities
+             except alopecia
+
+         10. Aagreement to practice contraception
+
+         11. More than 6 months life expectancy.
+
+        Exclusion Criteria:
+
+          1. Received any investigational drug within 28 days prior to study enrollment
+
+          2. Received blood transfusion or any therapies with erythropoietin (EPO),
+             granulocyte-stimulating factor (G-CSF) or granulocyte-macrophage colony-stimulating
+             factor (GM-CSF) within 14 days prior to study enrollment
+
+          3. Received previous immunotherapy
+
+          4. Received or plan to receive a live vaccine within 28 days of study enrollment
+
+          5. Major surgery within 28 days of study enrollment
+
+          6. Received systemic steroid therapy with 28 days of study enrollment
+
+          7. Received or plan to receive the hematopoietic cell transplant
+
+          8. History of gastrointestinal perforation and/or fistula within 6 months prior to study
+             enrollment
+
+          9. Known allergic reactions against monoclonal antibody or rituximab.
+
+         10. Received rituximab or other anti-CD20 monoclonal antibody
+
+         11. Blood concentration of rituximab &gt; 10 ug/mL during screen visit
+
+         12. Human immunodeficiency virus (HIV) positive
+
+         13. Hepatitis C virus (HCV) antigen and antibody positive
+
+         14. Hepatitis B virus surface antigen (HBsAg) positive
+
+         15. Body Mass Index (MBI) ≥ 28 kg/m2
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lu-Gui Qiu, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Institute of Hematology and Blood Diseases Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rong Chen, MD</last_name>
+    <phone>+86-27-8787 9208</phone>
+    <email>ZrChen@jhlbiotech.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>First Hospital of Shanxi Medical University</name>
+      <address>
+        <city>Taiyuan</city>
+        <state>Shanxi</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Weihua Zhang, MD</last_name>
+      <email>zwhlzh@126.com</email>
+    </contact>
+    <investigator>
+      <last_name>Weihua Zhang, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Hematology and Blood Diseases Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lu-Gui Qiu, MD</last_name>
+      <phone>+86-22-23909095</phone>
+      <email>drqiu99@medmail.com.cn</email>
+    </contact>
+    <investigator>
+      <last_name>Lu-Gui Qiu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>September 12, 2018</study_first_submitted>
+  <study_first_submitted_qc>September 12, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 14, 2018</study_first_posted>
+  <last_update_submitted>September 12, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 12, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 14, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rituximab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

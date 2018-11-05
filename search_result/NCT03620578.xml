@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="666">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03620578</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HOVON 152 DLBCL</org_study_id>
+    <secondary_id>2017-003631-12</secondary_id>
+    <nct_id>NCT03620578</nct_id>
+  </id_info>
+  <brief_title>DA-EPOCH-R Induction Followed by Nivolumab Consolidation in Newly Diagnosed MYC, BCL2 and/or BCL6 Rearranged HGBL</brief_title>
+  <acronym>HO152</acronym>
+  <official_title>A Phase II Study Evaluating the Effect of DA-EPOCH-R Induction Followed by Nivolumab Consolidation in Patients With Newly Diagnosed High Grade B Cell Lymphoma (HGBL) With MYC and BCL2 and/or BCL6 Rearrangements</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stichting Hemato-Oncologie voor Volwassenen Nederland</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stichting Hemato-Oncologie voor Volwassenen Nederland</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The prognosis of patients with &quot;high-grade B cell lymphoma with cellular myelocytomatosis
+      (MYC) and B cell lymphoma 2 (BCL2) and/or B cell lymphoma 6 (BCL6) rearrangements&quot; (double
+      hit (DH)/triple hit (TH)-HGBL) with rituximab-CHOP (R-CHOP) is dismal as compared to patients
+      with diffuse large B cell lymphoma (DLBCL) without MYC, BCL2 and/or BCL6 rearrangements.
+      Currently, there is no other standard first line treatment for these patients. Dose Adjusted
+      - Etoposide Prednisone Vincristine Cyclophosphamide Doxorubicin - Rituximab (DA-EPOCH-R) and
+      nivolumab are both feasible treatments. Nivolumab may induce auto-immune reactions.
+      DA-EPOCH-R may induce more hematological toxicity than R-CHOP. The hypothesis is that
+      addition of nivolumab to DA-EPOCH-R will contribute to increased survival.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The dismal prognosis of DH-DLBCL patients following standard therapy with R-CHOP (overall
+      survival at 2 years 35% for MYC+ vs 61% for MYC- patients) justifies upfront new treatment
+      approaches.
+
+      Attempts have been made to improve prognosis of DH-DLBCL patients with intensified
+      chemotherapy schemes like DA-EPOCH-R, standard treatment of Burkitt lymphoma with high dose
+      multi-agent chemotherapy (R-CODOX-M/R-IVAC) and autologous stem cell transplantation. These
+      treatment schedules seem to prolong disease-free survival (DFS), but relapses do often occur
+      and improved OS has not been achieved. The investigators hypothesize to increase the number
+      of patients in complete remission with DA-EPOCH-R to 65% as compared to 50% for R-CHOP.
+      DA-EPOCH-R is a well-known scheme for the treatment of patients with Burkitt Lymphoma, and is
+      one of the treatment arms of the Hemato-Oncologie voor Volwassenen Nederland (HOVON) 127
+      protocol. For DH-DLBCL patients the investigators expect that it will improve the complete
+      remission (CR) rate and prolong DFS as compared to R-CHOP as has been shown in several
+      retrospective studies. It is also clear from these studies that relapses still occur and that
+      OS is not improved by chemotherapy only.
+
+      The investigators expect to induce deeper remission with DA-EPOCH-R providing the opportunity
+      for nivolumab to consolidate complete remission, prolong DFS, or to induce conversion of
+      minimal residual disease (MRD) positivity to MRD negativity.
+
+      A new approach underlying this proposal is to enhance anti-tumor immune responses.
+      Malignancies with MYC aberrations were long thought to be independent of immune responses.
+      However, recently it was shown that MYC expressing lymphoma and leukaemia mouse and human
+      cell lines upregulate programmed death-ligand 1 (PDL1) (&quot;don't find me&quot; signal) and CD47
+      (&quot;don't eat me&quot; signal) expression. Inactivation of MYC enhanced tumour immune responses in
+      vivo in mice. Moreover, a subset of DLBCL does express PDL1.
+
+      No correlation with MYC rearrangements or protein expression has been described in these
+      studies; however, these data suggest that tumours with MYC overexpression may be especially
+      vulnerable to treatment with immune check point inhibitors, providing the rationale for
+      treatment with nivolumab.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2018</start_date>
+  <completion_date type="Anticipated">August 2026</completion_date>
+  <primary_completion_date type="Anticipated">August 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>The trial is designed as a prospective, multicenter, non-randomized phase II trial. All eligible patients will be registered during or after first R-CHOP, but before start of DA-EPOCH-R treatment and before start of nivolumab treatment.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>12 months DFS from Nivolumab consolidation registration</measure>
+    <time_frame>12 months</time_frame>
+    <description>12 months DFS (defined as time from registration for consolidation to disease relapse or death, whichever comes first) of patients in CMR as assessed by end of DA-EPOCH-R treatment 18F-Fludeoxyglucose Positron Emission Tomography- Computed Tomography (18F-FDG PET-CT)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Complete metabolic response (CMR) rate on 18F-FDG PET-CT after DA-EPOCH-R</measure>
+    <time_frame>at 18 weeks</time_frame>
+    <description>CMR rate on 18F-FDG PET-CT after DA-EPOCH-R</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>18 months Progression-Free Survival (PFS)</measure>
+    <time_frame>18 months</time_frame>
+    <description>18 months PFS (defined as time from registration to disease progression, relapse or death, whichever comes first)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>18 months OS</measure>
+    <time_frame>18 months</time_frame>
+    <description>18 months OS (defined as time from registration until death from any cause; patients still alive or lost to follow up are censored at the date they were last known to be alive) of all patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>12 months OSc</measure>
+    <time_frame>12 months</time_frame>
+    <description>12 months overall survival under consolidation (OSc), defined as time from registration for consolidation until death from any cause. Patients still alive or lost to follow up are censored at the date they were last known to be alive</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of CTCAE grade &gt;=2 toxicities</measure>
+    <time_frame>During 70 weeks treatment + 100 additional days during follow up</time_frame>
+    <description>Rate of CTCAE grade &gt;=2 toxicities</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>consolidation MRD conversion</measure>
+    <time_frame>12 months</time_frame>
+    <description>Rate of conversion to MRD negativity during consolidation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>predictive value of mid-treatment 18F-FDG PET-CT</measure>
+    <time_frame>2 months</time_frame>
+    <description>Assessment of the predictive value of mid-treatment 18F-FDG PET-CT with respect to CMR at the end of DA-EPOCH-R therapy</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">102</enrollment>
+  <condition>Non Hodgkin Lymphoma</condition>
+  <condition>Lymphoma, B-Cell</condition>
+  <condition>High-grade B-cell Lymphoma</condition>
+  <condition>MYC Translocation</condition>
+  <condition>BCL-2 Translocation</condition>
+  <arm_group>
+    <arm_group_label>DA-EPOCH-R followed by Nivolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5 cycles of DA-EPOCH-R protocol induction, followed with one year Nivolumab consolidation for end-of-induction patients who are in complete metabolic response</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DA-EPOCH-R followed by Nivolumab</intervention_name>
+    <description>5 induction cycles of DA-EPOCH-R protocol, for patient with Deauville imaging response criteria proven complete metabolic response followed with one year Nivolumab consolidation therapy</description>
+    <arm_group_label>DA-EPOCH-R followed by Nivolumab</arm_group_label>
+    <other_name>Opdivo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Inclusion Criteria for DA-EPOCH-R induction:
+
+          -  High-grade B-cell lymphoma, with MYC in combination with BCL2 and/or BCL6
+             rearrangements as assessed by fluorescence in situ hybridization (FISH) according to
+             the WHO 2016 classification.
+
+          -  Age ≥ 18 year.
+
+          -  Patient started with or has received one course of full dose R-CHOP. [Reversed R-CHOP
+             (cyclophosphamide, vincristine and doxorubicin on day 5) is allowed; local radiation
+             or short course (max 7 days) of steroids (max 100 mg/day) before R-CHOP is allowed.
+             Mini-R-CHOP is not allowed].
+
+          -  World Health Organization (WHO) performance status 0-3 during or after the first
+             R-CHOP cycle.
+
+          -  Ann Arbor stage II-IV at diagnosis.
+
+          -  18F-FDG PET scan and contrast enhanced CT-scan performed within 21 days before start
+             first cycle of R-CHOP.
+
+          -  Measurable disease: on contrast enhanced CT-scan at least 1 lesion/node with a long
+             axis of &gt;1.5 cm and at least one 18F-FDG avid lesion.
+
+          -  Negative pregnancy test at study entry.
+
+          -  Patient is willing and able to use adequate contraception until 6 months post last
+             treatment administration.
+
+          -  Written informed consent.
+
+          -  Patient is capable of giving informed consent.
+
+        Inclusion criteria for Nivolumab consolidation:
+
+          -  Complete metabolic response on end of induction 18F-FDG PET-CT assessed with the
+             Deauville response criteria
+
+          -  Patient has completed at least R-CHOP plus four cycles of DA-EPOCH-R induction
+             treatment
+
+        Exclusion Criteria:
+
+        Exclusion Criteria for DA-EPOCH-R induction:
+
+          -  All histopathological diagnoses other than DH/TH-HGBL (like testicular large B-cell
+             lymphoma or primary mediastinal B-cell lymphoma) according to WHO 2016 classification.
+
+          -  Known history of indolent lymphoma with the exception of localization of an indolent
+             lymphoma component in the bone marrow detected during pre-treatment screening
+             procedures.
+
+          -  Inadequate renal function or creatinine clearance &lt; 30 mL/min (after rehydration).
+             Creatinine clearance (CrCl) may be calculated by Cockcroft -Gault formula: CrCl = (140
+             - age [in years]) x weight [kg] (x 0.85 for females) (0.815 x serum creatinine
+             [μmol/L])
+
+          -  Inadequate hepatic function: bilirubin &gt; 3 times upper limit of normal (ULN) (total)
+             except patients with Gilbert's syndrome as defined by &gt; 80% unconjugated bilirubin.
+
+          -  Inadequate hematological function: absolute neutrophil count (ANC) &lt; 1.0x109/L or
+             platelets &lt; 75x109 /L before R-CHOP unless lymphoma related.
+
+          -  Central nervous system (CNS) localization of the lymphoma. Cerebrospinal fluid (CSF)
+             analysis before start of treatment is only necessary in case of suspicion of CNS
+             localization.
+
+          -  Female subject pregnant or breast-feeding.
+
+          -  History of active malignancy during the past 5 years with the exception of basal
+             carcinoma of the skin or stage 0 cervical carcinoma.
+
+          -  Active symptomatic ischemic heart disease, myocardial infarction, or congestive heart
+             failure within the past year. In case of cardiac history, an echo or multigated
+             acquisition (MUGA) should be obtained and left ventricular ejection fraction (LVEF)
+             should exceed 40% to be eligible.
+
+          -  Concurrent severe and/or uncontrolled medical condition (e.g. uncontrolled diabetes,
+             infection, hypertension, cancer, etc.) that would jeopardize the patient's ability to
+             receive the regimen with reasonable safety.
+
+          -  HIV positivity.
+
+          -  Active Hepatitis B or C infection as defined by positive serology and transaminitis.
+             Non-active Hepatitis B carriers may be included if protected
+
+          -  Severe pulmonary dysfunction (CTCAE grade III-IV).
+
+          -  Subjects with active, known or suspected autoimmune disease. Subjects with vitiligo,
+             type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only
+             requiring hormone replacement, psoriasis not requiring systemic treatment, or
+             conditions not expected to recur in the absence of an external trigger are permitted
+             to enroll.
+
+          -  Subjects with a condition requiring systemic treatment with either corticosteroids (&gt;
+             10 mg daily prednisone equivalents) or other immunosuppressive medications within 14
+             days of study drug administration. Inhaled or topical steroids, and adrenal
+             replacement doses &gt; 10 mg daily prednisone equivalents are permitted in the absence of
+             active autoimmune disease.
+
+          -  Prior treatment with an anti-PD1, anti-PDL1, anti-PDL2, or anti-CTLA-4 antibody, or
+             any other antibody or drug specifically targeting T-cell costimulation or immune
+             checkpoint pathways.
+
+          -  Severe neurological or psychiatric disease.
+
+          -  Current participation in another clinical trial interfering with this trial.
+
+          -  Any psychological, familial, sociological and geographical condition potentially
+             hampering compliance with the study protocol and follow-up schedule.
+
+          -  Claustrophobia precluding PET-CT.
+
+        Exclusion criteria for Nivolumab consolidation:
+
+          -  Inadequate renal function or creatinine clearance &lt; 30 mL/min (after rehydration).
+             Creatinine clearance may be calculated by Cockcroft -Gault formula: CrCl = (140 - age
+             [in years]) x weight [kg] (x 0.85 for females) (0.815 x serum creatinine [μmol/L])
+
+          -  Inadequate hepatic function: bilirubin &gt; 3 times ULN (total) except patients with
+             Gilbert's syndrome as defined by &gt; 80% unconjugated bilirubin.
+
+          -  Subjects with active, known or suspected autoimmune disease. Subjects with vitiligo,
+             type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only
+             requiring hormone replacement, psoriasis not requiring systemic treatment, or
+             conditions not expected to recur in the absence of an external trigger are permitted
+             to enroll.
+
+          -  Subjects with a condition requiring systemic treatment with either corticosteroids (&gt;
+             10 mg daily prednisone equivalents) or other immunosuppressive medications within 14
+             days of study drug administration. Inhaled or topical steroids, and adrenal
+             replacement doses &gt; 10 mg daily prednisone equivalents are permitted in the absence of
+             active autoimmune disease.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>M. ED Chamuleau, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>VUmc / HOVON</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>M. ED Chamuleau, MD PhD</last_name>
+    <phone>(0)20 4442604</phone>
+    <phone_ext>+31</phone_ext>
+    <email>m.chamuleau@vumc.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>M.J. Kersen, prof MD</last_name>
+    <phone>(0)20 5665785</phone>
+    <phone_ext>+31</phone_ext>
+    <email>m.j.kersten@amc.uva.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>ZNA</name>
+      <address>
+        <city>Antwerp</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>K.L. Wu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>V. Vibeke</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Flevoziekenhuis</name>
+      <address>
+        <city>Almere</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>K de Heer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Meander MC</name>
+      <address>
+        <city>Amersfoort</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>R. Fijnheer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AMC</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>M.J. Kersten</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VUmc</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>M.E.D. Chamuleau</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Jeroen Bosch Ziekenhuis</name>
+      <address>
+        <city>Den Bosch</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>D. Issa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>HagaZiekenhuis</name>
+      <address>
+        <city>Den Haag</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>L.H. Böhmer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Maxima MC</name>
+      <address>
+        <city>Eindhoven</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>L. Nieuwenhuizen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MST</name>
+      <address>
+        <city>Enschede</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>T.J.F. Snijders</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ADRZ</name>
+      <address>
+        <city>Goes</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>M.Y. Bilgin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UMCG</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>M. Nijland</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Spaarne Gasthuis</name>
+      <address>
+        <city>Hoofddorp</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>A. Beeker</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Westfries Gasthuis</name>
+      <address>
+        <city>Hoorn</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>T. van Maanen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MC Leeuwarden</name>
+      <address>
+        <city>Leeuwarden</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>R. van Rijn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>LUMC</name>
+      <address>
+        <city>Leiden</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>J. vermaat</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MUMC</name>
+      <address>
+        <city>Maastricht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>M. van der Poel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Radboud UMC</name>
+      <address>
+        <city>Nijmegen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>W.B.C. Stevens</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Erasmus MC</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>P.J. Luchtenburg</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Maasstadziekenhuis</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Y. Sandberg</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Zuyderland MC</name>
+      <address>
+        <city>Sittard</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>R.J.W. van Kampen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sint Elisabeth Ziekenhuis</name>
+      <address>
+        <city>Tilburg</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>M. Durian</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UMCU</name>
+      <address>
+        <city>Utrecht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>R. Mous</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Isala Klinieken</name>
+      <address>
+        <city>Zwolle</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>O. Visser</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Netherlands</country>
+  </location_countries>
+  <link>
+    <url>http://www.hovon.nl</url>
+    <description>Website of the HOVON organisation</description>
+  </link>
+  <verification_date>August 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>July 26, 2018</study_first_submitted>
+  <study_first_submitted_qc>August 3, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 8, 2018</study_first_posted>
+  <last_update_submitted>August 10, 2018</last_update_submitted>
+  <last_update_submitted_qc>August 10, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 14, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>DLBCL</keyword>
+  <keyword>HGBL</keyword>
+  <keyword>BCL-2</keyword>
+  <keyword>BCL-6</keyword>
+  <keyword>double-hit</keyword>
+  <keyword>triple-hit</keyword>
+  <keyword>R-CHOP</keyword>
+  <keyword>DA-EPOCH-R</keyword>
+  <keyword>Nivolumab</keyword>
+  <keyword>PD1/PDL1 expression</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nivolumab</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

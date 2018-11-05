@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="270">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03671018</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GO40516</org_study_id>
+    <secondary_id>2018-001141-13</secondary_id>
+    <nct_id>NCT03671018</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety and Efficacy of Mosunetuzumab (BTCT4465A) in Combination With Polatuzumab Vedotin in B-Cell Non-Hodgkin Lymphoma</brief_title>
+  <official_title>An Open-Label, Randomized, Multicenter, Phase Ib/II Trial Evaluating the Safety, Tolerability, Pharmacokinetics, and Efficacy of Mosunetuzumab (BTCT4465A) in Combination With Polatuzumab Vedotin in Patients With B-Cell Non-Hodgkin Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the safety, tolerability, pharmacokinetics, and efficacy of
+      mosunetuzumab in combination with polatuzumab vedotin in participants with B-cell non-Hodgkin
+      lymphoma (NHL). It will consist of a dose finding portion and two randomized cohorts for
+      participants with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) or follicular
+      lymphoma (FL).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 25, 2018</start_date>
+  <completion_date type="Anticipated">September 28, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Complete Response (CR) Rate Based on Positron Emission Tomography-Computed Tomography (PET-CT), as Assessed Using Standard Criteria for non-Hodgkin Lymphoma (NHL)</measure>
+    <time_frame>Approximately 6 months after Cycle 1, Day 1 (C1D1)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose (MTD) of Mosunetuzumab in Combination with Polatuzumab Vedotin</measure>
+    <time_frame>Cycle 1 to Cycle 2 (cycle length = 21 days)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recommended Phase II Dose of Mosunetuzumab in Combination with Ploatuzumab Vedotin</measure>
+    <time_frame>Cycle 1 to Cycle 2 (cycle length = 21 days)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants with Adverse Events (AE)</measure>
+    <time_frame>Baseline through approximately 90 days after last study treatment</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CR Rate Based on PET-CT, as Assessed Using Standard Criteria for NHL</measure>
+    <time_frame>Approximately 6 months after C1D1</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CR Rate Based on CT Only, as Assessed Using Standard Criteria for NHL</measure>
+    <time_frame>Baseline up to approximately 60 months (assessed at screening and then every 3 months for the first year, then every 6 months until disease progression, start of new anti-cancer therapy, or withdrawal)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR), Defined as CR or PR, Based on PET-CT as Assessed Using Standard Criteria for NHL</measure>
+    <time_frame>Approximately 6 months after C1D1</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best ORR (CR or PR at any Time) Based on PET-CT or CT Only, as Assessed Using Standard Criteria for NHL</measure>
+    <time_frame>Baseline up to approximately 60 months (assessed at screening and then every 3 months for the first year, then every 6 months until disease progression, start of new anti-cancer therapy, or withdrawal)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR) as Assessed Using Standard Criteria for NHL</measure>
+    <time_frame>From the first occurrence of a documented response to disease progression, relapse, or death from any cause, whichever occurs first (up to approximately 60 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS) as Assessed Using Standard Criteria for NHL</measure>
+    <time_frame>From randomization to the first occurrence of disease progression, relapse, or death from any cause, whichever occurs first (up to approximately 60 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event-Free Survival (EFS) as Assessed Using Standard Criteria for NHL</measure>
+    <time_frame>From randomization to the first occurrence of disease progression, relapse, initiation of new anti-lymphoma treatment (NALT), or death from any cause, whichever occurs first (up to approximately 60 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>From randomization to death from any cause (up to approximately 60 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Deterioration in Health Related Quality of Life</measure>
+    <time_frame>Baseline until disease progression, start of new anti-cancer therapy, or withdrawal (up to approximately 60 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-Drug Antibodies (ADAs) to Mosunetuzumab</measure>
+    <time_frame>At pre-defined intervals from C1D1 through approximately 90 days after the last study treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ADAs to Polatuzumab Vedotin</measure>
+    <time_frame>At pre-defined intervals from C1D1 through approximately 90 days after the last study treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mosunetuzumab Serum Concentration</measure>
+    <time_frame>At pre-defined intervals from C1D1 through approximately 90 days after the last study treatment</time_frame>
+  </secondary_outcome>
+  <number_of_arms>7</number_of_arms>
+  <enrollment type="Anticipated">276</enrollment>
+  <condition>B-cell Non-Hodgkin Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Dose Finding</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive mosunetuzumab in combination with polatuzumab vedotin. Dose finding will be guided by the observed incidence of dose-limiting toxicities (DLTs) at each dose level.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bendamustine + Rituximab + Polatuzumab Vedotin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants with DLBCL randomized to this arm will receive bendamustine + rituxumab + polatuzumab vedotin.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Rituxumab-Chemotherapy/Bendamustine + Obinutuzumab</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants with FL randomized to this arm will receive investigator's choice of either rituximab + cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP), rituximab + cyclophosphamide, vincristine, and prednisone (R-CVP), or obinutuzumab + bendamustine followed by obinutuzumab maintenance.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mosunetuzumab FL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with FL randomized to this arm will receive mosunetuzumab at the recommended Phase II dose (RP2D) as a single-agent.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mosunetuzumab DLBCL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with DLBCL randomized to this arm will receive mosunetuzumab at the RP2D as a single agent.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mosunetuzumab + Polatuzumab Vedotin FL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with FL randomized to this arm will receive mosunetuzumab at the RP2D in combination with polatuzumab vedotin.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mosunetuzumab + Polatuzumab Vedotin DLBCL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with DLBCL randomized to this arm will receive mosunetuzumab at the RP2D in combination with polatuzumab vedotin.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Mosunetuzumab</intervention_name>
+    <description>Participants will receive intravenous (IV) mosunetuzumab.</description>
+    <arm_group_label>Dose Finding</arm_group_label>
+    <arm_group_label>Mosunetuzumab FL</arm_group_label>
+    <arm_group_label>Mosunetuzumab DLBCL</arm_group_label>
+    <arm_group_label>Mosunetuzumab + Polatuzumab Vedotin FL</arm_group_label>
+    <arm_group_label>Mosunetuzumab + Polatuzumab Vedotin DLBCL</arm_group_label>
+    <other_name>BTCT4465A</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Polatuzumab vedotin</intervention_name>
+    <description>Participants will receive IV polatuzumab vedotin.</description>
+    <arm_group_label>Dose Finding</arm_group_label>
+    <arm_group_label>Bendamustine + Rituximab + Polatuzumab Vedotin</arm_group_label>
+    <arm_group_label>Mosunetuzumab + Polatuzumab Vedotin FL</arm_group_label>
+    <arm_group_label>Mosunetuzumab + Polatuzumab Vedotin DLBCL</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>Participants will receive IV rituxumab.</description>
+    <arm_group_label>Bendamustine + Rituximab + Polatuzumab Vedotin</arm_group_label>
+    <arm_group_label>Rituxumab-Chemotherapy/Bendamustine + Obinutuzumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bendamustine</intervention_name>
+    <description>Participants will receive IV bendamustine.</description>
+    <arm_group_label>Bendamustine + Rituximab + Polatuzumab Vedotin</arm_group_label>
+    <arm_group_label>Rituxumab-Chemotherapy/Bendamustine + Obinutuzumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Obinutuzumab</intervention_name>
+    <description>Participants will receive IV obinutuzumab.</description>
+    <arm_group_label>Rituxumab-Chemotherapy/Bendamustine + Obinutuzumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Participants will receive IV cyclophosphamide.</description>
+    <arm_group_label>Rituxumab-Chemotherapy/Bendamustine + Obinutuzumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxorubicin</intervention_name>
+    <description>Participants will receive IV doxorubicin.</description>
+    <arm_group_label>Rituxumab-Chemotherapy/Bendamustine + Obinutuzumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vincristine</intervention_name>
+    <description>Participants will receive IV vincristine.</description>
+    <arm_group_label>Rituxumab-Chemotherapy/Bendamustine + Obinutuzumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prednisone</intervention_name>
+    <description>Participants will receive oral prednisone.</description>
+    <arm_group_label>Rituxumab-Chemotherapy/Bendamustine + Obinutuzumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tocilizumab</intervention_name>
+    <description>Participants will receive IV tocilizumab as needed.</description>
+    <arm_group_label>Dose Finding</arm_group_label>
+    <arm_group_label>Mosunetuzumab FL</arm_group_label>
+    <arm_group_label>Mosunetuzumab DLBCL</arm_group_label>
+    <arm_group_label>Mosunetuzumab + Polatuzumab Vedotin FL</arm_group_label>
+    <arm_group_label>Mosunetuzumab + Polatuzumab Vedotin DLBCL</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:
+
+          -  ECOG PS of 0, 1, or 2
+
+          -  Histologically confirmed FL or DLBCL
+
+          -  Must have received at least one prior systemic treatment regimen containing an
+             anti-CD20−directed therapy for DLBCL or FL
+
+          -  Relapsed to prior regimen(s) after having a documented history of response (complete
+             response [CR], CR unconfirmed [CRu], or partial response [PR]) of &gt;/= 6 months in
+             duration from completion of regimen(s); or, refractory to any prior regimen, defined
+             as no response to the prior therapy, or progression within 6 months of completion of
+             the last dose of therapy
+
+          -  Measurable disease, defined as at least one bi-dimensionally measurable nodal lesion,
+             defined as &gt; 1.5 cm in its longest dimension, or at least one bi-dimensionally
+             measurable extranodal lesion, defined as &gt; 1.0 cm in its longest dimension
+
+          -  Adequate hematologic, renal, and hepatic function
+
+        Key Exclusion Criteria:
+
+          -  Prior treatment with mosunetuzumab or other CD20-directed bispecific antibodies
+
+          -  Prior treatment with polatuzumab vedotin
+
+          -  Current &gt; Grade 1 peripheral neuropathy
+
+          -  Prior use of any monoclonal antibody, radioimmunoconjugate or antibody-drug conjugate
+             (ADC) within 4 weeks before first dose of study treatment
+
+          -  Treatment with any chemotherapeutic agent, or treatment with any other anti-cancer
+             agent (investigational or otherwise) within 4 weeks or 5 half-lives of the drug,
+             whichever is shorter, prior to first dose of study treatment
+
+          -  Treatment with radiotherapy within 2 weeks prior to the first dose of study treatment
+
+          -  Autologous stem-cell transplantation (SCT) within 100 days prior to first study
+             treatment administration
+
+          -  Prior treatment with chimeric antigen receptor T-cell (CAR-T) therapy within 30 days
+             before first study treatment administration
+
+          -  Prior allogeneic SCT
+
+          -  Prior solid organ transplantation
+
+          -  Patients with history of confirmed progressive multifocal leukoencephalopathy (PML)
+
+          -  Current or past history of central nervous system (CNS) lymphoma or CNS disease
+
+          -  History of autoimmune disease
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Reference Study ID Number: GO40516 www.roche.com/about_roche/roche_worldwide.htm</last_name>
+    <phone>888-662-6728 (U.S. and Canada)</phone>
+    <email>global.rochegenentechtrials@roche.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>City of Hope</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>September 10, 2018</study_first_submitted>
+  <study_first_submitted_qc>September 12, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 14, 2018</study_first_posted>
+  <last_update_submitted>October 24, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 24, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Bendamustine Hydrochloride</mesh_term>
+    <mesh_term>Liposomal doxorubicin</mesh_term>
+    <mesh_term>Obinutuzumab</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Immunoconjugates</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

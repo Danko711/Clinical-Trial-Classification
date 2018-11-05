@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="648">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03570892</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCTL019H2301</org_study_id>
+    <secondary_id>2016-002966-29</secondary_id>
+    <nct_id>NCT03570892</nct_id>
+  </id_info>
+  <brief_title>Tisagenlecleucel in Adult Patients With Aggressive B-cell Non-Hodgkin Lymphoma</brief_title>
+  <acronym>BELINDA</acronym>
+  <official_title>Tisagenlecleucel Versus Standard of Care in Adult Patients With Relapsed or Refractory Aggressive B-cell Non-Hodgkin Lymphoma: A Randomized, Open Label, Phase III Trial (BELINDA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, open label, multicenter phase III trial comparing the efficacy, safety,
+      and tolerability of tisagenlecleucel to Standard Of Care in adult patients with aggressive
+      B-cell Non-Hodgkin Lymphoma after failure of rituximab and anthracycline containing frontline
+      immunochemotherapy.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 8, 2019</start_date>
+  <completion_date type="Anticipated">May 26, 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 26, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, Open-Label</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Event-free survival (EFS)</measure>
+    <time_frame>5 years</time_frame>
+    <description>Event-free survival (EFS) is defined as the time from the date of randomization to the date of the first documented disease progression or stable disease at or after the week 12 assessment, as assessed by Blinded Independent Review Committee (BIRC) per Lugano criteria, or death due to any cause, at any time.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>EFS as assessed by local investigator</measure>
+    <time_frame>5 years</time_frame>
+    <description>EFS as assessed by local investigator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>5 years</time_frame>
+    <description>Overall survival (OS) is defined as the time from date of randomization to date of death due to any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>5 years</time_frame>
+    <description>Overall Response Rate (ORR) as per the Lugano criteria as per BIRC review and local investigator assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR)</measure>
+    <time_frame>5 years</time_frame>
+    <description>Duration of response: time from the date of first documented response of CR or PR to the date of first documented progression (SD or PD at or after the week 12 (±1w) assessment will be considered progression) or death due to aggressive B-cell NHL. DOR will be summarized by BIRC and local response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SF-36v2</measure>
+    <time_frame>5 years</time_frame>
+    <description>Time to definitive deterioration in SF-36v2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FACT-Lym</measure>
+    <time_frame>5 years</time_frame>
+    <description>Time to definitive deterioration in FACT-Lym</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EQ-VAS</measure>
+    <time_frame>5 years</time_frame>
+    <description>Time to definitive deterioration in EQ-VAS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tisagenlecleucel transgene concentrations</measure>
+    <time_frame>5 years</time_frame>
+    <description>qPCR will be used to measure tisagenlecleucel transgene concentrations in peripheral blood and bone marrow</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tisagenlecleucel immunogenicity (humoral and cellular)</measure>
+    <time_frame>5 years</time_frame>
+    <description>Pre-existing and treatment related immunogenicity (humoral and cellular) of tisagenlecleucel will be characterized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of replication competent lentivirus (RCL)</measure>
+    <time_frame>5 years</time_frame>
+    <description>The presence of RCL will be assessed by VSV-qPCR in patients receiving tisagenlecleucel</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">318</enrollment>
+  <condition>Non-Hodgkin Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Tisagenlecleucel treatment strategy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive investigator's choice of optional platinum-based immunochemotherapy followed by lymphodepleting chemotherapy and a single dose of tisagenlecleucel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care treatment strategy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive investigator's choice of platinum-based immunochemotherapy followed in responding patients by high dose chemotherapy and autologous hematopoietic stem cell transplant (HSCT). Patients who do not respond to initial immunochemotherapy may switch to a different regimen or to lenalidomide or ibrutinib</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tisagenlecleucel after optional bridging and lymphodepleting chemotherapy</intervention_name>
+    <description>Tisagenlecleucel (a second generation CAR-T composed of a CD19 antigen-binding domain, a 4-1BB costimulatory domain and a CD3-ζ signaling domain) + Investigator's choice of optional platinum-based immunochemotherapy (ie. R-ICE, R-GemOx, R-GDP, R-DHAP) + Lymphodepleting chemotherapy (fludarabine with cyclophosphamide or bendamustine)</description>
+    <arm_group_label>Tisagenlecleucel treatment strategy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Platinum-based immunochemotherapy followed in responding patients with high dose chemotherapy and HSCT</intervention_name>
+    <description>Investigator's choice of platinum-based immunochemotherapy (ie. R-ICE, R-GemOx, R-GDP, R-DHAP)+ High dose chemotherapy (ie. BEAM) + autologous hematopoietic stem cell transplant (HSCT).
+*Ibrutinib or lenalidomide may be used in non-responders</description>
+    <arm_group_label>Standard of care treatment strategy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Histologically confirmed, aggressive B-cell NHL at relapse/progression after front
+             line therapy. Aggressive B-cell NHL is heretofore defined by the following list of
+             subtypes (Swerdlow et al 2016):
+
+               1. DLBCL, NOS,
+
+               2. FL grade 3B,
+
+               3. Primary mediastinal B cell lymphoma (PMBCL),
+
+               4. T cell rich/histiocyte rich large B cell lymphoma (T/HRBCL),
+
+               5. DLBCL associated with chronic inflammation,
+
+               6. Intravascular large B-cell lymphoma,
+
+               7. ALK+ large B-cell lymphoma,
+
+               8. B-cell lymphoma, unclassifiable, (with features intermediate between DLBCL and
+                  classical Hodgkin's Lymphoma (HL)),
+
+               9. High grade B-cell lymphoma with MYC and BCL2 and/or BCL6 rearrangements,
+
+              10. High-grade B-cell lymphoma, NOS
+
+              11. HHV8+ DLBCL, NOS
+
+              12. DLBCL transforming from follicular lymphoma
+
+              13. DLBCL transforming from marginal zone lymphoma
+
+              14. DLBCL, leg type
+
+          2. Relapse or progression within 365 days from last dose of rituximab and anthracycline
+             containing first line immunochemotherapy or refractory (have not achieved a CR or PR).
+
+          3. Patient is considered eligible for autologous stem cell transplant (ASCT) as per local
+             investigator assessment. Note: Intention to transplant and type of high dose
+             chemotherapy (HDCT) regimen will be documented at the time of study entry
+
+          4. Measurable disease:
+
+               1. Nodal lesions &gt;15 mm in the long axis, regardless of the length of the short
+                  axis, and/or
+
+               2. Extranodal lesions (outside lymph node or nodal mass, but including liver and
+                  spleen) &gt;10 mm in long AND short axis
+
+          5. Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1
+
+          6. Adequate organ function:
+
+             Renal function defined as:
+
+               1. Serum creatinine of ≤1.5 x upper limit of normal (ULN), OR estimated glomerular
+                  filtration rate (eGFR) ≥ 60 mL/min/1.73 m2
+
+                  Hepatic function defined as:
+
+               2. Alanine Transaminase (ALT) and Aspartate Transiminase (AST) ≤ 5 × ULN
+
+               3. Bilirubin ≤2.0 mg/dL with the exception of patients with Gilbert syndrome who may
+                  be included if their total bilirubin is ≤3.0 × ULN and direct bilirubin ≤1.5 ×
+                  ULN
+
+                  Hematologic Function (regardless of transfusions) defined as:
+
+               4. Absolute neutrophil count (ANC) &gt;1000/mm3
+
+               5. Absolute lymphocyte count (ALC) &gt;300/mm3 and absolute number of CD3+ T cells
+                  &gt;150/mm3
+
+               6. Platelets ≥50000/mm3
+
+               7. Hemoglobin &gt;8.0 g/dl
+
+                  Adequate pulmonary function defined as:
+
+               8. No or mild dyspnea (≤ Grade 1) I. Oxygen saturation measured by pulse oximetry &gt;
+                  91% on room air
+
+             j. Forced expiratory volume in 1 s (FEV1) &lt;50% and/or carbon monoxide diffusion test
+             (DLCO) &lt;50% of predicted level
+
+          7. Must have a leukapheresis material of non-mobilized cells available for manufacturing.
+
+        Exclusion Criteria:
+
+          1. Prior treatment with anti-CD19 therapy or any prior gene therapy product
+
+          2. Patients with active central nervous system (CNS) involvement are excluded, except if
+             the CNS involvement has been effectively treated (i.e. patient is asymptomatic) and
+             local treatment was &gt;4 weeks before randomization
+
+          3. Prior allogeneic HSCT
+
+          4. Uncontrolled acute life threatening infection
+
+          5. Any of the following cardiovascular conditions:
+
+               -  Unstable angina, myocardial infarction, coronary artery bypass graft (CABG), or
+                  stroke within 6 months prior to screening,
+
+               -  Left ventricle ejection fraction (LVEF) &lt;45% as determined by echocardiogram
+                  (ECHO) or magnetic resonance angiography (MRA) or multigated acquisition (MUGA)
+                  within the past 12 months including the screening assessment.
+
+               -  New York Heart Association (NYHA) functional class III or IV (Chavey et al 2001),
+                  within the past 12 months.
+
+               -  Clinically significant cardiac arrhythmias (e.g., ventricular tachycardia),
+                  complete left bundle branch block, high-grade atrioventricular (AV) block (e.g.,
+                  bifascicular block, Mobitz type II) and third degree AV block unless adequately
+                  controlled by pacemaker implantation.
+
+               -  Resting QTcF ≥450 msec (male) or ≥460 msec (female) at screening or inability to
+                  determine the QTcF interval
+
+               -  Risk factors for Torsades de Point (TdP), including uncorrected hypokalemia or
+                  hypomagnesemia, history of cardiac failure, or history of clinically significant/
+                  symptomatic bradycardia, or any of the following:
+
+               -  Long QT syndrome, family history of idiopathic sudden death or congenital long QT
+                  syndrome
+
+               -  Concomitant medication(s) with a &quot;Known Risk of Torsades de Point&quot; per
+                  www.qtdrugs.org that cannot be discontinued or replaced by safe alternative
+                  medication.
+
+          6. Patients with active neurological autoimmune or inflammatory disorders (e.g.,
+             Guillain-Barré Syndrome (GBS), Amyotrophic Lateral Sclerosis (ALS))
+
+        Other protocol-defined inclusion and exclusion criteria may apply.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>1-888-669-6682</phone>
+    <email>novartis.email@novartis.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>+41613241111</phone>
+  </overall_contact_backup>
+  <verification_date>October 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>June 18, 2018</study_first_submitted>
+  <study_first_submitted_qc>June 18, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 27, 2018</study_first_posted>
+  <last_update_submitted>October 25, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 25, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Non-Hodgkin's Lympoma</keyword>
+  <keyword>B-Cell Lymphoma</keyword>
+  <keyword>Diffuse Large B-cell Lymphoma</keyword>
+  <keyword>High Grade B-cell Lymphoma</keyword>
+  <keyword>Follicular Lymphoma grade 3B</keyword>
+  <keyword>CAR-T</keyword>
+  <keyword>Tisagenlecleucel</keyword>
+  <keyword>Kymriah</keyword>
+  <keyword>Immunotherapy</keyword>
+  <keyword>Cellular therapy</keyword>
+  <keyword>CTL019</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Novartis is committed to sharing with qualified external researchers, access to patient-level data and supporting clinical documents from eligible studies. These requests are reviewed and approved by an independent expert panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations.
+This trial data is currently available according to the process described on www.clinicalstudydatarequest.com.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

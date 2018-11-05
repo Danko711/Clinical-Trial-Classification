@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1001">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03680586</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2018-0392</org_study_id>
+    <secondary_id>NCI-2018-01948</secondary_id>
+    <secondary_id>2018-0392</secondary_id>
+    <secondary_id>P30CA016672</secondary_id>
+    <nct_id>NCT03680586</nct_id>
+  </id_info>
+  <brief_title>Low-Dose Radiation Therapy in Treating Patients With Stage I-IV Stomach MALT Lymphoma</brief_title>
+  <official_title>Ultra Low Dose 4 Gy Radiation for Definitive Therapy of Gastric MALT Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial studies how well low-dose radiation therapy works in treating patients with stage
+      I-IV stomach mucosa-associated lymphoid tissue (MALT) lymphoma. Radiation therapy uses high
+      energy x-rays to kill tumor cells and shrink tumors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To evaluate the efficacy of ultra-low dose 4 Gy gastric radiation, measured as complete
+      gastric response at one year after 4 Gy treatment in patients with marginal zone lymphoma
+      involving the stomach mucosa-associated lymphoid tissue (MALT).
+
+      SECONDARY OBJECTIVES:
+
+      I. To evaluate distant recurrence of marginal zone lymphoma at one year. II. To evaluate
+      toxicity associated with gastric radiation therapy.
+
+      EXPLORATORY OBJECTIVES:
+
+      I. To determine if microbiome assessment can predict response to ultra-low dose radiation
+      therapy and evaluate the differences in patient microbiome for patients who respond well and
+      poorly to low dose radiation.
+
+      II. To determine if micro-ribonucleic acid (RNA) assessment can predict response to ultra-low
+      dose radiation therapy and evaluate the differences in patient microRNA profiles for patients
+      who respond well and poorly to low dose radiation III. To explore the role of magnetic
+      resonance imaging (MRI) for staging gastric MALT lymphoma and for predicting response to
+      ultra-low dose radiation therapy.
+
+      OUTLINE:
+
+      Patients undergo low-dose radiation therapy over 2 fractions for 2 consecutive days in the
+      absence of disease progression or unacceptable toxicity. Patients with stable or progressive
+      disease at 12-16 weeks post-treatment, or persistent disease at 1 year may undergo
+      higher-dose radiation therapy at the discretion of treating physician.
+
+      After completion of study treatment, patients are followed up every 3 months for up to 1
+      year.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 31, 2019</start_date>
+  <completion_date type="Anticipated">May 8, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 8, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Complete gastric response</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>The complete response rate at one year will be estimated along with 95% confidence intervals.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Distant recurrence defined as disease progression outside of the stomach that was not present initially</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Distant recurrence rate at one year will be estimated along with 95% confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of acute gastrointestinal toxicity graded according to Common Terminology Criteria for Adverse Events (CTCAE) version (v.) 4.03</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Toxicity data will be summarized by frequency tables.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of chronic gastrointestinal toxicity graded according to CTCAE v. 4.03</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Toxicity data will be summarized by frequency tables.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to local gastric event</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Will be estimated using the Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to distant event</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Will be estimated using the Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor response</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>The tumor responses will be summarized stratified by systemic treatments.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Gastric Mucosa-Associated Lymphoid Tissue Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (low-dose radiation therapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo low-dose radiation therapy over 2 fractions for 2 consecutive days in the absence of disease progression or unacceptable toxicity. Patients with stable or progressive disease at 12-16 weeks post-treatment, or persistent disease at 1 year may undergo higher-dose radiation therapy at the discretion of treating physician.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiation Therapy</intervention_name>
+    <description>Undergo ultra low-dose radiation</description>
+    <arm_group_label>Treatment (low-dose radiation therapy)</arm_group_label>
+    <other_name>Cancer Radiotherapy</other_name>
+    <other_name>Irradiate</other_name>
+    <other_name>Irradiated</other_name>
+    <other_name>irradiation</other_name>
+    <other_name>Radiation</other_name>
+    <other_name>Radiotherapeutics</other_name>
+    <other_name>RADIOTHERAPY</other_name>
+    <other_name>RT</other_name>
+    <other_name>Therapy, Radiation</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients 18 years or older with stage I-IV MALT lymphoma involving the stomach. Other
+             low grade lymphomas including follicular grade I/II and chronic lymphocytic
+             leukemia/small lymphocytic lymphoma (CLL/SLL) are ineligible
+
+          -  Patients must have biopsy-proven disease within the stomach. Patients with clinical
+             and/or radiographic masses will have dimensions noted prior to therapy
+
+          -  Patients must have H. pylori testing which is negative prior to treatment
+
+          -  Patients must undergo colonoscopy prior to treatment to confirm the absence of
+             additional disease within the gastrointestinal tract
+
+          -  Female patients of childbearing potential must have a negative serum pregnancy test
+             (human chorionic gonadotropin [hCG]) within 2 weeks of protocol entry
+
+          -  Planned systemic therapy prior to, during, or after gastric radiation therapy is
+             permitted however the timing of systemic therapy will be recorded and patients will be
+             stratified according to receipt of systemic therapy
+
+          -  Patients must have the ability to give informed consent
+
+          -  Necessary treatment with antibiotics for reasons unrelated to gastric lymphoma is
+             permitted however the timing and nature of the treatment will be recorded
+
+        Exclusion Criteria:
+
+          -  Patients with aggressive B cell lymphoma histology, including diffuse large B cell
+             lymphoma (DLBCL) and grade 3 follicular lymphoma
+
+          -  Patients with other histologic subtypes of low grade lymphoma (other than MALT)
+             including chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) or
+             follicular lymphoma
+
+          -  Patients with bulky tumors &gt; 10 cm in any dimension
+
+          -  Patients with a history of prior radiation to the stomach if re-treatment would exceed
+             known gastric or surrounding critical structure (e.g., bowel, spinal cord) tolerance
+
+          -  Patients who are pregnant
+
+          -  Patients with scleroderma are ineligible
+
+          -  Patients with compromised renal function or contrast allergies that prevent staging
+             with contrast-enhanced computed tomography (CT)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jillian Gunther</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jillian Gunther</last_name>
+    <phone>713-563-2300</phone>
+    <email>jgunther@mdanderson.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jillian Gunther</last_name>
+      <phone>713-563-2300</phone>
+    </contact>
+    <investigator>
+      <last_name>Jillian Gunther</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>MD Anderson Cancer Center Website</description>
+  </link>
+  <verification_date>September 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>September 20, 2018</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 21, 2018</study_first_posted>
+  <last_update_submitted>September 20, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 20, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 21, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell, Marginal Zone</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

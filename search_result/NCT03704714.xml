@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="736">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03704714</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NU 17H08</org_study_id>
+    <secondary_id>STU00207793</secondary_id>
+    <secondary_id>NU 17H08</secondary_id>
+    <secondary_id>P30CA060553</secondary_id>
+    <secondary_id>NCI-2018-01666</secondary_id>
+    <nct_id>NCT03704714</nct_id>
+  </id_info>
+  <brief_title>Nivolumab and Combination Chemotherapy in Treating Participants With Diffuse Large B-Cell Lymphoma</brief_title>
+  <official_title>Phase I/II Study to Evaluate the Safety and Efficacy of Nivolumab in Combination With R-CHOP in a Cohort of Patients With DLBCL/tFL/ High Grade B-NHL</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bristol-Myers Squibb (BMS)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I/II trial studies the side effects and best dose of nivolumab and how well it
+      works when giving together with combination chemotherapy in treating participants with
+      diffuse large B-cell lymphoma. Monoclonal antibodies, such as nivolumab, interfere with the
+      ability of cancer cells to grow and spread. Drugs used in chemotherapy, work in different
+      ways to stop the growth of cancer cells, either by killing the cells, by stopping them from
+      dividing, or by stopping them from spreading. Giving nivolumab and combination chemotherapy
+      may work better in treating participants with diffuse large B-cell lymphoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To identify the maximum tolerated dose (MTD) for the combination treatment of nivolumab
+      and rituximab, cyclophosphamide, doxorubicin hydrochloride (doxorubicin), vincristine sulfate
+      (vincristine), and prednisone (R-CHOP) in patients with diffuse large B-cell lymphoma
+      (DLBCL). (Phase I) II. To assess the impact of nivolumab + R-CHOP on response by looking at
+      complete response (CR) rates. (Phase II)
+
+      SECONDARY OBJECTIVES:
+
+      I. To look at preliminary efficacy as measured by overall response rate for combination
+      nivolumab + R-CHOP.
+
+      II. To assess the impact of nivolumab + R-CHOP on survival outcomes, specifically
+      progression-free survival (PFS), overall survival (OS) and event-free-survival (EFS).
+
+      III. To assess toxicity and tolerability of patients treated with nivolumab + R-CHOP.
+
+      IV. To assess quality of life in patients treated with nivolumab + R-CHOP.
+
+      EXPLORATORY OBJECTIVES:
+
+      I. To explore the impact of the PD-1:PD-L1 regulatory axis and targeting this axis on the
+      immune microenvironment.
+
+      II. To identify the process of cachexia as a potential mechanism of resistance to anti-PD-1
+      therapy.
+
+      OUTLINE: This is a phase I, dose-escalation study of nivolumab followed by a phase II study.
+
+      Participants receive nivolumab intravenously (IV) over 30 minutes on day 1. Participants also
+      receive rituximab IV on day 2, cyclophosphamide IV on day 2, doxorubicin hydrochloride IV
+      over 3-5 hours on day 2, vincristine sulfate IV over 30 minutes on day 2, and prednisone
+      orally (PO) on days 2-6 of course 1 and rituximab IV on day 1, cyclophosphamide IV on day 1,
+      doxorubicin hydrochloride IV over 3-5 hours on day 1, vincristine sulfate IV over 30 minutes
+      on day 1, and prednisone PO on days 1-5 of courses 2-6. Treatment repeats every 21 days for
+      up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, participants are followed for up to 18 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 8, 2018</start_date>
+  <completion_date type="Anticipated">June 11, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 11, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum tolerated dose (MTD) for the combination treatment of nivolumab and R-CHOP</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <description>To identify the MTD for the combination treatment of nivolumab and R-CHOP in patients with DLBCL, this will be established during Phase I using a modified 3+3 dose escalation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>At 18 months</time_frame>
+    <description>To assess the impact of nivolumab + R-CHOP on PFS at 18 months: This will be the proportion of patient that will be alive and progression free at 18 months.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (ORR)</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <description>Will be defined as the percentage of subjects with a confirmed complete response (CR) or partial response (PR) as assessed by the investigators using Lugano criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS) rate</measure>
+    <time_frame>At 18 months</time_frame>
+    <description>OS rate at 18 months: OS will be measured from the date of enrollment to the date of death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event-free survival (EFS)</measure>
+    <time_frame>At 18 months</time_frame>
+    <description>EFS rate at 18 months: EFS will be measured from the date of enrollment to the date of first documented disease progression, relapse, discontinuation of therapy for any reason, initiation of new anti-lymphoma therapy or death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rates as defined by the RECIL and LYRIC criteria</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <description>RECIL and LYRIC criteria will be evaluated using scans at baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frailty/Geriatric Assessments</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <description>Frailty will be assessed using the Geriatric Assessment Tool as developed by the Cancer and Aging Group and the Fried Frailty Index.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Events</measure>
+    <time_frame>Up to 42 days after treatment discontinuation</time_frame>
+    <description>Toxicity Assessment: Toxicity will be graded using the CTCAE v5.0 and the pro- CTCAE (patient reported symptoms).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life Assessment</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <description>Quality of life with treatment will be measured using Patient Reported Outcomes Measurement Information System (PROMIS) based measures and the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ C-30).</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Aggressive Non-Hodgkin Lymphoma</condition>
+  <condition>B-Cell Non-Hodgkin Lymphoma</condition>
+  <condition>CD20 Positive</condition>
+  <condition>Diffuse Large B-Cell Lymphoma Unclassifiable</condition>
+  <condition>Intravascular Large B-Cell Lymphoma</condition>
+  <condition>Primary Mediastinal (Thymic) Large B-Cell Lymphoma</condition>
+  <condition>T-Cell/Histiocyte-Rich Large B-Cell Lymphoma</condition>
+  <condition>Transformed Follicular Lymphoma to Diffuse Large B-Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (nivolumab and R-CHOP)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive nivolumab IV over 30 minutes on day 1. Participants also rituximab IV on day 2, cyclophosphamide IV on day 2, doxorubicin hydrochloride IV over 3-5 hours on day 2, vincristine sulfate IV over 30 minutes on day 2, and prednisone PO on days 2-6 of course 1 and rituximab IV on day 1, cyclophosphamide IV on day 1, doxorubicin hydrochloride IV over 3-5 hours on day 1, vincristine sulfate IV over 30 minutes on day 1, and prednisone PO on days 1-5 of courses 2-6. Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (nivolumab and R-CHOP)</arm_group_label>
+    <other_name>(-)-Cyclophosphamide</other_name>
+    <other_name>2H-1,3,2-Oxazaphosphorine, 2-[bis(2-chloroethyl)amino]tetrahydro-, 2-oxide, monohydrate</other_name>
+    <other_name>Carloxan</other_name>
+    <other_name>Ciclofosfamida</other_name>
+    <other_name>Ciclofosfamide</other_name>
+    <other_name>Cicloxal</other_name>
+    <other_name>Clafen</other_name>
+    <other_name>Claphene</other_name>
+    <other_name>CP monohydrate</other_name>
+    <other_name>CTX</other_name>
+    <other_name>CYCLO-cell</other_name>
+    <other_name>Cycloblastin</other_name>
+    <other_name>Cycloblastine</other_name>
+    <other_name>Cyclophospham</other_name>
+    <other_name>Cyclophosphamid monohydrate</other_name>
+    <other_name>Cyclophosphamidum</other_name>
+    <other_name>Cyclophosphan</other_name>
+    <other_name>Cyclophosphane</other_name>
+    <other_name>Cyclophosphanum</other_name>
+    <other_name>Cyclostin</other_name>
+    <other_name>Cyclostine</other_name>
+    <other_name>Cytophosphan</other_name>
+    <other_name>Cytophosphane</other_name>
+    <other_name>Cytoxan</other_name>
+    <other_name>Fosfaseron</other_name>
+    <other_name>Genoxal</other_name>
+    <other_name>Genuxal</other_name>
+    <other_name>Ledoxina</other_name>
+    <other_name>Mitoxan</other_name>
+    <other_name>Neosar</other_name>
+    <other_name>Revimmune</other_name>
+    <other_name>Syklofosfamid</other_name>
+    <other_name>WR- 138719</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxorubicin Hydrochloride</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (nivolumab and R-CHOP)</arm_group_label>
+    <other_name>5,12-Naphthacenedione, 10-[(3-amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranosyl)oxy]-7,8, 9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-, hydrochloride, (8S-cis)- (9CI)</other_name>
+    <other_name>ADM</other_name>
+    <other_name>Adriacin</other_name>
+    <other_name>Adriamycin</other_name>
+    <other_name>Adriamycin Hydrochloride</other_name>
+    <other_name>Adriamycin PFS</other_name>
+    <other_name>Adriamycin RDF</other_name>
+    <other_name>ADRIAMYCIN, HYDROCHLORIDE</other_name>
+    <other_name>Adriamycine</other_name>
+    <other_name>Adriblastina</other_name>
+    <other_name>Adriblastine</other_name>
+    <other_name>Adrimedac</other_name>
+    <other_name>Chloridrato de Doxorrubicina</other_name>
+    <other_name>DOX</other_name>
+    <other_name>DOXO-CELL</other_name>
+    <other_name>Doxolem</other_name>
+    <other_name>Doxorubicin.HCl</other_name>
+    <other_name>Doxorubin</other_name>
+    <other_name>Farmiblastina</other_name>
+    <other_name>FI 106</other_name>
+    <other_name>FI-106</other_name>
+    <other_name>hydroxydaunorubicin</other_name>
+    <other_name>Rubex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (nivolumab and R-CHOP)</arm_group_label>
+    <other_name>BMS-936558</other_name>
+    <other_name>MDX-1106</other_name>
+    <other_name>NIVO</other_name>
+    <other_name>ONO-4538</other_name>
+    <other_name>Opdivo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prednisone</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (nivolumab and R-CHOP)</arm_group_label>
+    <other_name>.delta.1-Cortisone</other_name>
+    <other_name>1, 2-Dehydrocortisone</other_name>
+    <other_name>Adasone</other_name>
+    <other_name>Cortancyl</other_name>
+    <other_name>Dacortin</other_name>
+    <other_name>DeCortin</other_name>
+    <other_name>Decortisyl</other_name>
+    <other_name>Decorton</other_name>
+    <other_name>Delta 1-Cortisone</other_name>
+    <other_name>Delta-Dome</other_name>
+    <other_name>Deltacortene</other_name>
+    <other_name>Deltacortisone</other_name>
+    <other_name>Deltadehydrocortisone</other_name>
+    <other_name>Deltasone</other_name>
+    <other_name>Deltison</other_name>
+    <other_name>Deltra</other_name>
+    <other_name>Econosone</other_name>
+    <other_name>Lisacort</other_name>
+    <other_name>Meprosona-F</other_name>
+    <other_name>Metacortandracin</other_name>
+    <other_name>Meticorten</other_name>
+    <other_name>Ofisolona</other_name>
+    <other_name>Orasone</other_name>
+    <other_name>Panafcort</other_name>
+    <other_name>Panasol-S</other_name>
+    <other_name>Paracort</other_name>
+    <other_name>PRED</other_name>
+    <other_name>Predicor</other_name>
+    <other_name>Predicorten</other_name>
+    <other_name>Prednicen-M</other_name>
+    <other_name>Prednicort</other_name>
+    <other_name>Prednidib</other_name>
+    <other_name>Prednilonga</other_name>
+    <other_name>Predniment</other_name>
+    <other_name>Prednisonum</other_name>
+    <other_name>Prednitone</other_name>
+    <other_name>Promifen</other_name>
+    <other_name>Servisone</other_name>
+    <other_name>SK-Prednisone</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Quality-of-Life Assessment</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Treatment (nivolumab and R-CHOP)</arm_group_label>
+    <other_name>Quality of Life Assessment</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (nivolumab and R-CHOP)</arm_group_label>
+    <other_name>ABP 798</other_name>
+    <other_name>BI 695500</other_name>
+    <other_name>C2B8 Monoclonal Antibody</other_name>
+    <other_name>Chimeric Anti-CD20 Antibody</other_name>
+    <other_name>CT-P10</other_name>
+    <other_name>IDEC-102</other_name>
+    <other_name>IDEC-C2B8</other_name>
+    <other_name>IDEC-C2B8 Monoclonal Antibody</other_name>
+    <other_name>MabThera</other_name>
+    <other_name>Monoclonal Antibody IDEC-C2B8</other_name>
+    <other_name>PF-05280586</other_name>
+    <other_name>Rituxan</other_name>
+    <other_name>Rituximab Biosimilar ABP 798</other_name>
+    <other_name>Rituximab Biosimilar BI 695500</other_name>
+    <other_name>Rituximab Biosimilar CT-P10</other_name>
+    <other_name>Rituximab Biosimilar GB241</other_name>
+    <other_name>Rituximab Biosimilar IBI301</other_name>
+    <other_name>Rituximab Biosimilar PF-05280586</other_name>
+    <other_name>Rituximab Biosimilar RTXM83</other_name>
+    <other_name>Rituximab Biosimilar SAIT101</other_name>
+    <other_name>RTXM83</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vincristine Sulfate</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (nivolumab and R-CHOP)</arm_group_label>
+    <other_name>Kyocristine</other_name>
+    <other_name>Leurocristine sulfate</other_name>
+    <other_name>Leurocristine, sulfate</other_name>
+    <other_name>Oncovin</other_name>
+    <other_name>Vincasar</other_name>
+    <other_name>Vincosid</other_name>
+    <other_name>Vincrex</other_name>
+    <other_name>Vincristine, sulfate</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient must have a confirmed diagnosis of:
+
+               -  De novo DLBCL including the clinical subtypes of primary mediastinal, -
+                  cell/histiocyte-rich large B-cell lymphoma and intravascular DLBCL OR
+
+               -  De novo transformed DLBCL from follicular lymphoma (FL) OR
+
+               -  Any high grade CD20+ B-cell lymphoma per World Health Organization (WHO) 2016 OR
+
+               -  CD20+ aggressive B-cell lymphoma unclassifiable.
+
+          -  Patient must be deemed an appropriate candidate for R-CHOP therapy.
+
+          -  Patients must be naive to prior therapy for the study diagnosis.
+
+          -  Patient must have advanced stage III/IV early stage disease where provider determines
+             single modality therapy with chemo-immunotherapy is most appropriate (i.e radiation
+             deferred).
+
+          -  Patient must have measurable disease (defined as &gt;= 1.5 cm in diameter) with
+             correlated fludeoxyglucose F-18 (FDG)-avidity on positron emission tomography (PET)
+             scan with Deauville score of 4 or 5 at time of diagnosis.
+
+          -  Patient must have Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 2.
+
+          -  Absolute neutrophil count (ANC) &gt;= 1000/mm^3, independent of growth factor support or
+             &gt;= 500/mm^3 in cases of ongoing bone marrow involvement (in either case, these must be
+             independent of transfusion support) documented =&lt; 28 days prior to registration.
+
+          -  Platelets &gt;= 100,000/mm^3, or &gt;= 50,000 in cases of ongoing bone marrow involvement
+             (In either case, these must be independent of transfusion support) documented =&lt; 28
+             days prior to registration.
+
+          -  Total bilirubin =&lt; 1.5 x upper limit of normal (ULN) documented =&lt; 28 days prior to
+             registration.
+
+          -  Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])
+             /alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SPGT]) =&lt; 3 x
+             ULN documented =&lt; 28 days prior to registration.
+
+          -  Creatinine clearance &gt;= 25 mL/min documented =&lt; 28 days prior to registration.
+
+          -  Females of child-bearing potential (FOCBP) and men who are sexually active with FOCBP
+             must agree to follow instructions for method(s) of contraception for the duration of
+             treatment and the designated post-treatment period.
+
+               -  NOTE: A FOCBP is any woman (regardless of sexual orientation, having undergone a
+                  tubal ligation, or remaining celibate by choice) who meets the following
+                  criteria:
+
+                    -  Has not undergone a hysterectomy or bilateral oophorectomy.
+
+                    -  Has had menses at any time in the preceding 12 consecutive months (and
+                       therefore has not been naturally postmenopausal for &gt; 12 months).
+
+          -  Females of childbearing potential (FOCBP) must have a negative urine or serum
+             pregnancy test within 7 days prior to registration on study.
+
+          -  Patients must have the ability to understand and willingness to sign a written
+             informed consent prior to registration on study.
+
+        Exclusion Criteria:
+
+          -  Patients who have received prior therapy intended to treat the study diagnosis are not
+             eligible.
+
+          -  Patients who have received prior anti-PD-1/L1 therapy for any indication are not
+             eligible.
+
+          -  Patients who require urgent cytoreductive therapy (e.g. surgery or radiation) are not
+             eligible.
+
+          -  Subjects with known immunodeficiency, known autoimmune disease, or concurrent use of
+             immunomodulatory agents are not eligible.
+
+          -  Patients who have a condition requiring systemic treatment with corticosteroids (&gt; 10
+             mg daily prednisone equivalents) or other immunosuppressive medications =&lt; 14 days
+             prior to registration are not eligible.
+
+               -  NOTE: Inhaled steroids and adrenal replacement steroid doses &gt;10 mg daily
+                  prednisone equivalents are permitted in the absence of active autoimmune disease.
+                  A brief (less than 3 weeks) course of corticosteroids for prophylaxis (eg,
+                  contrast dye allergy) or for treatment of non-autoimmune conditions (eg,
+                  delayed-type hypersensitivity reaction caused by a contact allergen) is
+                  permitted.
+
+          -  Patients with known central nervous system (CNS) involvement are not eligible.
+
+          -  Patients with an active malignancy requiring therapy such as radiation, chemotherapy,
+             or immunotherapy are not eligible.
+
+               -  NOTE: Exceptions to this are as follows: localized non-melanotic skin cancer and
+                  any cancer that in the judgment of the investigator has been treated with
+                  curative intent and will not interfere with the study treatment plan and response
+                  assessment. Prostate and breast cancer patients undergoing hormone therapy with
+                  no currently active disease are eligible.
+
+          -  Patients with known human immunodeficiency virus (HIV) are not eligible.
+
+          -  Patients with clinically active hepatitis A, B, or C infections are not eligible.
+
+               -  NOTE: Patients with a history of hepatitis may be eligible if they have a normal
+                  titer. Such cases should be approved by the study principal investigator (PI).
+
+          -  Patients who have any life-threatening illness, medical condition, or organ system
+             dysfunction which, in the investigator?s opinion, could compromise the subject?s
+             safety or put the study outcomes at risk are not eligible.
+
+          -  Pregnant or nursing females are not eligible.
+
+          -  Patients with uncontrolled intercurrent illness including, but not limited to, any of
+             the following are not eligible:
+
+               -  Ongoing or active systemic infection.
+
+               -  Symptomatic congestive heart failure.
+
+               -  Myocardial infarction within 6 months prior to registration.
+
+               -  Unstable angina pectoris.
+
+               -  Uncontrolled or symptomatic cardiac arrhythmias.
+
+               -  Any class 3 (moderate) or class 4 (severe) cardiac disease as defined by the New
+                  York Heart Association Functional classification.
+
+               -  Psychiatric illness/social situations that would limit compliance with study
+                  requirements.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Reem Karmali, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Coordinator</last_name>
+    <phone>(312)695-1301</phone>
+    <email>cancertrials@northwestern.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Reem Karmali, MD</last_name>
+      <phone>312-695-0990</phone>
+    </contact>
+    <investigator>
+      <last_name>Reem Karmali, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Parameswaran Venugopal</last_name>
+      <phone>312-942-5978</phone>
+      <email>Parameswaran_Venugopal@rush.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Parameswaran Venugopal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>October 10, 2018</study_first_submitted>
+  <study_first_submitted_qc>October 10, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2018</study_first_posted>
+  <last_update_submitted>October 10, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 10, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 15, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Follicular</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Liposomal doxorubicin</mesh_term>
+    <mesh_term>Nivolumab</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Cortisone acetate</mesh_term>
+    <mesh_term>Cortisone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

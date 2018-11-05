@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1359">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03574168</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BT-ALL-001-v2</org_study_id>
+    <secondary_id>ChiCTR1800016541</secondary_id>
+    <nct_id>NCT03574168</nct_id>
+  </id_info>
+  <brief_title>CD19-CAR-T Cells in Patients With R/R B-ALL</brief_title>
+  <official_title>Phase I Study of the Safety and Efficacy of CD19-CAR-T Cells in Patients With Relapsed or Refractory Acute B-cell Lymphoblastic Leukemia (R/R B-ALL)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bioceltech Therapeutics, Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bioceltech Therapeutics, Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single center, single arm, open-lable phase 1 study to determine the safety and
+      efficacy of autologous or donor-derived allogeneic T cells expressing CD19 chimeric antigen
+      receptors (referred to as &quot;CD19-CAR-T cells&quot;) in patients with relapsed or refractory acute
+      B-cell lymphoblastic leukemia (R/R B-ALL).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary objective:
+
+      To investigate the safety and efficacy of autologous or HLA-haploidentical Allo-CD19-CAR-T
+      cells in the treatment of patients with relapsed or refractory acute B-cell lymphoblastic
+      leukemia.
+
+      Secondary objective:
+
+      To Assess the patient's quality of life after receiving the treatment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">July 20, 2018</start_date>
+  <completion_date type="Anticipated">December 31, 2019</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective Response Rate, ORR</measure>
+    <time_frame>Up to Day90 after the CD19-CAR-T cell infusion</time_frame>
+    <description>The percentage of participants who achieved complete remission (CR) over all participants (CRR).
+The percentage of participants who achieved partial remission (PR) over all participants (PRR).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The amount of CAR-T cells remaining in vivo</measure>
+    <time_frame>2 years after cell infusion.</time_frame>
+    <description>Measure and analyze monthly</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The lifetime of CAR-T cells remaining in vivo</measure>
+    <time_frame>2 years after cell infusion.</time_frame>
+    <description>Measure and analyze monthly</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>B-cell Acute Lymphoblastic Leukemia</condition>
+  <arm_group>
+    <arm_group_label>CD19-CAR-T Cells</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive CD19-CAR-T Cells on Day 0 : 100% of total dose.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CD19-CAR-T Cells</intervention_name>
+    <description>T cells purified from the PBMC of subjects or subjects' relatives which depends on their conditions, transduced with 4-1BB/CD3-ζ lentiviral vector, expanded in vitro for future administration.</description>
+    <arm_group_label>CD19-CAR-T Cells</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Obtain Informed Consent Form (ICF) voluntarily signed by the patient;
+
+          2. Age 3-70 years old;
+
+          3. Primary resistant or relapsed B-cell line acute lymphoblastic leukemia;
+
+          4. B cells are positive for CD19 expression;
+
+          5. Peripheral blood tumor cell load &lt;50%; 6. KPS score &gt;50 points;
+
+        7. Normal liver and kidney function; 8. Normal heart function; 9. Good follow-up
+        compliance; 10. Women of childbearing age (15-49 years old) must have a pregnancy test
+        within 7 days before treatment and have a negative result; Men and women with fertility
+        should agree to use effective contraception to ensure that during the study period and
+        following 3 months after treatment the women will not get pregnant.
+
+        Exclusion Criteria:
+
+          1. Patients with non-B cell acute leukemia;
+
+          2. Organ failure: Heart: Grade III and IV Liver: Class C with Child-Turcotte liver
+             function classification Kidney: Renal failure and uremia Lung: severe respiratory
+             failure Brain: Disabilities
+
+          3. Active infection;
+
+          4. Human immunodeficiency virus (HIV) positive;
+
+          5. Acute and chronic graft-versus-host disease (GVHD)&gt; Level 1；
+
+          6. Pregnant or lactating women;
+
+          7. Patients do not agree to use effective contraception during the treatment period and
+             following 3 months;
+
+          8. Patients who participated in other clinical studies at the same time;
+
+          9. The researcher believes that there are other factors that are not suitable for
+             inclusion in or influence the subject's participation in or completion of the study;
+
+         10. Long-term use greater doses of hormones than physiological doses.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peihua Lu, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hebei Yanda Ludaopei Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zhongwei Xu, MD, Phd</last_name>
+    <phone>+86 010-69739722</phone>
+    <email>willyxu001@bioceltech.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hebei Yanda Ludaopei Hospital</name>
+      <address>
+        <city>Langfang</city>
+        <state>Hebei</state>
+        <zip>065000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peihua Lu, MD, PhD</last_name>
+      <phone>18611636172</phone>
+      <email>peihua_lu@126.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>June 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>June 11, 2018</study_first_submitted>
+  <study_first_submitted_qc>June 20, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 29, 2018</study_first_posted>
+  <last_update_submitted>June 20, 2018</last_update_submitted>
+  <last_update_submitted_qc>June 20, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 29, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Burkitt Lymphoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

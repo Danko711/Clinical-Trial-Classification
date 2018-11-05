@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="162">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03569696</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SHEBA-18-4728-MK-CTIL</org_study_id>
+    <nct_id>NCT03569696</nct_id>
+  </id_info>
+  <brief_title>Improving the Outcome of High-risk Aggressive B-cell Lymphoma Patients With Nivolumab Maintenance Therapy</brief_title>
+  <acronym>NivoM</acronym>
+  <official_title>Improving the Outcome of High-risk Aggressive B-cell Lymphoma Patients With Nivolumab Maintenance Therapy. The NivoM Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Meirav Kedmi MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sheba Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is designed as a unicenter, single arm phase II trial. The aim of the trial is to
+      test whether prognosis of high-risk Aggressive B cell Lymphoma (ABCL) patients who are in
+      complete remission (CR) post immunochemotherapy can be improved by 2year nivolumab
+      maintenance therapy. Participants will be recruited from Chaim Sheba Medical Center as well
+      as from other medical centers in Israel through the Israeli lymphoma group. Therapy will be
+      treated in Chaim Sheba Medical Center.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The rationale for prolonged nivolumab therapy in high-risk ABCL patients in CR following 1st
+      line standard therapy is based on the hypothesis that the stimulation of immune system by
+      Programmed cell death protein 1 (PD1) blockade will also facilitate the eradication of
+      minimal residual disease (MRD), that is not apparent by positron emission tomography (PET)
+      imaging, and eventually will prevent relapse and improve survival. The Study will include
+      adult patients, age ≥18, with high risk (IPI≥3) ABCL, in CR according to PETCT, as defined by
+      the Lugano Criteria, following first-line rituximab (R) and anthracycline-containing regimen.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 2018</start_date>
+  <completion_date type="Anticipated">September 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Single Group Assignment All the participating patients will receive 240mg nivolumab every 2 weeks for 8 doses for 4 months, and later 480 mg every 4 weeks for 2 years (cycle 9-30) for a maximum of 30 doses, starting 10±2 weeks after the last cycle of immunochemotherapy.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>disease progression</measure>
+    <time_frame>3 years post diagnosis of aggressive B cell lymphoma.</time_frame>
+    <description>To evaluate the proportion of high-risk ABCL patients with no evidence of disease progression</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Lymphoma, B-Cell</condition>
+  <arm_group>
+    <arm_group_label>Nivolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nivolumab will be administered intravenously every 2 weeks in a dose of 240mg over 30 minutes for 8 cycles and then 480mg every 4 weeks for two years (cycle 9-30)to a maximum of 30 doses whichever comes first.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>nivolumab</intervention_name>
+    <description>The treatment phase will begin 10 ± 2 weeks from completion of R- anthracycline based therapy. Cycle 1 day 1 will occur within 72 hours from enrolment. Study treatment will be continued until nivolumab discontinuation due to disease progression, unacceptable toxicity or completion of 2 years or 30 doses of therapy. Study drug nivolumab will be administered intravenously every 2 weeks as described in the investigator brochure (IB) in a dose of 240mg over 30 minutes 46 for 8 cycles and then 480mg every 4 weeks for two years (cycle 9-30)to a maximum of 30 doses whichever comes first.</description>
+    <arm_group_label>Nivolumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Adult patients age ≥18.
+
+          2. Histologically confirmed DLBCL, primary mediastinal B cell lymphoma or any other
+             aggressive B-cell lymphoma as defined by the World Health Organization (WHO) 2016
+             criteria 4, with IPI of 3 or more post completion R- anthracycline containing regimen
+             for at least 6 cycles and in complete remission according to the Lugano Criteria 45
+             per PETCT.
+
+          3. Hematology laboratory values must be within the following limits:
+
+               1. Absolute neutrophil count (ANC) ≥ 1000/mm3 independent of growth factor support
+
+               2. Platelets ≥100,000/mm3 independent of transfusion support.
+
+          4. Biochemical values within the following limits:
+
+               1. Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 3 x upper
+                  limit of normal (ULN)
+
+               2. Total bilirubin ≤ 1.5 x ULN unless the increase is due to Gilbert's syndrome or
+                  of non- hepatic origin
+
+               3. Serum creatinine ≤ 2 x ULN or estimated Glomerular Filtration Rate
+                  (Cockroft-Gault)
+
+                    -  40 mL/min/1.73m2
+
+          5. Women of childbearing potential and men who are sexually active must be practicing a
+             highly effective method of birth control during and after the study consistent with
+             local regulations regarding the use of birth control methods for subjects
+             participating in clinical trials. Men must agree to not donate sperm during and after
+             the study. For females, these restrictions apply for 1 month after the last dose of
+             study drug. For males, these restrictions apply for 3 months after the last dose of
+             study drug.
+
+          6. Women of childbearing potential must have a negative serum (beta-human chorionic
+             gonadotropin [Beta-hCG]) or urine pregnancy test at screening. Women who are pregnant
+             or breastfeeding are ineligible for this study.
+
+          7. Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1.
+
+          8. Sign (or their legally acceptable representatives must sign) an informed consent
+             document indicating that they understand the purpose of and procedures required for
+             the study, including biomarkers, and are willing to participate in the study.
+
+        Exclusion Criteria:
+
+          1. Patients not in CR, as defined by the Lugano Criteria, after completion of first line
+             R- anthracycline based therapy.
+
+          2. Patients previously treated with any line of therapy for relapsed/refractory disease.
+
+          3. Major surgery within 4 weeks of starting the first nivolumab infusion.
+
+          4. Previous treatment with nivolumab or any other PD-1 or PD-L1/2 inhibitors.
+
+          5. Prior allogeneic stem cell transplantation.
+
+          6. Known central nervous system lymphoma.
+
+          7. Clinically significant cardiovascular disease such as uncontrolled or symptomatic
+             arrhythmias, congestive heart failure, or myocardial infarction within 6 months of
+             Screening, or any Class 3 (moderate) or Class 4 (severe) cardiac disease as defined by
+             the New York Heart Association Functional Classification.
+
+          8. Clinically significant pulmonary disease.
+
+          9. Vaccinated with live, attenuated vaccines within 4 weeks of enrolment.
+
+         10. Known history of human immunodeficiency virus (HIV).
+
+         11. Active Hepatitis C Virus or active Hepatitis B Virus infection or any uncontrolled
+             active systemic infection requiring intravenous (IV) antibiotics. Hepatitis B core
+             antigen (HBC) positive as well as HBs positive, HBcore positive HBs negative patients
+             will not be eligible.
+
+         12. Any life-threatening illness, medical condition, or organ system dysfunction which, in
+             the investigator's opinion, could compromise the subject's safety.
+
+         13. Patients with an active, known or suspected autoimmune disease. Subjects are permitted
+             to enroll if they have vitiligo, type I diabetes mellitus, residual hypothyroidism due
+             to autoimmune condition only requiring hormone replacement, psoriasis not requiring
+             systemic treatment, or conditions not expected to recur in the absence of an external
+             trigger.
+
+         14. There must also be no requirement for immunosuppressive doses of systemic
+             corticosteroids (&gt; 10 mg/day prednisone equivalents) for at least 2 weeks prior to
+             study drug administration.
+
+         15. Diagnosed or treated for a malignancy other than DLBCL, except:
+
+               1. Malignancy treated with curative intent and with no active disease present for 3
+                  years before enrolment
+
+               2. Adequately treated non-melanoma skin cancer or lentigo malignant without evidence
+                  of disease.
+
+               3. Adequately treated carcinoma in situ without evidence of disease.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Meirav Kedmi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sheba Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Aliza Ackerstein, Msc</last_name>
+    <phone>97235308402</phone>
+    <email>Aliza.Ackerstein@sheba.health.gov.il</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sheba medical organization</name>
+      <address>
+        <city>Ramat Gan</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>June 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>June 13, 2018</study_first_submitted>
+  <study_first_submitted_qc>June 23, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 26, 2018</study_first_posted>
+  <last_update_submitted>June 23, 2018</last_update_submitted>
+  <last_update_submitted_qc>June 23, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 26, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Sheba Medical Center</investigator_affiliation>
+    <investigator_full_name>Meirav Kedmi MD</investigator_full_name>
+    <investigator_title>Dr. Meirav Kedmi</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nivolumab</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

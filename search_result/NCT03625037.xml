@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="402">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03625037</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCT3013-01</org_study_id>
+    <nct_id>NCT03625037</nct_id>
+  </id_info>
+  <brief_title>GEN3013 (DuoBody®-CD3xCD20) Safety Trial in Patients With Relapsed, Progressive or Refractory B-Cell Lymphoma</brief_title>
+  <official_title>A Phase 1/2, Open-Label, Dose-Escalation Trial of GEN3013 in Patients With Relapsed, Progressive or Refractory B-Cell Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Genmab</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Genmab</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the trial is to determine the maximum tolerated dose and the recommended phase
+      2 dose as well as to establish the safety profile of GEN3013 (DuoBody®-CD3xCD20) in patients
+      with Relapsed, Progressive or Refractory B-Cell Lymphoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The trial is an open-label, multi-center safety trial of GEN3013 (DuoBody®-CD3xCD20). The
+      trial consists of two parts: a dose escalation part (phase 1, first-in-human (FIH) and an
+      expansion part phase 2a). The expansion part of the trial will be initiated once the
+      Recommended Phase 2 Dose (RP2D) has been determined.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 26, 2018</start_date>
+  <completion_date type="Anticipated">December 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 30, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>A Minimum Anticipated Biologic Effect Level (MABEL) -derived starting (priming) dose of 4.0 μg (microgram) is administered as a flat dose. The priming dose for the first patient will be followed with a subsequent dose that will be as a maximum 12.8 μg (microgram) flat dose. Dose escalation steps are based on all available data with increments not exceeding a half-log10 (3.2-fold) increase in the accelerated titration part and not exceeding 100% (2-fold) increase in the standard titration part.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose Limiting Toxicities (DLTs)</measure>
+    <time_frame>DLTs are assessed during the first cycle (28 days) in each cohort</time_frame>
+    <description>To determine recommended phase 2 dose of GEN3013</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse Events (AEs)</measure>
+    <time_frame>AEs are collected throughout the study and up to 5 years after last patient first visit</time_frame>
+    <description>Number of participants with treatment-related adverse events as assessed by CTCAE v4.03</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cytokine measures</measure>
+    <time_frame>During the first two cycles of treatment (1 cycle is 28 days), at unscheduled visits and up to 5 years after last patient first visit</time_frame>
+    <description>To establish tolerability of GEN3013 using an array-based ligand binding assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area-under-the-concentration-time curve (AUC0-C last)</measure>
+    <time_frame>Through study completion and up to 5 years after last patient first visit</time_frame>
+    <description>To establish the PK profile of GEN3013 after single and multiple doses</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Plasma Concentration (Cmax) of GEN3013</measure>
+    <time_frame>Through study completion and up to 5 years after last patient first visit</time_frame>
+    <description>To establish the PK profile of GEN3013 after single and multiple doses</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of neutralizing anti-drug antibodies (ADAs) in blood (positive/negative).</measure>
+    <time_frame>Through study completion and up to 5 years after last patient first visit</time_frame>
+    <description>To evaluate immunogenicity of GEN3013</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in tumor size</measure>
+    <time_frame>Through study completion and up to 5 years after last patient first visit</time_frame>
+    <description>To evaluate the anti-lymphoma activity of GEN3013 as evaluated by Lugano classification (Cheson et al., 2014)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">110</enrollment>
+  <condition>Diffuse Large B-cell Lymphoma</condition>
+  <condition>High-grade B-cell Lymphoma</condition>
+  <condition>Primary Mediastinal Large B-cell Lymphoma</condition>
+  <condition>Follicular Lymphoma</condition>
+  <condition>Mantle Cell Lymphoma</condition>
+  <condition>Small Lymphocytic Lymphoma</condition>
+  <condition>Marginal Zone Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>GEN3013 (DuoBody®-CD3xCD20)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Open label, single arm trial where GEN3013 will be administered</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>GEN3013 (DuoBody®-CD3xCD20)</intervention_name>
+    <description>GEN3013 will be administered in cycles of 4 weeks i.e. 28 days. The dose-levels will be determined by the starting dose and the escalation steps taken in the trial.</description>
+    <arm_group_label>GEN3013 (DuoBody®-CD3xCD20)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient must be 18 years of age or older
+
+          -  Documented mature B-cell neoplasm
+
+               1. Diffuse large B-cell lymphoma - de novo or transformed
+
+               2. High-grade B-cell lymphoma (Swerdlow et al., 2016)
+
+               3. Primary mediastinal large B-cell lymphoma
+
+               4. Follicular lymphoma
+
+               5. Mantle cell lymphoma
+
+               6. Small lymphocytic lymphoma
+
+               7. Marginal zone lymphoma (nodal, extranodal or mucosa associated)
+
+          -  Relapsed, progressive and/or refractory disease following treatment with an anti-CD20
+             monoclonal antibody (e.g. rituximab) potentially in combination with chemotherapy
+             and/or relapsed after autologous stem cell rescue.
+
+          -  CD20 positivity at most recent (previous or current) representative tumor biopsy based
+             on the pathology report
+
+          -  Patients must have measurable disease by Computer Tomography (CT), Magnetic Resonance
+             Imaging (MRI) or Positron Emission Tomography(PET)/CT scan
+
+          -  Acceptable renal function
+
+          -  Acceptable liver function
+
+        Exclusion Criteria:
+
+          -  Primary central nervous system (CNS) lymphoma or known CNS involvement by lymphoma
+
+          -  Known clinically significant cardiac disease:
+
+          -  Chronic ongoing infectious diseases (except hepatitis B or hepatitis C) requiring
+             treatment (excluding prophylactic treatment)
+
+          -  Eligible for curative salvage therapy with high dose therapy followed by stem cell
+             rescue
+
+          -  Active hepatitis B or hepatitis C
+
+          -  Known human immunodeficiency virus (HIV) infection
+
+          -  Exposed to live or live attenuated vaccine within 4 weeks prior to signing Informed
+             Consent Form (ICF)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pieternella Lugtenburg, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Erasmus MC University Medical Center Rotterdam</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Emilia Kristiina Jørgensen, MSc</last_name>
+    <phone>+45 3377 9686</phone>
+    <email>ekj@genmab.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>VU University Medical Center</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Leids Universitair Medisch Centrum</name>
+      <address>
+        <city>Leiden</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Erasmus MC University Medical Center Rotterdam</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Medisch Centrum Utrecht</name>
+      <address>
+        <city>Utrecht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Christie NHS Foundation Trust</name>
+      <address>
+        <city>Manchester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Southampton NHS Foundation Trust</name>
+      <address>
+        <city>Southampton</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>September 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>June 7, 2018</study_first_submitted>
+  <study_first_submitted_qc>August 9, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 10, 2018</study_first_posted>
+  <last_update_submitted>September 27, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Follicular</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Mantle-Cell</mesh_term>
+    <mesh_term>Lymphoma, B-Cell, Marginal Zone</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="295">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03571568</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17-BI1206-02</org_study_id>
+    <nct_id>NCT03571568</nct_id>
+  </id_info>
+  <brief_title>A Study of BI-1206 in Combination With Rituximab in Subjects With Indolent B-Cell Non-Hodgkin Lymphoma</brief_title>
+  <official_title>Phase 1/2a Clinical Trial of BI-1206, a Monoclonal Antibody to CD32b (FcYRIIB), in Combination With Rituximab in Subjects With Indolent B-Cell Non-Hodgkin Lymphoma That Has Relapsed or is Refractory to Rituximab</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioInvent International AB</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BioInvent International AB</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase 1/2a Clinical Trial of BI-1206, a Monoclonal Antibody to CD32b (FcyRIIB), in
+      Combination with Rituximab in Subjects with Indolent B-Cell Non-Hodgkin Lymphoma That has
+      Relapsed or is Refractory to Rituximab
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 1/2a, dose escalation, consecutive-cohort, open-label studytrial of BI-1206
+      in combination with rituximab in subjects with indolent relapsed or refractory B-cell NHL.
+      The studytrial will consist of 2 main parts: Phase 1 (with dose escalation cohorts using a
+      3+3 dose-escalation design and selection of the RP2D), and Phase 2a (the escalationexpansion
+      cohort at the RP2D). Subjects in each phase will receive 1 cycle (4 doses) of induction
+      therapy with BI-1206 in combination with rituximab. Subjects who show clinical benefit
+      (complete response [CR], partial response [PR], or stable disease [SD]) at Week 6 will
+      continue onto maintenance therapy and receive BI-1206 and rituximab once every 8 weeks
+      (relative to previous maintenance dose) for up to 6 maintenance cycles, or up to 1 year from
+      first dose of BI-1206 (whichever occurs first).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 16, 2018</start_date>
+  <completion_date type="Anticipated">June 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Phase 1/2a, dose escalation, consecutive-cohort, open-label study trial of BI-1206 in combination with rituximab</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Documenting AEs and SAEs and determining causality in relation to BI-1206 and/or rituximab</measure>
+    <time_frame>During the 28-day treatment period on induction therapy</time_frame>
+    <description>Assess the safety and tolerability profile of BI-1206 when administered in combination with Rituximab</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Determining the MTD of BI-1206 at the same dose level experiencing a BI-1206 or Rituximab-related or possibly related dose-limiting toxicity (DLT)</measure>
+    <time_frame>During the 28-day treatment period on induction therapy</time_frame>
+    <description>Select the RP2D</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of PK parameters for BI-1206. Maximum observed plasma concentration (Cmax)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Study the PK profile of BI-1206 together with Rituximab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of PK parameters for BI-1206. Area under the plasma concentration-time curve (AUC)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Study the PK profile of BI-1206 together with Rituximab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of PK parameters for Rituximab. Maximum observed plasma concentration (Cmax)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Study the PK profile of Rituximab together with BI-1206</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of PK parameters for Rituximab. Area under the plasma concentration-time curve (AUC)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Study the PK profile of Rituximab together with BI-1206</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of ADA response to BI 1206</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Assess the immunogenicity of BI-1206</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of B cell depletion</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Evaluate the effect of BI-1206</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of overall response rate (response criteria for malignant lymphoma (Cheson, 2014). RR)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Assess possible anti-tumor activity of BI-1206</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Indolent B-Cell Non-Hodgkin Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>BI-1206</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BI-1206 IV Standard 3+3 Dose-Escalation Design</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BI1206</intervention_name>
+    <description>375 mg/m2, as per SmPC</description>
+    <arm_group_label>BI-1206</arm_group_label>
+    <other_name>Rituximab</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Are ≥ 18 years of age by initiation of study treatment.
+
+          -  Have B-cell NHL proven by histology, with histological subtypes limited to follicular
+             lymphoma (FL) (except FL3B), MCL and marginal zone lymphoma (MZL).
+
+          -  Have measureable nodal disease
+
+          -  Are willing to undergo lymph node biopsies or biopsies of other involved tissue
+
+          -  Have relapsed disease or disease refractory to conventional treatment or for which no
+             standard therapy exists.
+
+          -  Have received at least one line of conventional previous therapy which must include at
+             least one rituximab-based regimen.
+
+          -  Have a life expectancy of at least 12 weeks
+
+          -  Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.
+
+          -  Have CD20+ malignancy
+
+          -  Have hematological and biochemical indices within prespecified ranges
+
+        Exclusion Criteria:
+
+          -  Have had an allogenic bone marrow or stem cell transplant within 12 months
+
+          -  Have presence of active chronic graft versus host disease
+
+          -  Have current leptomeningeal lymphoma or compromise of the central nervous system.
+
+          -  Have transformed lymphoma from a pre-existing indolent lymphoma.
+
+          -  Have Waldenstrom's Macroglobulinemia or FL3B,
+
+          -  Need systemic doses of prednisolone &gt;10 mg daily (or equipotent doses of other
+             corticosteroids) while on the study trial other than as pre-medication.
+
+          -  Have known or suspected hypersensitivity to rituximab or BI-1206.
+
+          -  Have cardiac or renal amyloid light-chain amyloidosis.
+
+          -  Have received the following:
+
+          -  Chemotherapy or small molecule products with 2 weeks of first dose of BI-1206
+
+          -  Radiotherapy (except for focal symptomatic control of lymphadenopathy) within 4 weeks
+
+          -  Immunotherapy within 8 weeks
+
+          -  Have ongoing toxic manifestations of previous treatments.
+
+          -  Have the ability to become pregnant (or already pregnant or lactating/breastfeeding).
+
+          -  Have had major surgery from which the subject has not yet recovered.
+
+          -  Are at high medical risk because of non-malignant systemic disease including active
+             infection on treatment with antibiotics, antifungals or antivirals.
+
+          -  Are serologically positive for hepatitis B, hepatitis C or human immunodeficiency
+             virus (HIV).
+
+          -  Have an active, known or suspected autoimmune disease.
+
+          -  Have concurrent congestive heart failure, prior history of class III/ IV cardiac
+             disease (New York Heart Association [NYHA]),
+
+          -  Have current malignancies of other types
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mats Jerkeman, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Senior Consultant and Adjunct Professor, Skane Univ Hospital, Lund, Sweden</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marie Lindell Andersson</last_name>
+    <phone>+46708591816</phone>
+    <email>marie.lindell.andersson@bioinvent.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Oncology, Skåne University Hospital</name>
+      <address>
+        <city>Lund</city>
+        <zip>SE-22185</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mats Jerkeman, PI</last_name>
+      <email>mats.jerkeman@skane.se</email>
+    </contact>
+    <investigator>
+      <last_name>Mats Jerkeman, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Oncology, Academical Hospital</name>
+      <address>
+        <city>Uppsala</city>
+        <zip>751 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hans Hagberg, MD</last_name>
+      <phone>+46 18 617 24 28</phone>
+      <email>hans.hagberg@akademiska.se</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>October 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>May 17, 2018</study_first_submitted>
+  <study_first_submitted_qc>June 18, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 27, 2018</study_first_posted>
+  <last_update_submitted>October 22, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 22, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 23, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rituximab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All information concerning the product as well as any matter concerning the operation of the Sponsor, such as clinical indications for the drug, its formula, methods of manufacture and other scientific data relating to it, that have been provided by the Sponsor and are unpublished, are confidential and must remain the sole property of the Sponsor. The Investigator will agree to use the information only for the purposes of carrying out this studytrial and for no other purpose unless prior written permission from the Sponsor is obtained.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Within one year from end of study</ipd_time_frame>
+    <ipd_access_criteria>Paper copy of CSR</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

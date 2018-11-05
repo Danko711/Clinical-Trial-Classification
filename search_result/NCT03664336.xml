@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03664336</url>
+  </required_header>
+  <id_info>
+    <org_study_id>refractory DLBCL</org_study_id>
+    <nct_id>NCT03664336</nct_id>
+  </id_info>
+  <brief_title>Refractory Diffuse Large B-cell Lymphoma</brief_title>
+  <official_title>Refractory Diffuse Large B-cell Lymphoma After First-line Immuno-CT: Treatment Options and Outcomes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospices Civils de Lyon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospices Civils de Lyon</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the rituximab era, one-third of diffuse large B-cell lymphoma (DLBCL) patients experience
+      relapse/refractory disease after first-line anthracycline-based immunochemotherapy (IChemo).
+      Optimal management remains an unmet medical need. The aim of this study was to report the
+      outcomes of a cohort of refractory patients according to their patterns of refractoriness and
+      the type of salvage option. The investigators performed a retrospective analysis, which
+      included 104 DLBCL patients treated at Lyon Sud University Hospital (2002-2017) who presented
+      with refractory disease. The investigators retrospectively evaluated the outcomes of a cohort
+      of 104 refractory patients according to their patterns of refractoriness and the type of
+      salvage option.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 2016</start_date>
+  <completion_date type="Actual">January 2018</completion_date>
+  <primary_completion_date type="Actual">July 2017</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Outcome according to pattern of refractoriness</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <description>OS was defined as the time from first relapse, or progression, to death from any cause.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Outcome according to pattern of refractoriness</measure>
+    <time_frame>Up tp 24 months</time_frame>
+    <description>EFS was defined as the time from first relapse, or progression, to the next event (defined as either second relapse/progression, change of therapy, or death from any cause). Patients who did not experience an event were censored at the last follow-up.</description>
+  </secondary_outcome>
+  <enrollment type="Actual">104</enrollment>
+  <condition>Diffuse Large B-cell Lymphoma</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Man or woman diagnosed for a DLBCL from January 2002 to January 2017
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        -≥18 years of age
+
+          -  diagnosed with DLBCL at Lyon Sud University Hospital (LSUH) from January 2002 to
+             January 2017
+
+          -  presented with refractory disease in response to front-line therapies
+
+          -  including anthracycline-based chemo and a monoclonal anti-CD20 antibody
+
+        Exclusion Criteria:
+
+          -  Patients with a history of indolent lymphoma,
+
+          -  Patients with a primary central nervous system (CNS) lymphoma or
+             immunosuppression-related lymphoma
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clémentine Sarkozy, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospices Civils de Lyon</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Lyon Sud</name>
+      <address>
+        <city>Pierre-Bénite</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>August 22, 2018</study_first_submitted>
+  <study_first_submitted_qc>September 7, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 10, 2018</study_first_posted>
+  <last_update_submitted>September 7, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 7, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 10, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>diffuse large B-cell lymphoma</keyword>
+  <keyword>refractory</keyword>
+  <keyword>rituximab</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

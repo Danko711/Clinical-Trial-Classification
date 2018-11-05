@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1037">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03583424</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OSU-17225</org_study_id>
+    <secondary_id>NCI-2018-01039</secondary_id>
+    <secondary_id>OSU-17225</secondary_id>
+    <secondary_id>P30CA016058</secondary_id>
+    <nct_id>NCT03583424</nct_id>
+  </id_info>
+  <brief_title>Venetoclax, Carmustine, Etoposide, Cytarabine, and Melphalan Before Stem Cell Transplant in Treating Participants With Relapsed or Refractory Non-Hodgkin Lymphoma</brief_title>
+  <official_title>A Phase I/II Trial of Venetoclax and BEAM Conditioning Followed by Autologous Stem Cell Transplantation for Patients With Primary Refractory Non-Hodgkin Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ohio State University Comprehensive Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ohio State University Comprehensive Cancer Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I/II trial studies the side effects and best dose of venetoclax when given
+      together with carmustine, etoposide, cytarabine, and melphalan before stem cell transplant in
+      treating participants with non-Hodgkin lymphoma that has come back or does not respond to
+      treatment. Drugs used in chemotherapy, such as venetoclax, carmustine, etoposide, cytarabine,
+      and melphalan, work in different ways to stop the growth of cancer cells, either by killing
+      the cells, by stopping them from dividing, or by stopping them from spreading. Giving
+      chemotherapy before a stem cell transplant helps kill any cancer cells that are in the body
+      and helps make room in the patient?s bone marrow for new blood-forming cells (stem cells) to
+      grow.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. Determine the maximum tolerated dose (MTD) of venetoclax that can be safely combined with
+      carmustine, etoposide, cytarabine, and melphalan (BEAM) prior to autologous stem cell
+      transplant which will the recommended phase II dose (RP2D).
+
+      II. Determine the safety and efficacy of venetoclax as measured by overall response rate
+      (ORR) at day 100, 12-month survival and freedom from relapse (FFR-12).
+
+      SECONDARY OBJECTIVES:
+
+      I. Long term effects (progression-free survival [PFS] and overall survival [OS]) of addition
+      of venetoclax to BEAM.
+
+      II. Correlation of response and survival with expression of BCL-2, BCL-XL, and MCL-1 as
+      measured by immunohistochemistry (IHC).
+
+      OUTLINE: This is a dose-escalation study of venetoclax.
+
+      Participants receive venetoclax orally (PO) once daily (QD) on days -10 to -1, carmustine
+      intravenously (IV) on day -6, etoposide IV twice daily (BID) on days -5 to -2, cytarabine IV
+      BID on days -5 to -2, and melphalan IV on day -1. Participants then undergo hematopoietic
+      stem cell transplantation on day 0.
+
+      After completion of study treatment, participants are followed up for 2 years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 9, 2018</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum tolerated dose of venetoclax defined to be the dose cohort below which 3 out of 6 patients experience dose limiting toxicities or the highest dose cohort of 1200 mg, if 2 dose limiting toxicities are not observed at any dose cohort</measure>
+    <time_frame>Up to 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall response rate</measure>
+    <time_frame>At day 100</time_frame>
+    <description>Will be estimated as the proportions of patients who achieve a complete response or partial response divided by the number of evaluable patients. Each will be reported with their associated 95% confidence interval.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of progression</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Estimated using Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of freedom from relapse</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Estimated using Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Estimated using Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Hematopoietic Cell Transplantation Recipient</condition>
+  <condition>Recurrent Diffuse Large B-Cell Lymphoma</condition>
+  <condition>Recurrent Grade 1 Follicular Lymphoma</condition>
+  <condition>Recurrent Grade 2 Follicular Lymphoma</condition>
+  <condition>Recurrent Grade 3 Follicular Lymphoma</condition>
+  <condition>Recurrent Marginal Zone Lymphoma</condition>
+  <condition>Recurrent Non-Hodgkin Lymphoma</condition>
+  <condition>Refractory Diffuse Large B-Cell Lymphoma</condition>
+  <condition>Refractory Follicular Lymphoma</condition>
+  <condition>Refractory Marginal Zone Lymphoma</condition>
+  <condition>Refractory Non-Hodgkin Lymphoma</condition>
+  <condition>Refractory Transformed Indolent Non-Hodgkin Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (venetoclax, BEAM)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive venetoclax PO QD on days -10 to -1, carmustine IV on day -6, etoposide IV BID on days -5 to -2, cytarabine IV BID on days -5 to -2, and melphalan IV on day -1. Participants then undergo hematopoietic cell transplantation on day 0.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carmustine</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (venetoclax, BEAM)</arm_group_label>
+    <other_name>BCNU</other_name>
+    <other_name>Becenum</other_name>
+    <other_name>Becenun</other_name>
+    <other_name>BiCNU</other_name>
+    <other_name>Bis(chloroethyl) Nitrosourea</other_name>
+    <other_name>Bis-Chloronitrosourea</other_name>
+    <other_name>Carmubris</other_name>
+    <other_name>Carmustin</other_name>
+    <other_name>Carmustinum</other_name>
+    <other_name>FDA 0345</other_name>
+    <other_name>Gliadel</other_name>
+    <other_name>N,N'-Bis(2-chloroethyl)-N-nitrosourea</other_name>
+    <other_name>Nitrourean</other_name>
+    <other_name>Nitrumon</other_name>
+    <other_name>SK 27702</other_name>
+    <other_name>SRI 1720</other_name>
+    <other_name>WR-139021</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cytarabine</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (venetoclax, BEAM)</arm_group_label>
+    <other_name>.beta.-Cytosine arabinoside</other_name>
+    <other_name>1-.beta.-D-Arabinofuranosyl-4-amino-2(1H)pyrimidinone</other_name>
+    <other_name>1-.beta.-D-Arabinofuranosylcytosine</other_name>
+    <other_name>1-Beta-D-arabinofuranosyl-4-amino-2(1H)pyrimidinone</other_name>
+    <other_name>1-Beta-D-arabinofuranosylcytosine</other_name>
+    <other_name>1.beta.-D-Arabinofuranosylcytosine</other_name>
+    <other_name>2(1H)-Pyrimidinone, 4-Amino-1-beta-D-arabinofuranosyl-</other_name>
+    <other_name>2(1H)-Pyrimidinone, 4-amino-1.beta.-D-arabinofuranosyl-</other_name>
+    <other_name>Alexan</other_name>
+    <other_name>Ara-C</other_name>
+    <other_name>ARA-cell</other_name>
+    <other_name>Arabine</other_name>
+    <other_name>Arabinofuranosylcytosine</other_name>
+    <other_name>Arabinosylcytosine</other_name>
+    <other_name>Aracytidine</other_name>
+    <other_name>Aracytin</other_name>
+    <other_name>Aracytine</other_name>
+    <other_name>Beta-cytosine Arabinoside</other_name>
+    <other_name>CHX-3311</other_name>
+    <other_name>Cytarabinum</other_name>
+    <other_name>Cytarbel</other_name>
+    <other_name>Cytosar</other_name>
+    <other_name>Cytosine Arabinoside</other_name>
+    <other_name>Cytosine-.beta.-arabinoside</other_name>
+    <other_name>Cytosine-beta-arabinoside</other_name>
+    <other_name>Erpalfa</other_name>
+    <other_name>Starasid</other_name>
+    <other_name>Tarabine PFS</other_name>
+    <other_name>U 19920</other_name>
+    <other_name>U-19920</other_name>
+    <other_name>Udicil</other_name>
+    <other_name>WR-28453</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Etoposide</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (venetoclax, BEAM)</arm_group_label>
+    <other_name>Demethyl Epipodophyllotoxin Ethylidine Glucoside</other_name>
+    <other_name>EPEG</other_name>
+    <other_name>Lastet</other_name>
+    <other_name>Toposar</other_name>
+    <other_name>Vepesid</other_name>
+    <other_name>VP 16-213</other_name>
+    <other_name>VP-16</other_name>
+    <other_name>VP-16-213</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Hematopoietic Cell Transplantation</intervention_name>
+    <description>Undergo hematopoietic cell transplantation</description>
+    <arm_group_label>Treatment (venetoclax, BEAM)</arm_group_label>
+    <other_name>HCT</other_name>
+    <other_name>Hematopoietic Stem Cell Transplantation</other_name>
+    <other_name>HSCT</other_name>
+    <other_name>stem cell transplantation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Melphalan</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (venetoclax, BEAM)</arm_group_label>
+    <other_name>Alanine Nitrogen Mustard</other_name>
+    <other_name>CB-3025</other_name>
+    <other_name>L-PAM</other_name>
+    <other_name>L-Phenylalanine Mustard</other_name>
+    <other_name>L-sarcolysin</other_name>
+    <other_name>L-Sarcolysin Phenylalanine mustard</other_name>
+    <other_name>L-Sarcolysine</other_name>
+    <other_name>Melphalanum</other_name>
+    <other_name>Phenylalanine Mustard</other_name>
+    <other_name>Phenylalanine nitrogen mustard</other_name>
+    <other_name>Sarcoclorin</other_name>
+    <other_name>Sarkolysin</other_name>
+    <other_name>WR-19813</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Venetoclax</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (venetoclax, BEAM)</arm_group_label>
+    <other_name>ABT-0199</other_name>
+    <other_name>ABT-199</other_name>
+    <other_name>ABT199</other_name>
+    <other_name>GDC-0199</other_name>
+    <other_name>RG7601</other_name>
+    <other_name>Venclexta</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects must have histologically confirmed diagnosis of non-Hodgkin?s lymphoma that
+             has relapsed, or is refractory, after upfront induction therapy. Excluded histologies
+             are T-cell lymphomas, post-transplant lymphoproliferative disorder, Burkitt lymphoma,
+             lymphoblastic lymphoma, chronic lymphocytic leukemia/small lymphocytic lymphoma. All
+             other histologies are eligible that include but not limited to: diffuse-large B-cell
+             lymphoma, follicular lymphoma (grades I, II, and III), marginal zone lymphoma,
+             transformed indolent lymphoma, grey zone lymphoma, and undifferentiated B-cell
+             lymphoma. Patients with non-Hodgkin's lymphoma (NHL) who are at high risk of relapse
+             can be enrolled in sustained partial response (PR) after induction chemotherapy (PR1)
+
+          -  Expected survival of more than six months
+
+          -  Karnofsky performance status &gt;= 80%
+
+          -  Within 1 week prior to initiation of treatment: Aspartate aminotransferase
+             (AST)/alanine aminotransferase (ALT) &lt; 3 x upper limits of normal (ULN) unless due to
+             disease
+
+          -  Within 1 week prior to initiation of treatment: Total bilirubin &lt; 2 x ULN unless due
+             to disease
+
+          -  Within 1 week prior to initiation of treatment: Calculated glomerular filtration rate
+             (GFR) 30 ml/min
+
+          -  Within 1 week prior to initiation of treatment: Absolute neutrophil count (ANC) &gt; 500
+             cells/mm^3
+
+          -  Within 1 week prior to initiation of treatment: Platelet count &gt; 50 mm^3
+
+          -  Left ventricular ejection fraction &gt;= 40%
+
+          -  Diffusion capacity of carbon monoxide (DLCO) &gt;= 50% predicted
+
+          -  Ability to collect 2 x 10^6/kg CD34+ cells for transplantation
+
+          -  Patient must be otherwise eligible for autologous stem cell transplantation (ASCT) per
+             local institutional guidelines
+
+          -  No serious disease, or condition, that, in the opinion of the investigator, would
+             compromise the patient?s ability to participate in the study
+
+          -  Subjects must have the ability to understand and the willingness to sign a written
+             informed consent document
+
+        Exclusion Criteria:
+
+          -  Subjects who sustained a complete metabolic response (CMR) by positron emission
+             tomography (PET)-computed tomography (CT) (Deauville score of =&lt; 3) after salvage
+             chemotherapy unless lymphoma relapsed less than 12 months from the first day of last
+             cycle of induction chemotherapy OR patient required more than 2 lines of salvage
+             chemotherapy to sustain a CMR
+
+          -  Subjects receiving any other investigational agents
+
+          -  Prior treatment with venetoclax
+
+          -  Patients with central nervous system (CNS) involved by lymphoma can be included if CNS
+             disease is deemed controlled prior to enrollment as determined by the investigator.
+             Patients with uncontrolled CNS disease will be excluded
+
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic
+             composition to venetoclax or other agents used in this study
+
+          -  Subjects with uncontrolled intercurrent illness including, but not limited to ongoing
+             or active infection, symptomatic congestive heart failure, unstable angina pectoris,
+             cardiac arrhythmia, or psychiatric illness/social situations that would limit
+             compliance with study requirements
+
+          -  Patients who are human immunodeficiency virus (HIV) positive and receiving combination
+             antiretroviral therapy will be excluded; because of the potential for pharmacokinetic
+             interactions with venetoclax
+
+          -  Female patients who are pregnant or breast-feeding. Confirmation that the subject is
+             not pregnant must be established by a negative serum beta-human chorionic gonadotropin
+             (beta-hCG) pregnancy test result obtained during screening. Pregnancy testing is not
+             required for post-menopausal or surgically sterilized women. Male or female patients,
+             who are sexually active and of the child bearing age, must be willing to practice
+             accepted birth control measures
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Basem William, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ohio State University Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ohio State University Comprehensive Cancer Center</last_name>
+    <phone>800-293-5066</phone>
+    <email>OSUCCCClinicaltrials@osumc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rebecca Grimes</last_name>
+    <email>Rebecca.Grimes@osumc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ohio State University Comprehensive Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Basem M. William, MD</last_name>
+      <phone>614-688-7942</phone>
+      <email>Basem.William@osumc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Basem M. William, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.osu.edu</url>
+    <description>The Jamesline</description>
+  </link>
+  <verification_date>July 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>June 28, 2018</study_first_submitted>
+  <study_first_submitted_qc>June 28, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 11, 2018</study_first_posted>
+  <last_update_submitted>July 16, 2018</last_update_submitted>
+  <last_update_submitted_qc>July 16, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 17, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ohio State University Comprehensive Cancer Center</investigator_affiliation>
+    <investigator_full_name>Basem William, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Follicular</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, B-Cell, Marginal Zone</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Podophyllotoxin</mesh_term>
+    <mesh_term>Etoposide phosphate</mesh_term>
+    <mesh_term>Venetoclax</mesh_term>
+    <mesh_term>Cytarabine</mesh_term>
+    <mesh_term>Melphalan</mesh_term>
+    <mesh_term>Carmustine</mesh_term>
+    <mesh_term>Mechlorethamine</mesh_term>
+    <mesh_term>Nitrogen Mustard Compounds</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1290">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03666000</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PBCAR0191-01</org_study_id>
+    <nct_id>NCT03666000</nct_id>
+  </id_info>
+  <brief_title>Dose-escalation Study of Safety of PBCAR0191 in Patients With r/r NHL and r/r B-cell ALL</brief_title>
+  <official_title>Phase 1/2a, Open-label, Dose-escalation/Expansion, Parallel Assignment Study to Evaluate Safety and Clinical Activity of PBCAR0191 in Subjects With Relapsed/Refractory (r/r) Non-Hodgkin Lymphoma and r/r B-cell Acute Lymphoblastic Leukemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Precision BioSciences, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Precision BioSciences, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety and tolerability, find an appropriate dose to optimize safety and
+      efficacy, and evaluate clinical activity of PBCAR0191 in subjects with relapsed/refractory
+      (r/r) B-cell acute lymphoblastic leukemia (B-ALL) and non-Hodgkin lymphoma (NHL).
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2018</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose (MTD)</measure>
+    <time_frame>Day 1 - Day 28</time_frame>
+    <description>To determine the maximum tolerated dose (MTD), which is defined as the dose level at which fewer than 33% of patients experience a dose limiting toxicity (DLT) using a 3+3 strategy.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Dose Limiting Toxicity(ies)</measure>
+    <time_frame>1 year</time_frame>
+    <description>To assess adverse events as dose limiting toxicities as defined by the protocol and CTCAE v5.0.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate of Patients</measure>
+    <time_frame>1 year</time_frame>
+    <description>To assess clinical activity as response in B-ALL by the NCCN Guidelines on ALL (NCCN, 2017) and in NHL by the revised Lugano Classification (Cheson et al, 2016), both reported as objective response rate.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve [AUC]</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>To evaluate Area Under the Curve [AUC] of PBCAR0191 in patients tested.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Non-Hodgkin Lymphoma</condition>
+  <condition>B-cell Acute Lymphoblastic Leukemia</condition>
+  <arm_group>
+    <arm_group_label>PBCAR0191-01</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In this study, PBCAR0191, allogeneic anti-CD19 CAR T Cells, is used to treat patients with relapsed or refractory (r/r) Non-Hodgkin Lymphoma and r/r B-cell Acute Lymphoblastic Leukemia.
+Route of Administration: Intravenous infusion.
+Lymphodepletion Conditioning: Lymphodepletion will be conducted several days prior to PBCAR0191 infusion. A combination of fludarabine and cyclophosphamide will be used for lymphodepletion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>PBCAR0191</intervention_name>
+    <description>Single dose of Allogeneic Anti-CD19 CAR T cells will be infused, and a classic &quot;3+3&quot; dose escalation will be applied.</description>
+    <arm_group_label>PBCAR0191-01</arm_group_label>
+    <other_name>Allogeneic Anti-CD19 CAR T cells</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine</intervention_name>
+    <description>Fludarabine is used for lymphodepletion.</description>
+    <arm_group_label>PBCAR0191-01</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Cyclophosphamide is used for lymphodepletion.</description>
+    <arm_group_label>PBCAR0191-01</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Criteria for B-ALL:
+
+          1. Relapsed or refractory CD19+ B-cell acute lymphoblastic leukemia (B-ALL).
+
+          2. Philadelphia chromosome positive (Ph+) disease can be eligible if they are intolerant
+             to tyrosine kinase inhibitor (TKI) therapy or if they have relapsed/refractory
+             disease.
+
+             Criteria for NHL:
+
+          3. r/r CD19+ B-cell NHL that is histologically confirmed by archived tumor biopsy tissue
+             from last relapse and corresponding pathology report.
+
+          4. Received at least 2 prior chemotherapy-containing regimens.
+
+          5. Measurable or detectable disease according to the Lugano Classification.
+
+             Criteria for both B-ALL and NHL:
+
+          6. Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1.
+
+          7. Estimated life expectancy of at least 12 weeks according to investigator's judgment.
+
+          8. Seronegative for HIV antibody (ie, the subject has intact immune function).
+
+          9. Subject has adequate bone marrow, renal, hepatic, pulmonary, and cardiac function.
+
+             Patient Characteristics
+
+         10. 18 years of age or older.
+
+         11. Any sex.
+
+         12. Willing to practice birth control and refrain from donating sperms or oocytes .
+
+         13. Women of childbearing potential (WOCBP) must be tested negative for pregnancy at
+             screening.
+
+         14. Capable of giving signed informed consent.
+
+        Exclusion Criteria:
+
+        Criteria for B-ALL:
+
+          1. Burkitt cell (L3 ALL) or mixed-lineage acute leukemia.
+
+          2. Evidence of CNS leukemia.
+
+             Criteria for NHL:
+
+          3. Requirement for urgent therapy due to tumor mass effects such as bowel obstruction or
+             blood vessel compression.
+
+          4. Active hemolytic anemia.
+
+          5. Active CNS lymphoma.
+
+             Criteria for B-ALL and NHL:
+
+          6. Malignancy, besides the malignancies of inclusion (B-ALL or NHL), that in the
+             Investigator's opinion, has a high risk of relapse in the next 2 years.
+
+          7. Uncontrolled and serious fungal, bacterial, viral, protozoal, or other infection.
+
+          8. Any form of primary immunodeficiency.
+
+          9. Subject has active hepatitis B or hepatitis C.
+
+         10. Any known uncontrolled cardiovascular disease at the time of screening that, in the
+             Investigator's opinion, renders the subject ineligible.
+
+         11. History of hypertension crisis or hypertensive encephalopathy within 3 months prior to
+             Screening.
+
+         12. History of severe immediate hypersensitivity reaction to any of the agents used in
+             this study.
+
+         13. Presence of a CNS disorder that renders the subject ineligible for treatment.
+
+         14. Abnormal findings during the screening period or any other medical condition(s) or
+             laboratory findings that might jeopardize the patient's safety.
+
+         15. History of concomitant genetic syndrome known bone marrow failure syndrome.
+
+         16. Requires active immunosuppression at the time of screening.
+
+         17. C-reactive protein (CRP) &gt;15 mg/dL at screening.
+
+             Prior/Concomitant Therapy
+
+         18. Received stem cell transplant within 90 days before screening.
+
+         19. Active GvHD symptoms.
+
+         20. Received blinatumomab or inotuzumab ozogamicin within 30 days of screening.
+
+         21. Received systemic immunostimulatory agent within 30 days or 5 half-lives.
+
+         22. Radioimmunotherapy within 6 months before screening that may interfere with the
+             activity of agents in the study.
+
+         23. Radiotherapy within 4 weeks before screening should be discussed with monitor.
+
+         24. Presence of pleural/peritoneal/pericardial catheter.
+
+         25. Received live vaccine within 4 weeks before screening. Non-live virus vaccines are not
+             excluded.
+
+         26. Current use of any anticoagulant or antiplatelet therapy.
+
+         27. Received an anti-PD-1 or anti-PD-L1 antibodies, or other immune modifying therapy.
+
+         28. Received any investigational biologic treatment within 30 days or 5 half-lives before
+             screening, or investigational nonbiologic treatment within 30 days before screening.
+
+             Other Exclusions
+
+         29. Pregnant or breastfeeding women.
+
+         30. Unlikely to complete all protocol-required study visits or procedures.
+
+         31. Any mental condition rendering the subject unable to understand the nature, scope, and
+             possible consequences of the study, and/or evidence of an uncooperative attitude.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steve Weitman, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Precision BioSciences, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Precision BioSciences, Inc.</last_name>
+    <phone>919-314-5512</phone>
+    <email>clinical@precisionbiosciences.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>H. Lee Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>August 20, 2018</study_first_submitted>
+  <study_first_submitted_qc>September 7, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 11, 2018</study_first_posted>
+  <last_update_submitted>September 10, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 10, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 12, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Burkitt Lymphoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Fludarabine phosphate</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

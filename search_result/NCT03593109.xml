@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="815">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03593109</url>
+  </required_header>
+  <id_info>
+    <org_study_id>XJTU-LCAR-L10D</org_study_id>
+    <nct_id>NCT03593109</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy Study of Dual Specificity CD19 and CD22 CAR-T Cell Immunotherapy in Relapsed or Refractory Lymphoma</brief_title>
+  <official_title>A Phase I Clinical Study of Dual Specificity CD19 and CD22 Chimeric Antigen Receptor T Cell Therapy in Relapsed or Refractory Lymphoma.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Second Affiliated Hospital of Xi'an Jiaotong University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Nanjing Legend Biotech Co.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Second Affiliated Hospital of Xi'an Jiaotong University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single arm, open-label, dose escalation clinical study to evaluate the safety,
+      feasibility and efficacy of infusion of dual specificity CD19 and CD22 CAR-T cells in
+      patients with relapsed and refractory B-cell lymphoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      CD19-directed CAR-T cell therapy has shown promising results for the treatment of relapsed or
+      refractory B-cell malignancies, CD19 and CD22 are proteins usually expressed on the surface
+      of the lymphoma cells. The dual specificity CAR enables the T-cells to recognize and kill the
+      tumor cell through recognition of CD19 and CD22.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">September 18, 2018</start_date>
+  <completion_date type="Anticipated">May 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of treatment related adverse events</measure>
+    <time_frame>Day 1-30 days after injection</time_frame>
+    <description>Assessed by CTCAE v4.0</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>Day 1-36 months after injection</time_frame>
+    <description>Objective response include complete remission and partial remission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Day 1-36 months after injection</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>Day 1-36 months after injection</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Copy numbers of CAR-T cells in patients</measure>
+    <time_frame>Day 1-12 months after injection</time_frame>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Lymphoma</condition>
+  <condition>Lymphoma, B-Cell</condition>
+  <condition>Lymphoma, Large B-Cell, Diffuse</condition>
+  <arm_group>
+    <arm_group_label>LCAR-L10D treatment group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In LCAR-L10D treatment group, patients will be treated with dual specificity CD19 and CD22 CAR-T cells with a escalation approach, 4 CAR-T dosage will be tested in this study: 0.5×10^6, 1.5×10^6, 5.0×10^6, 15.0×10^6 CAR-T cells/kg.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dual Specificity CD19 and CD22 CAR-T Cell Immunotherapy</intervention_name>
+    <description>Patients will undergo leukapheresis to isolate peripheral blood mononuclear cells (PBMCs) for the production of CAR-T cells. After a pre-treatment lymphodepletion therapy, patients will receive the Dual Specificity CD19 and CD22 CAR-T Cell Immunotherapy by intravenous injection.</description>
+    <arm_group_label>LCAR-L10D treatment group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Written informed consent could be acquired;
+
+          2. Histological detection confirmed CD19/CD22 postive lymphoma;
+
+          3. Received more than 2 lines of chemotherapy;
+
+          4. Relapsed after auto-hematopoietic stem cell transplantation;
+
+          5. Received standard chemotherapies including Rituximab (CD20+) and anthracycline agents;
+
+          6. With measurable disease;
+
+          7. Life expectation for more than 3 months;
+
+          8. ECOG ≥ 2;
+
+          9. Adequate organ function: EF≥50%; normal ECG; CCR≥60ml/min; ALT and AST&lt;2.5 × upper
+             limitation of normal, T-BIL &lt;25umol/L; PT and APTT &lt; 2 × upper limitation of normal;
+             SpO2 &gt; 92%;
+
+         10. Blood test: ANC &gt; 1×10^9/L, Plt ≥ 75×10^9/L;
+
+         11. At least 4 weeks intervals since the last treatment;
+
+         12. Results of pregnant test should be negative, and agree to conception control during
+             treatment and 1 year after CAR-T infusion;
+
+        Exclusion Criteria:
+
+          1. History of allergies to any component of the CAR-T cell therapy;
+
+          2. Prior CAR T-cell or other genetically-modified T-cell therapy;
+
+          3. History of another primary malignancy that has not been in control for at least 3
+             years;
+
+          4. Relapsed after allo-hematopoietic stem cell transplantation;
+
+          5. Uncontrolled infection, Active HBV or HCV infection, HIV positive;
+
+          6. With central nervous system (CNS) involvement;
+
+          7. Severe heart disease, Q-T elongation history;
+
+          8. History or presence of clinically relevant CNS pathology such as epilepsy, seizure,
+             paresis, aphasia, stroke, severe brain injuries, dementia, Parkinson's disease,
+             cerebellar disease, organic brain syndrome, or psychosis;
+
+          9. Immunosuppressive agents or steroids in recent 2 week before recruitment;
+
+         10. Women in pregnancy and lactation;
+
+         11. Participated in any other clinical trail in recent 3 months;
+
+         12. Other conditions that principle investigator considered may increase the risk of the
+             patients or interference the results.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Aili He, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Second Affiliated Hospital of Xi'an Jiaotong University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Aili He, MD, PhD</last_name>
+    <phone>86-29-87679459</phone>
+    <email>heaili@mail.xjtu.edu.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jie Liu, MD</last_name>
+    <phone>86-29-87679457</phone>
+    <email>lieujie@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Second Affiliated Hospital of Xi'an Jiaotong University</name>
+      <address>
+        <city>Xi'an</city>
+        <state>Shaanxi</state>
+        <zip>710000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aili He, MD, PhD</last_name>
+      <phone>86-29-87679459</phone>
+      <email>heaili@mail.xjtu.edu.cn</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jie Liu, MD</last_name>
+      <phone>86-29-87679457</phone>
+      <email>lieujie@163.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Aili He, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>July 7, 2018</study_first_submitted>
+  <study_first_submitted_qc>July 18, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 19, 2018</study_first_posted>
+  <last_update_submitted>September 13, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 14, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Chimeric Antigen Receptor T cells</keyword>
+  <keyword>CD19 and CD22</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

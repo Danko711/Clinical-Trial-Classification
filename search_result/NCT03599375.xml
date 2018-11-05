@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1353">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03599375</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FJLU-002</org_study_id>
+    <nct_id>NCT03599375</nct_id>
+  </id_info>
+  <brief_title>Immunotherapy With CD19 CART-cells for B Cell Acute Lymphoblastic Leukemia</brief_title>
+  <official_title>Safety and Clinical Activity of CD19 Chimeric Antigen Receptor T Cells in Treating Patients With Recurrent or Refractory CD19 Positive B Cell Acute Lymphoblastic Leukemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>jiuwei cui</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>First Hospital of Jilin University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate the safety and clinical activity of CD19 Chimeric Antigen
+      Receptor (CAR) redirected autologous T-cells in treating patients with recurrent or
+      refractory CD19 positive B cell ccute lymphoblastic leukemia,and dynamically observe the
+      changes of CAR-T in patients and the residual tumor.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this single-center, open-label, single-arm, prospective clinical trial, a total of 20
+      recurrent or refractory CD19+ B cell acute lymphoblastic leukemia patients will be
+      enrolled.After recruiting eligible patients,autologous peripheral blood mononuclear
+      cells(PBMCs) will be purified from whole blood.The CD3+ T cells were subsequently selected
+      and re-stimulated by anti-CD3 and anti-CD28 monoclonal antibodies.T cells will be transduced
+      with lentiviral vector for the generation of the CD19 CART cell and administered by i.v.
+      injection.The purpose of current study is to determine the safety and clinical efficacy of
+      CD19 CAR T cells therapy in patients with recurrent or refractory CD19+ ALL.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2018</start_date>
+  <completion_date type="Anticipated">December 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Patients with recurrent or refractory CD19+ ALL receive CD19 CAR T-cell immunotherapy.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>overall response rate(ORR)</measure>
+    <time_frame>Participants will be followed for the duration of the treatment, with an expected average of 3 months.</time_frame>
+    <description>ORR is defined as the proportion of partial responses plus complete responses.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival(PFS)</measure>
+    <time_frame>15 years</time_frame>
+    <description>Progression-free survival is defined as the time from enrollment to first observation of progression or date of death (from any cause).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival(OS)</measure>
+    <time_frame>15 years</time_frame>
+    <description>Overall survival, defined as the time from enrollment until death due to any cause. For patients who do not die, time to death will be censored at the time of last contact.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Leukemia, B-Cell</condition>
+  <arm_group>
+    <arm_group_label>B-ALL treated with CD19 CART cell</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The qualified CD19-targeted CART cells will be transferred to patient for 3 days as follow:D1,10% fraction;D2,30%;D3 60%. The number of CART cells for each course will be about 1×106/kg. If complete response (CR) or complete response with incomplete hemogram recovery (CRi) in hemogram is achieved after the first course of treatment, further treatment will be decided according to the clinical assessment and the wishes of the patient.If partial response (PR) is achieved after the first course, 1 or 2 courses of treatment will be continued. If there is no response (NR) after the first course, the treatment will be ceased or restarted based on the clinical assessment or patients' wishes. Treatent may be discontinued due to any severe toxicity, such as cytokine release syndrom.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CD19-targeted CART cells</intervention_name>
+    <description>CD19 CAR T cells was transduced with a lentiviral vector to express anti-CD19 scFv.This is a second generation CRAT.</description>
+    <arm_group_label>B-ALL treated with CD19 CART cell</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  1.Recurrent or refractory B cell derived acute lymphoblastic leukemia(ALL). 2.Patients
+             who have failed at least one line of a standard treatment without effective treatment
+             measures at present.
+
+             3.CD19 expression on the surface of B-ALL cells must be detected by immunophenotyping.
+
+             4.KPS&gt;80. 5.Life expectancy&gt;3 months. 6.Patients must have adequate cardiac
+             function(no electrocardiogram with obvious abnormality, LVEF≥50%),adequate pulmonary
+             function as indicated by room air oxygen saturation of &gt;90%, and adequate renal
+             function(Cr≤2.5 times of the normal range).
+
+             7.The alanine aminotransferase (ALT) and the glutamic oxaline aminotransferase (AST)≤
+             3 times of the normal range, and the total bilirubin (TBIL)≤2.0mg/dl (34.2umol/L).
+
+             8.Hgb≥80g/L. 9.Without contraindication of apheresis and cell isolation 10.Patients
+             and their families volunteer to participate in the research with signed written
+             informed consent.
+
+             11.The patient's condition was analyzed and discussed by the specialists. Considering
+             the general physical condition of the patient, it is considered that the benefit of
+             participating in the clinical research overweight the risk.
+
+        Exclusion Criteria:
+
+        - 1.Other concurrent severe and/or uncontrolled medical conditions: Patients with another
+        primary malignant disease, except those that do not currently require treatment; acute or
+        chronic liver, pancreatic or severe renal disease; another severe and/or life-threatening
+        medical disease.
+
+        2.Evidence of uncontrolled current serious active infection. 3.HIV/HBV/HCV Infection.
+        4.Pregnancy and nursing females. 5.Accept glucocorticoid systemic therapy in the last one
+        week.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>July 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>July 15, 2018</study_first_submitted>
+  <study_first_submitted_qc>July 15, 2018</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 25, 2018</study_first_posted>
+  <last_update_submitted>July 15, 2018</last_update_submitted>
+  <last_update_submitted_qc>July 15, 2018</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 25, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>First Hospital of Jilin University</investigator_affiliation>
+    <investigator_full_name>jiuwei cui</investigator_full_name>
+    <investigator_title>chief</investigator_title>
+  </responsible_party>
+  <keyword>Chimeric Antigen Receptor-Modified T Cells</keyword>
+  <keyword>CART</keyword>
+  <keyword>Recurrent B Cell Acute Lymphoblastic Leukemia</keyword>
+  <keyword>refractory B Cell Acute Lymphoblastic Leukemia</keyword>
+  <keyword>ALL</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Burkitt Lymphoma</mesh_term>
+    <mesh_term>Leukemia, B-Cell</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

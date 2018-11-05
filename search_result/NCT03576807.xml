@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="399">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03576807</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SHLY1701</org_study_id>
+    <nct_id>NCT03576807</nct_id>
+  </id_info>
+  <brief_title>The Clinical Research of Anti-CD20 CAR-T Cells in Patients With Refractory or Relapsed B Lymphocyte Lymphoma</brief_title>
+  <official_title>The Clinical Research of Anti-CD20 CAR-T Cells in Patients With Refractory or Relapsed B Lymphocyte Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Xin Wang</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Longyao Biotechnology Inc., Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The present study is an exploratory study. Patients who meeting the enrollment conditions for
+      relapsed or refractory B-cell lymphoma receive a single intravenous dose of CD20-CART cells.
+      The research with the open-label, single arm running control methods in order to initially
+      observe the safety, tolerability, and cellular pharmacokinetics of CD20-CART cell drugs.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The main purpose:
+
+      To preliminary explore the safety, tolerability and cellular pharmacokinetics of CD20-CART
+      cell agents in the treatment of relapsed or refractory B-cell lymphomas.
+
+      The Secondary purpose:
+
+      The following indicators for preliminary observations of CD20-CART cells in the treatment of
+      relapsed or refractory B-cell malignant lymphoma.
+
+        1. The determination of lymph nodes to evaluate the anti-tumor effect caused by the input
+           of CD20-CART cells agents.
+
+        2. Assessing the ability of CD20-CART cell agents to inhibit the migration of bone marrow
+           and lymph node tumor foci.
+
+        3. Assess the killing ability of CD20-CART cell agents to tumor cells in vitro, for
+           patients whose tumor cells could obtain.
+
+        4. Disease control rate (DCR) (=CR (complete disease remission) + PR (partial remission of
+           disease) + SD (stable disease), short-term efficacy assessment); Overall survival (OS)
+           and progression-free survival (PFS) (long-term efficacy assessment).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 4, 2018</start_date>
+  <completion_date type="Anticipated">April 3, 2020</completion_date>
+  <primary_completion_date type="Anticipated">April 3, 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Study related adverse events [ Time Frame: 4 weeks ]</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Occurrence of study related adverse events, defined as NCI CTC ≥ Grade 3 signs/symptoms, laboratory toxicities and clinical events that are possible.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Graft Activity Endpoint Detection</measure>
+    <time_frame>24 hours, 1 week, 2 weeks, 3 weeks, 4 weeks, 1 month, 2 months, 3 months, 4 months, 5 months, 6 months, 1 quarter, 2 quarters, 3 months after returning to CART cells. Data were collected in quarters, 4 quarters, 5 quarters, 6 quart</time_frame>
+    <description>The PCR method was used to detect the copy number of the exogenous CAR vector in the blood until the end of the test was negative for both tests.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Relapsed or Refractory B-cell Lymphomas</condition>
+  <arm_group>
+    <arm_group_label>CD20 CAR-T cells</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Experimental: CD20 CAR-T cells</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CD20 CAR-T cells</intervention_name>
+    <description>A total of 1 - 20×10^6 CD20 CAR-T cells/kg will be administered by IV infusions.</description>
+    <arm_group_label>CD20 CAR-T cells</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        1．Patients diagnosed with B-cell relapse/refractory lymphoma have no effective treatment
+        option. They have been treated for more than 2 years after autologous or allogeneic stem
+        cell transplantation.
+
+        2.The patient's age is between 10 and 80 years old. 3. The expected survival of the patient
+        is greater than 12 weeks. 4. Important organ functions must meet the following conditions:
+        The echocardiography indicates that the cardiac ejection fraction is ≥50%.
+        Electrocardiogram showed no obvious abnormalities. Creatinine clearance was calculated
+        using the Cockcroft-Gault formula ≥ 40 ml/min. ALT value and AST value ≤ 3 times normal
+        range. Total bilirubin ≤2.0mg/dl. The coagulation function showed a PT value and APPT value
+        less than 2 times normal. Arterial oxygen saturation (SpO2) is greater than 92%.
+
+        5. Blood routine parameters: Hgb≥80g/L, ANC≥1×109/L, PLT≥50×109/L. 6. The pregnancy test
+        for women of childbearing age must be negative; both male and female patients must agree to
+        use effective contraceptives during the treatment period and within the next year; 7. There
+        are measurable target lesions, see annex to measure lesion definition. 8. Patients have
+        sufficient venous access to apheresis or venous blood and no other leukocyte isolation
+        contraindications.
+
+        9.ECOG评分≤2. 10. Patients need to sign informed consent.
+
+        Exclusion Criteria:
+
+          1. The patient is a pregnant or breastfeeding woman, or is a woman with a pregnancy plan
+             within six months;
+
+          2. Patients have infectious diseases (such as HIV, RPR, active tuberculosis, etc.);
+
+          3. The patient is an active hepatitis B or hepatitis C infection.
+
+          4. The patient received genetic product treatment within six months.
+
+          5. The patient participated in a clinical trial within six months.
+
+          6. The patient has a severe autoimmune disease.
+
+          7. The doctor thinks that there are other reasons that can't be accepted.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>10 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>JIANG CAO, DOCTOR</last_name>
+    <phone>+86 1385243263</phone>
+    <email>zimu05067@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Affiliated Hospital of Xuzhou Medical University</name>
+      <address>
+        <city>Xuzhou</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kailin K Xu, DOCTOR</last_name>
+      <phone>+86 0516 85802398</phone>
+      <email>lihmd@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jiang Cao, DOCTOR</last_name>
+      <phone>+86 13852432263</phone>
+      <email>zimu05067@163.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kailin K Xu, DOCTOR</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>April 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>June 21, 2018</study_first_submitted>
+  <study_first_submitted_qc>June 21, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 3, 2018</study_first_posted>
+  <last_update_submitted>June 21, 2018</last_update_submitted>
+  <last_update_submitted_qc>June 21, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 3, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Shanghai Longyao Biotechnology Inc., Ltd.</investigator_affiliation>
+    <investigator_full_name>Xin Wang</investigator_full_name>
+    <investigator_title>The clinical research of targeted CD20-CART cells treatment for refractory or recurrence B lymphocyte lymphoma</investigator_title>
+  </responsible_party>
+  <keyword>B-cell leukemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rituximab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

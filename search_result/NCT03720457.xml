@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="464">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03720457</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HRAIN01-NHL01</org_study_id>
+    <secondary_id>CTR20181354</secondary_id>
+    <nct_id>NCT03720457</nct_id>
+  </id_info>
+  <brief_title>Human CD19 Targeted T Cells Injection(CD19 CAR-T) Therapy for Relapsed and Refractory CD19-positive Lymphoma.</brief_title>
+  <official_title>A Phase I Clinical Trial of Human CD19 Targeted T Cells Injection for Subjects With Relapsed and Refractory CD19-positive Diffuse Large B-cell Lymphoma and Follicular Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hrain Biotechnology Co.,Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Shanghai Zhongshan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hrain Biotechnology Co.,Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety and tolerance of human CD19 targeted T Cells injection for the
+      treatment of relapsed and refractory CD19-positive diffuse large B-cell lymphoma and
+      follicular lymphoma. Patients will be given a conditioning chemotherapy regimen of
+      fludarabine and cyclophosphamide followed by a single infusion of CD19 CAR+ T cells.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants with relapsed/refractory CD19-positive Diffuse Large B-cell Lymphoma and
+      Follicular Lymphoma can participate if all eligibility criteria are met.Tests required to
+      determine eligibility include disease assessments, a physical exam, Electrocardiograph,
+      CT/MRI , and blood draws.Participants receive chemotherapy prior to the infusion of CD19 CAR+
+      T cells. After the infusion, participants will be followed for side effects and effect of
+      CD19 CAR+ T cells. Study procedures may be performed while hospitalized.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">October 2018</start_date>
+  <completion_date type="Anticipated">October 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety measured by occurrence of study related adverse effects defined by NCI CTCAE 4.0</measure>
+    <time_frame>2 years post infusion</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of CAR-positive T cells in circulation</measure>
+    <time_frame>2 years post infusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of CAR-positive T cells infiltrated into lymphoma tissue</measure>
+    <time_frame>2 years post infusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall remission rate including complete response and Partial response defined by the standard response criteria for malignant lymphoma.</measure>
+    <time_frame>90 days post infusion</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>CD19-positive</condition>
+  <condition>Diffuse Large B-cell Lymphoma</condition>
+  <condition>Follicular Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Human CD19 targeted T Cells Injection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Human CD19 targeted T Cells Injection</intervention_name>
+    <description>Autologous genetically modified anti-CD19 CAR transduced T cells</description>
+    <arm_group_label>Human CD19 targeted T Cells Injection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. 18 to 70 Years Old, Male and female;
+
+          2. Expected survival &gt; 12 weeks;
+
+          3. Clinical performance status of ECOG score 0-1;
+
+          4. Pathology demonstrated that CD19-positive B-cell non-Hodgkin's lymphoma and who meet
+             one of the following conditions:
+
+               1. Relapsed and refractory CD19-positive Diffuse large B-cell lymphoma and
+                  Follicular lymphoma: patients previously received at least first-line and second-
+                  line treatment and fail to achieve CR;
+
+               2. Disease recurrence after stem cell transplantation, and at least 1 years after
+                  stem cell transplantation.
+
+          5. Accessible to intravenous injection, and no white blood cell collection
+             contraindications;
+
+          6. At least 1 measurable tumor foci according to the IWG treatment response criteria;
+
+          7. Patients who meet the following conditions:
+
+               1. Creatinine &lt; 2.5 mmol/l;
+
+               2. Cardiac ejection fraction&gt;50%, no pericardial effusion and no pleural effusion
+                  (ECHO examination);
+
+               3. Baseline oxygen saturation&gt;92%;
+
+               4. Total bilirubin≤1.5xULN; ALT/AST≤2.5x normal.
+
+          8. Able to understand and sign the Informed Consent Document.
+
+        Exclusion Criteria:
+
+          1. Accompanied by other malignant tumor;
+
+          2. Active hepatitis B, hepatitis C, syphilis, HIV infection;
+
+          3. Suffering severe cardiovascular or respiratory disease;
+
+          4. Any other diseases could affect the outcome of this trial;
+
+          5. Any affairs could affect the safety of the subjects or outcome of this trial;
+
+          6. Pregnant or lactating women, or patients who plan to be pregnancy during or after
+             treatment;
+
+          7. Occurrence of infection uncontrolled or requiring systemic treatment 14 days prior to
+             assignment;
+
+          8. Patients who are accounted by researchers to be not appropriate for this test;
+
+          9. Received CAR-T treatment or other gene therapies before assignment;
+
+         10. Patients with symptoms of central nervous system;
+
+         11. Subject suffering disease affects the understanding of informed consent or comply with
+             study protocol.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hongliang Fang, Dr.</last_name>
+    <phone>021-58552006</phone>
+    <email>fanghongliang@dashengbio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Fudan University Zhongshan Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peng Liu, Professor</last_name>
+      <phone>021-60267405</phone>
+      <email>Liu.peng@zs-hospital.sh.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>October 24, 2018</study_first_submitted>
+  <study_first_submitted_qc>October 24, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 25, 2018</study_first_posted>
+  <last_update_submitted>October 29, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 29, 2018</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 31, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CD19</keyword>
+  <keyword>CAR-T</keyword>
+  <keyword>Diffuse Large B-cell Lymphoma</keyword>
+  <keyword>Follicular Lymphoma</keyword>
+  <keyword>Relapsed /Refractory</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Follicular</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

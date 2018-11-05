@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="58">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03650933</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GB241NHL3</org_study_id>
+    <nct_id>NCT03650933</nct_id>
+  </id_info>
+  <brief_title>A Study Comparing the Efficacy and Safety of G-CHOP Versus R-CHOP in Untreated Diffuse Large B-cell Lymphoma Patients</brief_title>
+  <official_title>A Multi-center, Randomized, Double-blind, Controlled, and Parallel Phase III Study to Compare the Efficacy and Safety of GB241 (Recombinant Anti-CD20 Human-Mouse Chimeric Monoclonal Antibody Injection, Experimental Drug) Plus CHOP Versus Rituximab Plus CHOP in Untreated Diffuse Large B-cell Lymphoma (DLBCL) Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nanjing Yoko Biomedical Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nanjing Yoko Biomedical Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Multi-center, Randomized, Double-blind, Controlled, and Parallel Phase III Study to Compare
+      the Efficacy and Safety of GB241 (Recombinant Anti-CD20 Human-Mouse Chimeric Monoclonal
+      Antibody Injection, Experimental Drug) Plus CHOP Versus Rituximab Plus CHOP in Untreated
+      Diffuse Large B-cell Lymphoma (DLBCL) Patients
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2018</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>6 cycles(each cycle is 3 weeks)</time_frame>
+    <description>To evaluate the objective response rate (ORR) in patients with previously untreated Diffuse Large B-cell Lymphoma after six cycles of treatment.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">360</enrollment>
+  <condition>Diffuse Large B-Cell Lymphoma, Unspecified Site</condition>
+  <arm_group>
+    <arm_group_label>G-CHOP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>GB241 plus CHOP, six cycles. GB241: 375 mg/m2, IV, day 1 of each cycle; Cyclophosphamide: 750 mg/m2, IV, day 2 of each cycle; Doxorubicin: 50 mg/m2, IV, day 2 of each cycle; Vincristine: 1.4 mg/m2, up to a maximal dose of 2 mg, IV, day 2 of each cycle; Prednisone: 100 mg, po, day 2 to day 6 of each cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>R-CHOP</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Rituximab plus CHOP, six cycles. Rituximab: 375 mg/m2, IV, day 1 of each cycle; Cyclophosphamide: 750 mg/m2, IV, day 2 of each cycle; Doxorubicin: 50 mg/m2, IV, day 2 of each cycle; Vincristine: 1.4 mg/m2, up to a maximal dose of 2 mg, IV, day 2 of each cycle; Prednisone: 100 mg, po, day 2 to day 6 of each cycle.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>G-CHOP</intervention_name>
+    <description>6 cycles(each cycle is 3 weeks)</description>
+    <arm_group_label>G-CHOP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>R-CHOP</intervention_name>
+    <description>6 cycles(each cycle is 3 weeks)</description>
+    <arm_group_label>R-CHOP</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Previously untreated CD20 Positive DLBCL.
+
+          2. International Prognostic Index (IPI) score of 0 to 2, Eastern Cooperative Oncology
+             Group (ECOG) performance status of 0 to 2.
+
+          3. 18 years to 70 years; Male or female patients; Body Mass Index (BMI)≤2.13 m^2.
+
+          4. Expected survival more than 6 months.
+
+          5. At least 1 bi-dimensionally measurable lesion: Nodal lesion: Greatest transverse
+             diameter≥1.5cm and short axis≥1.0cm; Extra-nodal lesion: Greatest transverse
+             diameter≥1.0cm.
+
+          6. Cardiac echocardiography: LVEF≥50%.
+
+          7. Adequate hematological function: WBC≥3 x 10^9/L, HGB≥80g/L, ANC≥1.5 x 10^9/L, PLT≥75 x
+             10^9/L.
+
+          8. Hepatic function: TBIL≤1.5 x ULN, ALT or AST≤2.5 x ULN, ALP≤3 x ULN if with no bone
+             marrow infiltration, Renal function: Cr≤1.5 x ULN.
+
+          9. Seronegative for HCV antibody, or HIV antibody, or hepatitis B virus surface antigen
+             (HBsAg). HBc antibody seropositive, but HBV DNA and HBsAg negative patients may
+             participle following consultation with a hepatitis expert regarding monitoring and use
+             of HBV antiviral therapy, and provided they agree to receive treatment as indicated.
+
+         10. Must agree to take effective birth control methods or are not of childbearing
+             potential. Women must agree to continue contraceptive measures within 12 months after
+             the last treatment. Men must agree to continue contraception within 3 months after the
+             treatment.
+
+         11. All patients must have signed an informed consent document.
+
+        Exclusion Criteria:
+
+          1. Other types of DLBCL: primary central nervous system DLBCL, primary skin DLBCL (leg
+             type), EBV-positive DLBCL, NOS, EB virus-positive skin mucosal ulcer, chronic
+             inflammation-related DLBCL, lymphomatoid granuloma, primary Mediastinal (thymus) large
+             B-cell lymphoma, intravascular large B-cell lymphoma, ALK+ large B-cell lymphoma,
+             plasmablastic lymphoma, primary exudative lymphoma, HHV8+DLBCL, NOS, Burkitt's lymph
+             Tumor, primary testicular lymphoma。
+
+          2. Confirmed DLBCL with BCL-2 and c-MYC gene rearrangement or BCL-2, BCL-6, and c-MYC
+             gene rearrangement by FISH. B-cell lymphomas, unclassifiable, with features
+             intermediate between diffuse large B-cell lymphoma and Burkitt lymphoma.
+
+          3. B-cell lymphoma, unclassifiable, with features intermediate between diffuse large
+             B-cell lymphoma and classical Hodgkin lymphoma.
+
+          4. Previous malignant tumor except cured cervical cancer,basal cell carcinoma and
+             squamous cell skin cancer.
+
+          5. Patients who have received therapy for non-Hodgkin's lymphoma: including chemotherapy,
+             immunotherapy; radiotherapy (excluding local radiotherapy); monoclonal antibody
+             therapy; surgical treatment (excluding biopsy);
+
+          6. Patients who received continuous treatment of corticosteroid drugs lasting for more
+             than 10 days. Prednisone with the dosage over 30mg/day; Other corticosteroid drugs
+             with equal dosage.
+
+          7. Patients who received cytotoxic drugs or anti-CD20 monoclonal antibody for other
+             diseases (such as Rheumatoid arthritis).Or received any monoclonal antibody within 3
+             months prior to the enrollment of the study.
+
+          8. Patients who participated in other clinical trials within 3 months prior to the
+             enrollment of the study.
+
+          9. Patients who received attenuated or live virus vaccine within 1 month prior to the
+             enrollment of the study.
+
+         10. Patients who received hematopoietic stimulating factors within 1 week prior to the
+             enrollment of the study.
+
+         11. Recent major surgery within 1 month.
+
+         12. Active Infectious disease or significant infections requiring intravenous antibiotic
+             therapy or hospitalization in the past 4 weeks (exception of tumor induced fever).
+
+         13. Known allergic reactions against human or murine monoclonal antibody, murine products,
+             or foreign proteins.
+
+         14. Contraindicative to any drug in CHOP.
+
+         15. Patients who have significant cardiac disease, including heart disease of grade Ⅲ of Ⅳ
+             according to the New York Heart Association(NYHA) system, or occurrence of myocardial
+             infarction, unstable arrhythmia, unstable angina or severe hypertension in the past 6
+             months or peripheral nervous system(PNS) or CNS disease.
+
+         16. Suspected active tuberculosis patients.
+
+         17. Patients with serious peripheral nervous system or central nervous system disease.
+
+         18. Patients that researchers deem as not appropriate to enter the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Tie Xu, Master</last_name>
+    <phone>86-18036618680</phone>
+    <email>xutie@yoko-bio.com</email>
+  </overall_contact>
+  <verification_date>August 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>August 27, 2018</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 29, 2018</study_first_posted>
+  <last_update_submitted>August 27, 2018</last_update_submitted>
+  <last_update_submitted_qc>August 27, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 29, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>GB241</keyword>
+  <keyword>Rituximab</keyword>
+  <keyword>Diffuse Large B-cell Lymphoma</keyword>
+  <keyword>Non Hodgkin's Lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rituximab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="35">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03630159</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCTL019J2101</org_study_id>
+    <nct_id>NCT03630159</nct_id>
+  </id_info>
+  <brief_title>Study of Tisagenlecleucel in Combination With Pembrolizumab in r/r Diffuse Large B-cell Lymphoma Patients</brief_title>
+  <acronym>PORTIA</acronym>
+  <official_title>Phase Ib Study of Tisagenlecleucel in Combination With Pembrolizumab in Relapsed/Refractory (r/r) Diffuse Large B-cell Lymphoma (DLBCL) Patients.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A multi-center, open-label, phase Ib study to evaluate the safety and efficacy of the
+      administration of tisagenlecleucel in combination with pembrolizumab in patients with r/r
+      DLBCL who have received 2 or more lines of systemic therapy, including an anti-CD20 and
+      anthracycline based chemotherapy and having failed to or are not candidates for ASCT. The
+      study will consist of 2 parts: dose timing selection part and expansion part.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 9, 2018</start_date>
+  <completion_date type="Anticipated">February 27, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 28, 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>None (Open label)</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent of participants recieving pembrolizumab per protocol schedule</measure>
+    <time_frame>21 days after first pembrolizumab infusion</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dose Timing part: Incidence of dose limiting toxicities (DLTs)</measure>
+    <time_frame>21 days after first pembrolizumab infusion</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Expansion part: Overall response rate (ORR)</measure>
+    <time_frame>3 month post tisagenlecleucel infusion</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR)</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In vivo cellular kinetics of tisagenlecleucel in blood, bone marrow, lymph nodes and other tissues by qPCR and flow cytometry</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact of pembrolizumab dosing strategy on the cellular kinetics of tisagenlecleucel by qPCR and flow cytometry</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity measured by antibody titres specific to tisagenlecleucel molecule and by the presence of T lymphocytes activated by the tisagenlecleucel protein</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Diffuse Large B-cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Tisagenlecleucel+Pembrolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Tisagenlecleucel</intervention_name>
+    <description>Gene modified autologous T cells</description>
+    <arm_group_label>Tisagenlecleucel+Pembrolizumab</arm_group_label>
+    <other_name>CTL019</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>anti PD-1</description>
+    <arm_group_label>Tisagenlecleucel+Pembrolizumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Confirmed DLBCL per local histopathology assessment.
+
+          -  Relapsed or refractory disease after having recieved 2 or more lines of systemic
+             therapy, including anti-CD20 and anthracycline based chemotherapy, and either having
+             progressed after (or relapsed after) ASCT, or being not candidates for or not
+             consenting to ASCT.
+
+          -  Measurable disease at time of enrollment
+
+          -  ECOG performance status that is either 0 or 1 at screening.
+
+        Exclusion Criteria:
+
+          -  Patients with Richter's transformation, and Burkitt lymphoma, and primary DLBCL of
+             CNS.
+
+          -  Prior treatment with any prior anti-CD19/anti-CD3 therapy, or any other anti-CD19
+             therapy.
+
+          -  Patients with active CNS involvement are excluded, except if the CNS involvement has
+             been effectively treated and provided that local treatment was &gt;4 weeks before
+             enrollment.
+
+          -  Prior allogeneic HSCT.
+
+          -  Unstable angina and/or myocardial infarction and/or coronary artery bypass graft
+             (CABG), or stroke within 6 months prior to screening, and/or impaired cardiac function
+             or clinically significant cardiac disease
+
+          -  Patients with a history of prior treatment with anti-PD-1, anti-PD-L1, anti-PD-L2,
+             anti-CTLA-4 antibodies, other immune checkpoint inhibitors.
+
+          -  History of interstitial lung disease or (non-infectious) pneumonitis that required
+             oral or intravenous steroids (other than COPD exacerbation) or current pneumonitis.
+
+        Other protocol-defined inclusion/exclusion criteria may apply.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>1-888-669-6682</phone>
+    <email>novartis.email@novartis.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>+41613241111</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Chicago Medical Center, Hematology &amp; Oncology</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Tyson</last_name>
+      <phone>773-834-8980</phone>
+      <email>jtyson3@medicine.bsd.uchicago.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Peter Riedell</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Wien</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Canada</country>
+    <country>Germany</country>
+  </removed_countries>
+  <verification_date>October 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>August 1, 2018</study_first_submitted>
+  <study_first_submitted_qc>August 9, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 14, 2018</study_first_posted>
+  <last_update_submitted>October 24, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 24, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Lymphoma tisagenlecleucel</keyword>
+  <keyword>Diffuse Large B-cell Lymphoma</keyword>
+  <keyword>CTL019</keyword>
+  <keyword>PORTIA</keyword>
+  <keyword>DLBCL</keyword>
+  <keyword>tisagenlecleucel</keyword>
+  <keyword>pembrolizumab</keyword>
+  <keyword>r/r Diffuse large B-cell Lymphoma</keyword>
+  <keyword>relapsed/refractory Diffuse large B-cell Lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

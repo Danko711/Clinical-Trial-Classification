@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="333">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03645395</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MT-3724_NHL_003</org_study_id>
+    <nct_id>NCT03645395</nct_id>
+  </id_info>
+  <brief_title>PK,PD, Safety and Tolerability of Multiple Dose Regimens of MT-3724 With Lenalidomide for the Treatment of Patients With Relapsed/Refractory Diffuse Large B Cell Non-Hodgkin's Lymphoma (MT-3724_NHL_003)</brief_title>
+  <official_title>A Phase 2a Open-label Study to Investigate Safety and Tolerability (Including the MTD), Efficacy, Pharmacokinetics, Pharmacodynamics and Immunogenicity of MT-3724 in Combination With Lenalidomide in Subjects With Relapsed or Refractory CD20-positive B-cell Non-Hodgkin Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Molecular Templates, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Molecular Templates, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety and tolerability of MT-3724 in
+      combination with Lenalidomide in subjects with relapsed or refractory CD20-positive B-Cell
+      NHL.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multi-center, open-label two-part study evaluating the safety and tolerability of
+      MT-3724 in combination with Lenalidomide in relapsed or refractory CD20 positive B-cell
+      Lymphoma patients.
+
+      Part 1: (MT-3724 Dose Escalation) Define the maximum tolerated dose (MTD) of MT-3724 in
+      combination with standard treatment of Lenalidomide
+
+      Part 2: (MTD Expansion Cohort) Confirm the safety and tolerability of the MTD of MT-3724 from
+      Part 1 in the MTD Expansion Cohort, where MT-3724 will be given at the MTD in combination
+      with Lenalidomide. In addition, the PK, PD, immunogenicity and tumor response at the MTD of
+      MT-3724 in combination with Lenalidomide will be more thoroughly evaluated in Part 2.
+
+      It is anticipated that up to 64 patients will be enrolled. Treatment will continue for up to
+      Six 28 day cycles (approximately 6 months)
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 3, 2018</start_date>
+  <completion_date type="Anticipated">July 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 17, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Tolerability as measured by number of subjects with dose limiting toxicities</measure>
+    <time_frame>28 days</time_frame>
+    <description>Evaluation of tolerability of MT-3724 measured by number of subjects with dose limiting toxicities (DLTs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety measured by number of subjects with Adverse Events using CTCAE</measure>
+    <time_frame>28 days</time_frame>
+    <description>Safety measured by number of subjects with Adverse Events using CTCAE Version 5.0</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PK as measured by concentrations of free MT-3724 (Maximum Plasma Concentration [Cmax])</measure>
+    <time_frame>Dose 1 (Day 1) in Each 28-Day cycle up to 6 cycles, Dose 6 (Day 12) in Cycle 1 only</time_frame>
+    <description>Evaluation of the pharmacokinetic profile of MT-3724</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK as measured by concentrations of free MT-3724 (Area Under the Curve [AUC])</measure>
+    <time_frame>Dose 1 (Day 1) in Each 28-Day cycle up to 6 cycles, Dose 6 (Day 12) in Cycle 1 only</time_frame>
+    <description>Evaluation of the pharmacokinetic profile of MT-3724</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK as measured by concentrations of free MT-3724 (Time to reach maximum concentration after drug administration [Tmax])</measure>
+    <time_frame>Dose 1 (Day 1) in Each 28-Day cycle up to 6 cycles, Dose 6 (Day 12) in Cycle 1 only</time_frame>
+    <description>Evaluation of the pharmacokinetics profile of MT-3724</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PD as measured by tumor response</measure>
+    <time_frame>Measured one at End of Treatment visit at approximately 6 months</time_frame>
+    <description>PD as measured by assessment of CD-20 positive status of DLBCL. Evaluation of the Pharmacodynamics profile of MT-3724 by fine needle aspirant of accessible peripheral LN as measured by IHC staining to determine CD 20 positive status of DLBCL in subject who exhibit progressive disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity as measured by MT-3724 [anti-drug antibody (ADA) titer and neutralizing antibody (NA)]</measure>
+    <time_frame>day 1 of each 28 day cycle:At approximately 1 month, 2 months, 3 months, 4 months, 5 months and 6 months</time_frame>
+    <description>Evaluation of the immunogenicity of MT-3724 {anti-drug antibody (ADA) titer and neutralizing antibody (NA) will be collected.Data for anti-drug antibody (ADA) against MT-3724 will be obtained as the positive or negative.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PD as measured by B-cell count in peripheral blood as determined by flow cytometry measured against MT-3724 serum concentrations at pre-specified time points</measure>
+    <time_frame>Day 1 in each Cycle, Day 12 of Cycle 1-Cycle 2, Day 15 of Cycle 3 -Cycle 6; each cycle is of 28 Days total of 6 cycles and overall 11 assessments</time_frame>
+    <description>Evaluation of the Pharmacodynamic profile of MT-3724</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PD as measured by by immunophenotype in peripheral blood, as determined by flow cytometry measured against MT-3724 serum concentrations at pre-specified time points</measure>
+    <time_frame>Day 1 in each Cycle, day 12 of Cycle 1-Cycle 2, Day 15 of Cycle 3 -Cycle 6; each cycle is of 28 days</time_frame>
+    <description>Evaluation of the Pharmacodynamic profile of MT-3724</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor Response as measured by PET or CT scan</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Tumor response to be assessed by the CT scan (PET or CT) of all the automatic regions involved with the measurable disease. Positron emission tomography-computed tomography (PET-CT) should be used in subjects with fluorodeoxyglucose (FDG)-avid tumor histology. Computed tomography (CT) or magnetic resonance imaging (MRI) should be used in subjects with tumor Histology of low or variable FDG avidity. Tumor response in subjects with FDG -avid tumor Histology will be determined using the 5 point scale (5 PS) according to the Lugano Classification for lymphoma (cheson 2014)adjusted according to LYRIC (lymphoma response to immunomudulatory therapy criteria)(Cheson 2016)The objective tumor response rate (ORR) at each time point to based on radiologist's measurement of all evaluable lesions.The ORR representing clinically significant clinical benefit in this study will comprise the Lugano score 1,2,or 3 or the CR or PR)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">64</enrollment>
+  <condition>Non-hodgkin Lymphoma</condition>
+  <condition>B Cell Refractory Diffuse Large B-Cell Lymphoma</condition>
+  <condition>Relapsed Diffuse Large B-Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>MT-3724 10 mcg/kg-LEN</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MT-3724 10 mcg/kg/dose IV for 6 doses over 12 days (M-W-F X 2 weeks) of each 28 day cycle in combination with LEN. If the treatment with MT-3724 is continued beyond Cycle 2, then MT-3724 will be administered weekly (Day 1, 8, 15 and 22) of each 28-day cycle</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MT-3724 25 mcg/kg-LEN</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MT-3724 25 mcg/kg/dose IV for 6 doses over 12 days (M-W-F X 2 weeks) of each 28 day cycle in combination with LEN. If the treatment with MT-3724 is continued beyond Cycle 2, then MT-3724 will be administered weekly (Day 1, 8, 15 and 22) of each 28-day cycle</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MT-3724 50 mcg/kg-LEN</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MT-3724 50 mcg/kg/dose IV for 6 doses over 12 days (M-W-F X 2 weeks) of each 28 day cycle in combination with LEN. If the treatment with MT-3724 is continued beyond Cycle 2 , then MT-3724 will be administered weekly (Day 1, 8, 15 and 22) of each 28-day cycle</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MT-3724</intervention_name>
+    <description>Experimental treatment with MT-3724 in combination with LEN therapy.</description>
+    <arm_group_label>MT-3724 10 mcg/kg-LEN</arm_group_label>
+    <arm_group_label>MT-3724 25 mcg/kg-LEN</arm_group_label>
+    <arm_group_label>MT-3724 50 mcg/kg-LEN</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects must meet ALL the following criteria to be eligible for the study.
+
+               1. Men or Women , age 18 years or older
+
+               2. Have histologically confirmed, relapsed or refractory CD20-positive B-cell NHL
+                  that, in the investigator's opinion, could benefit from MT-3724+LEN therapy.
+
+                  NHL histology must be determined at any time after the most recent relapse by:
+
+                    1. Excisional lymph node biopsy (FNA or other procedure not acceptable) or
+
+                    2. Core biopsy of any involved organ (FNA not acceptable)
+
+                    3. Bone marrow biopsy (FNA is not acceptable) All subtypes of CD20-positive
+                       B-cell NHL may be considered for Part 1 (MT-3724 dose escalation). Only
+                       CD20-positive DLBCL may be considered for Part 2 (expansion cohort)
+
+               3. Have received all available approved therapies for NHL. Those subjects who are
+                  ineligible for approved therapies in the opinion of the investigator, or have
+                  refused such therapies, will be eligible.
+
+               4. Have measurable disease by Lugano Classification for NHL (see Appendix 4):
+
+                    1. &gt;1.5 cm longest diameter (LDi) for lymph nodes
+
+                    2. &gt;1.0 cm LDi for extranodal disease
+
+               5. Have NHL of intermediate- or high-risk stage by the International Prognostic
+                  Index, Advanced stage II NHL with bulky disease by the Ann Harbor Staging with
+                  Cotswold modification may be eligible at investigator's discretion (see Appendix
+                  3).
+
+               6. Have Eastern Cooperative Oncology Group (ECOG) performance score of ≤2 (see
+                  Appendix 7).
+
+               7. Have adequate bone marrow function, as determined by all the following:
+
+                    1. Absolute neutrophil count (ANC) ≥1,000/mm3 (Common Terminology Criteria for
+                       Adverse Events [CTCAE] Grade ≤2) and
+
+                    2. Platelet count ≥50,000 mm³ (CTCAE Grade ≤2)
+
+               8. Have adequate kidney function, assessed by the estimated glomerular filtration
+                  rate (eGFR) ≥60 mL/min (CTCAE Grade ≤1) calculated by the Cockcroft and Gault's
+                  equation.
+
+                  a. At the investigator's discretion, the eGFR result &lt;60 mL/min may be verified
+                  by measurement of creatinine clearance (CLcr) based on the 24-hour urine
+                  collection. Subjects with CLcr ≥60 mL/min (CTCAE Grade ≤1) will be eligible
+                  irrespective of the eGFR result.
+
+               9. Have adequate hepatic function, as determined by:
+
+                    1. Total bilirubin ≤1.5 x ULN, or ≤3 x ULN for subjects with Gilbert's
+                       Syndrome) and
+
+                    2. AST ≤3 x ULN and
+
+                    3. ALT ≤3 x ULN
+
+              10. Have adequate coagulation, as determined by:
+
+                    1. INR or PT ≤1.5 x ULN (CTCAE Grade ≤1)
+
+                    2. PTT ≤1.5 x ULN (CTCAE Grade ≤1)
+
+              11. Have adequate serum albumin, as determined by:
+
+                  a. Albumin ≥ 3.0 g/dL (CTCAE grade ≤1)
+
+              12. Women of reproductive potential must have a negative pregnancy test on 2
+                  occasions during the screening period (within 10-14 days and within 24 hours
+                  before the start of treatment). Women not of reproductive potential are female
+                  subjects who are postmenopausal or permanently sterilized (e.g., hysterectomy,
+                  bilateral salpingectomy).
+
+              13. Males must agree to always use a latex or synthetic condom during any sexual
+                  contact with females of reproductive potential while taking LEN and for up to 4
+                  weeks after discontinuing LEN, even if they have undergone a successful
+                  vasectomy. Male patients taking LEN must not donate sperm.
+
+              14. Subjects of reproductive potential and their partners must agree to either to
+                  abstain continuously from heterosexual intercourse or to use 2 methods of
+                  reliable birth control simultaneously to begin 4 weeks prior to initiating
+                  treatment with LEN until 28 days after the last dose of MT-3724 or LEN. The
+                  investigator or a designated associate should advise the subject how to achieve
+                  adequate contraception. The following birth control methods may be considered:
+                  one highly effective form of contraception - tubal ligation, IUD, hormonal (birth
+                  control pills, injections, hormonal patches, vaginal rings, or implants), or
+                  partner's vasectomy, and one additional effective contraceptive method - male
+                  latex or synthetic condom, diaphragm, or cervical cap.
+
+        Exclusion Criteria:
+
+          -  Subjects who meet any of the following criteria must be excluded from the study.
+
+        Medical and surgical history
+
+          1. History or current evidence of neoplastic disease that is histologically distinct from
+             NHL, except cervical carcinoma in situ, superficial noninvasive bladder tumors,
+             curatively treated Stage I-II non-melanoma skin cancer or any previous cancer
+             curatively treated &gt;2 years before the start of treatment.
+
+          2. Current evidence of new or growing brain or spinal metastases during screening.
+             Subjects with known brain or spinal metastases may be eligible if they
+
+               1. Had radiotherapy or another appropriate therapy for the brain or spinal
+                  metastases
+
+               2. Have no neurological symptoms (excluding Grade ≤2 neuropathy)
+
+               3. Have stable brain or spinal disease on the CT or MRI scan within 1 month of
+                  enrollment
+
+               4. Do not require chronic steroid therapy
+
+          3. History of allogeneic hematopoietic stem cell transplant within 180 days before the
+             start of treatment.
+
+          4. Current evidence of acute or chronic Graft versus Host Disease.
+
+          5. Current evidence of CTCAE Grade &gt;1 toxicity (except for hair loss, and those
+             toxicities listed in other eligibility criteria) before the start of treatment.
+
+          6. Current evidence of incomplete recovery from surgery before the start of treatment, or
+             planned surgery at any time until the EoT Visit, except minor elective interventions
+             deemed acceptable by the investigator.
+
+          7. History or current evidence of significant (CTCAE Grade ≥2) infection or wound within
+             4 weeks before the start of treatment.
+
+          8. History or current evidence of significant cardiovascular disease including, but not
+             limited to the following conditions:
+
+               1. Unstable angina (symptoms of angina at rest) or new-onset angina within ≤3 months
+                  before the start of treatment.
+
+               2. Arterial thrombosis or pulmonary embolism within ≤3 months before the start of
+                  treatment.
+
+               3. Myocardial infarction or stroke within ≤3 months before the start of treatment.
+
+               4. Any of the following within ≤3 months before the start of treatment with MT-3724:
+                  pericarditis (any CTCAE grade), pericardial effusion (CTCAE Grade ≥2), non
+                  malignant pleural effusion (CTCAE Grade ≥2) or malignant pleural effusion (CTCAE
+                  Grade ≥3).
+
+               5. Congestive heart failure (NYHA Class III or IV) at screening or LVEF &lt;45%,
+                  assessed by Echo or MUGA scan within 1 month before starting study treatment.
+                  (Echo or MUGA scan performed within 6 months before screening and at least 28
+                  days after the last cancer therapy is acceptable provided the subject has not
+                  received any potential cardiotoxic agents).
+
+               6. Cardiac arrhythmia requiring anti-arrhythmic therapy at screening. Subjects
+                  receiving digoxin, calcium channel blockers, or beta-adrenergic blockers are
+                  eligible at the investigator's discretion after consultation with Medical Monitor
+                  and sponsor if the dose has been stable for ≥2 weeks before the start of
+                  treatment. Subjects with sinus arrhythmia and infrequent premature ventricular
+                  contractions are eligible at the investigator's discretion.
+
+          9. QTcF (Fridericia) &gt;480 ms (CTCAE Grade &gt;1), determined as the average from three QTcF
+             values on the triplicate ECG obtained at screening.
+
+         10. Current evidence of seropositive status for HIV, hepatitis B (positive for HBsAg or
+             anti-HBsAg and anti-HBcAg antibodies) or hepatitis C (positive for anti-HCV antibody
+             or HCV-RCV-RNA quantitation) as assessed by the applicable serology testing at
+             screening.
+
+               1. Serology testing is not required if seronegativity is documented in the medical
+                  history and there are no clinical signs suggestive of HIV or hepatitis infection.
+
+               2. Subjects with positive HBV serology are eligible if quantitative PCR for plasma
+                  HBV-DNA is negative and the subject will be receiving prophylaxis for potential
+                  HBV reactivation.
+
+               3. Subjects with positive HCV serology are eligible if quantitative PCR for plasma
+                  HCV RNA is negative.
+
+         11. Women who are pregnant or breastfeeding.
+
+         12. History or current evidence of hypersensitivity to any of the study drugs, or of
+             current hypersensitivity requiring systemic steroids at doses &gt;20 mg/day prednisone
+             equivalent.
+
+         13. History or current evidence of any other medical or psychiatric condition or addictive
+             disorder, or laboratory abnormality that, in the opinion of the investigator, may
+             increase the risks associated with study participation, or require treatments that may
+             interfere with the conduct of the study or the interpretation of study results.
+
+             Prior treatments
+
+         14. Received anti-CD20 monoclonal antibody (Mab) therapy within the following periods
+             before the start of treatment
+
+               1. Rituximab (Rituxan®): 110 days; if a subject had received rituximab within
+                  111-365 days before the start of treatment, then a serum rituximab level must be
+                  negative (&lt;500 ng/mL) at screening.
+
+               2. Obinutuzumab (Gazyva®): 184 days
+
+               3. Ofatumumab (Arzerra®): 88 days
+
+         15. Received therapy for NHL (except the anti-CD20 Mab therapies listed above) or any
+             other investigational drug treatment within 4 weeks before the start of treatment.
+
+         16. Received radiotherapy to tumor lesions that would be chosen as target lesions
+             (measurable disease) within 4 weeks before the start of treatment, unless the lesion
+             exhibited objective progression between the radiotherapy and the screening according
+             to the Lugano Classification for NHL.
+
+             a. Palliative radiotherapy to non-target lesions is allowed at the investigator's
+             discretion.
+
+         17. Received any vaccines within 28 days of the start of treatment, or likely to require
+             vaccines at any time from the start of treatment until 28 days after the last dose of
+             MT-3724. Injectable flu vaccine (inactivated or recombinant) is permitted at the
+             investigator's discretion.
+
+         18. Received systemic immune modulators within 2 weeks before the start of treatment
+
+               1. Systemic immune modulators include but are not limited to systemic
+                  corticosteroids at doses &gt;20 mg/day of prednisone equivalent, cyclosporine and
+                  tacrolimus.
+
+               2. The use of non-steroidal anti-inflammatory drugs (NSAIDs) is permitted
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>101 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Kristina Dabovic, PharmD</last_name>
+    <phone>862-204-7184</phone>
+    <email>kristina.dabovic@mtem.com</email>
+  </overall_contact>
+  <verification_date>July 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>July 19, 2018</study_first_submitted>
+  <study_first_submitted_qc>August 22, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 24, 2018</study_first_posted>
+  <last_update_submitted>September 17, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 18, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lenalidomide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

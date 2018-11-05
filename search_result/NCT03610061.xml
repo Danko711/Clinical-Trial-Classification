@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="249">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03610061</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ONJ2017-003-DV-008259</org_study_id>
+    <secondary_id>TRP16-006</secondary_id>
+    <nct_id>NCT03610061</nct_id>
+  </id_info>
+  <brief_title>A Trial of Radiotherapy and Durvalumab in DLBCL</brief_title>
+  <acronym>RaDD</acronym>
+  <official_title>Phase I Dose Escalation Study of Radiotherapy and Durvalumab in Relapsed/Refractory Diffuse Large B-cell Lymphoma (DLBCL): The RaDD Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Austin Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Olivia Newton-John Cancer Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Austin Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective for this study is to determine the safety profile of radiotherapy and
+      durvalumab, a PD-L1 inhibitor.
+
+      Primary endpoint:
+
+      Toxicity, drug pharmacokinetics (PK), maximum tolerated dose (MTD) and recommended phase two
+      dose (RPTD) of simultaneous radiotherapy plus durvalumab in patients with relapsed or
+      refractory DLBCL.
+
+      Secondary endpoints:
+
+        -  ORR
+
+        -  Progression-free survival
+
+        -  Overall survival
+
+      Exploratory endpoints include description of biological effects of combination radiotherapy
+      plus durvalumab (Imaging results, immune function, PK and PD-see 'research methodologies')
+      and in the PET-Sub-Study, biodistribution of 89Zr Durvalumab and 89Zr-IAB22M2C.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Diffuse large B cell lymphoma (DLBCL) is the most common non Hodgkin lymphoma. Standard first
+      line treatment achieves cure in approximately half of patients. However 30% die from relapsed
+      lymphoma.
+
+      Durvalumab (an antibody which blocks programmed cell death ligand 1) and other
+      immunotherapies fight cancer by blocking barriers to immune system activity. Immune control
+      of lymphoma provides the prospect of cure, even when chemotherapy has failed. Radiotherapy
+      has striking effects on the immune system and can boost responses to these immunotherapies.
+      The effect of concurrent radiotherapy and durvalumab in DLBCL is unproven.
+
+      This study will evaluate the safety and effect of simultaneous radiotherapy plus durvalumab
+      (a PD-L1 inhibitor) in relapsed DLBCL patients.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2018</start_date>
+  <completion_date type="Anticipated">February 2023</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Dose Escalation</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants treated with radiotherapy and durvalumab with treatment-related adverse events as assessed using CTCAE v4.0. To determine the maximum tolerated dose (MTD).</measure>
+    <time_frame>First 28 days of treatment</time_frame>
+    <description>A minimum of 3 patients will initially be enrolled in each cohort, if none of the first 3 patients experiences a dose limiting toxicity (DLT), the doses in that cohort will be deemed safe and tolerable and escalation may continue. DLTs will be grade 4 neutropenia or thrombocytopenia, grade 3 hemolysis, grade 4 immune related AEs.
+If 1 of the first 3 evaluable patients in a cohort experiences a DLT, the cohort will be expanded to at least 6 patients. If there are no further DLTs in the first 6 DLT-evaluable patients, the doses in that cohort will be deemed safe and tolerable and escalation may continue.
+If a DLT is observed in ≥ 33% of patients (e.g., 2 or more of up to 6 patients), the dose combination at which this occurs will be considered intolerable and the MTD will have been exceeded for radiotherapy If the MTD is exceeded in any cohort, the highest dose combination at which fewer than 33% experience a DLT will be declared the combination MTD.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Response rates (according to the Lugano classification for Response Criteria for Non-Hodgkin Lymphoma)</measure>
+    <time_frame>0-12 months</time_frame>
+    <description>Response rates</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>From ceasing treatment annually up to 5 years</time_frame>
+    <description>Progression free survival in patients who cease treatment due to toxicity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Every 6 months from PD up to two years.</time_frame>
+    <description>Overall survival</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Diffuse Large B Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Radiotherapy plus Durvalumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A minimum of 3 patients will initially be enrolled in each cohort of this arm. Patients will be allocated to a radiotherapy dose and site cohort from the schedule at registration. There will be no intra-patient dose or site escalations.
+Cohorts will escalate in number of anatomical sites of radiotherapy and dose of radiotherapy given subject to safety. Durvalumab will be administered at a fixed dose every 4 weeks IV.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Durvalumab</intervention_name>
+    <description>All patients will receive:
+Day 1-Day 5: External Beam Radiotherapy to target site(s)-daily for 5 days (i.e. 5 fractions).
+D2: Commence durvalumab. Continue 4-weekly until disease progression. Patients can continue until a second radiological progression if clinical benefit is ongoing.</description>
+    <arm_group_label>Radiotherapy plus Durvalumab</arm_group_label>
+    <other_name>MEDI4736</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiotherapy</intervention_name>
+    <description>All patients will receive:
+Day 1-Day 5: External Beam Radiotherapy to target site(s)-daily for 5 days (i.e. 5 fractions).
+D2: Commence durvalumab. Continue 4-weekly until disease progression. Patients can continue until a second radiological progression if clinical benefit is ongoing.</description>
+    <arm_group_label>Radiotherapy plus Durvalumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Male or Female subjects aged 18 years weighing more than 30 kg
+
+          2. Histologically proven CD20-positive relapsed or refractory diffuse large B cell
+             non-Hodgkin lymphoma (DLBCL) either de novo or DLBCL transformed from follicular
+             lymphoma, according to the current World Health Organization classification26 on
+             tissue biopsy. Archived tissue is permitted however must have been obtained after the
+             last known therapy. The Trial Management Group retains the option to limit the number
+             of participants enrolled with transformed FL.
+
+          3. At least 1 line of previous treatment for lymphoma which must include a CD20
+             monoclonal antibody such as rituximab, with no curative option as determined by the
+             investigator. Prior radiotherapy is permitted.
+
+          4. Not eligible or not willing to receive high-dose (myeloablative) chemotherapy (HDC)
+             and autologous stem cell transplant (ASCT) OR has received prior ASCT.
+
+          5. Eastern Collaborative Oncology Group performance status 0, or 1, unless attributable
+             to lymphoma in which case patients of performance status 2 are also eligible.
+
+          6. Patients must have measurable disease (at least one bi-dimensionally measurable site
+             of disease that has not been previously irradiated OR has progressed after
+             radiotherapy: nodal disease &gt;1.5 cm or an extranodal lesion &gt; 1.0 cm in longest
+             perpendicular diameter). At least three disease sites must be FDG-avid on PET imaging
+             AND amenable to radiotherapy according to local radiation oncology investigator
+             review.
+
+          7. One site of disease must be amenable to biopsy. It is preferable that this is a site
+             not planned for radiotherapy, but not mandated. A fresh tumor biopsy collected during
+             screening and /or archival tumor tissue collected after the last relapse/disease
+             progression (material which has been collected before the last line of treatment is
+             not accepted). In addition, a sufficient amount of the material is required for
+             acceptance of the archival material. If neither condition occurs, a fresh tumor biopsy
+             needs to be performed as stated above.
+
+          8. Adequate bone marrow function with platelets &gt; 50 x109/l; neutrophils &gt; 1.0x109/l at
+             the time of study entry unless attributed to bone marrow infiltration by lymphoma.
+
+          9. Adequate renal function defined by an estimated creatinine clearance ≥ 30 mL/min
+             according to the Cockcroft-Gault formula (or local institutional standard method).
+
+         10. Adequate hepatic function defined by a total bilirubin level ≤ 2 × the upper limit of
+             normal (ULN) range (excluding Gilbert's disease where a level of ≤ 3 ×ULN is
+             acceptable) and AST and alanine aminotransferase (ALT) levels ≤ 2.5 × upper limit of
+             institutional normal range unless attributed to lymphoma.
+
+         11. No concurrent uncontrolled medical condition as determined by the investigator.
+
+         12. Life expectancy &gt; 3 months.
+
+         13. Negative blood pregnancy test at screening for women of childbearing potential.
+             Effective contraception for both male and female subjects if the risk of conception
+             exists.
+
+             (Note: The effects of the trial drug on the developing human fetus are unknown; thus,
+             women of childbearing potential and men must agree to use effective contraception,
+             defined as 2 barrier methods, or 1 barrier method with an intrauterine device, or use
+             of oral female contraceptive. Should a woman become pregnant or suspect she is
+             pregnant while she or her partner is participating in this trial, the treating
+             physician should be informed immediately. Effective contraception at least 30 days
+             prior and up to 3 months after treatment is required for all women of childbearing
+             potential and male subjects will be advised not to father a child during the 3 months
+             after treatment completion. Male subjects will be requested to seek advice on
+             conservation of sperm prior to treatment.)
+
+         14. Signed written informed consent before any trial-related procedure is undertaken that
+             is not part of the standard patient management.
+
+        Exclusion Criteria:
+
+          1. T-cell lymphoma, grade 3B Follicular lymphoma.
+
+          2. Central nervous system, meningeal or spinal cord involvement by lymphoma.
+
+          3. Prior therapy with any antibody or drug targeting T-cell coregulatory proteins (immune
+             checkpoints) such as PD-1, PD-L1, or cytotoxic T-lymphocyte antigen-4 (CTLA-4).
+
+          4. Patients with active autoimmune disease that might deteriorate when receiving an
+             immunostimulatory agent:
+
+        i) Subjects with diabetes type I, vitiligo, psoriasis, hypo- or hyperthyroid disease not
+        requiring immunosuppressive treatment are eligible ii) Subjects requiring hormone
+        replacement with corticosteroids are eligible if the steroids are administered only for the
+        purpose of hormonal replacement and at doses ≤ 10 mg or 10 mg equivalent prednisone per day
+        iii) Administration of steroids through a route known to result in a minimal systemic
+        exposure (topical, intranasal, intro-ocular, or inhalation) is acceptable.
+
+        e) Subjects with a condition requiring systemic treatment with either corticosteroids (&gt; 15
+        mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of
+        study drug administration. Inhaled or topical steroids, and adrenal replacement doses &gt; 15
+        mg daily prednisone equivalents are permitted in the absence of active autoimmune disease.
+
+        f) Known severe hypersensitivity reactions to monoclonal antibodies (Grade ≥ 3 NCI-CTCAE v
+        4.03), any history of anaphylaxis, or uncontrolled asthma (that is, 3 or more features of
+        partially controlled asthma) g) Past history of interstitial lung disease. h) Prior organ
+        transplantation, including allogeneic stem-cell transplantation i) Prior malignancy active
+        within the previous 2 years except for locally curable cancers that have been apparently
+        cured, such as basal or squamous cell skin cancer, superficial bladder cancer, or carcinoma
+        in situ of the prostate, cervix, or breast.
+
+        j) Major surgery for any reason, except diagnostic biopsy, within 4 weeks of enrolment
+        and/or if the subject has not fully recovered from the surgery within 4 weeks of enrolment
+        k) Any other serious active disease, including but not limited to; i) clinically
+        significant (i.e., active) cardiovascular disease: cerebral vascular accident/stroke (&lt; 6
+        months prior to enrolment), myocardial infarction (&lt; 6 months prior to enrolment), unstable
+        angina pectoris, congestive heart failure (New York Heart Association Classification Class
+        ≥ II), or serious cardiac arrhythmia requiring medication (including QTc prolongation of &gt;
+        470 ms and/or pacemaker) or prior diagnosis of congenital long QT syndrome.
+
+        ii) uncontrolled active infection, iii) uncontrolled diabetes (e.g., haemoglobin A1c ≥
+        8.5%) l) Known history of testing positive for human immunodeficiency virus (HIV) or known
+        acquired immunodeficiency syndrome (AIDS), Hepatitis B virus (HBV) or hepatitis C virus
+        (HCV) infection at screening (positive HBV surface antigen or HCV RNA if anti-HCV antibody
+        screening test positive) m) Medical or psychiatric conditions that compromise the patient's
+        ability to give informed consent.
+
+        o) Subject is pregnant, lactating or unwilling/unable to use adequate contraception p)
+        Subject weighs less than 30kg
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eliza Hawkes, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Austin Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eliza Hawkes, MD</last_name>
+    <phone>+61 3 9496</phone>
+    <phone_ext>5763</phone_ext>
+    <email>eliza.hawkes@onjcri.org.au</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Joanne Hakanson, BSc</last_name>
+    <phone>+61 3 9496</phone>
+    <phone_ext>3352</phone_ext>
+    <email>joanne.hakanson@austin.org.au</email>
+  </overall_contact_backup>
+  <verification_date>July 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>November 14, 2017</study_first_submitted>
+  <study_first_submitted_qc>July 25, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 1, 2018</study_first_posted>
+  <last_update_submitted>July 25, 2018</last_update_submitted>
+  <last_update_submitted_qc>July 25, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 1, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Austin Health</investigator_affiliation>
+    <investigator_full_name>Dr. Eliza Hawkes</investigator_full_name>
+    <investigator_title>Chief Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>IPD is the property of the Sponsor (Olivia Newton John Cancer Research Institute). Results from the research intends to be published/presented in relevant publications/conferences for colleague review</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

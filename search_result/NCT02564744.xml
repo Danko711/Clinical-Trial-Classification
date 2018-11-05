@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="330">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02564744</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Debio 1562-201</org_study_id>
+    <secondary_id>2015-004061-87</secondary_id>
+    <nct_id>NCT02564744</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Efficacy and Tolerability Debio 1562 in Combination With Rituximab in Patients With Relapsed and/or Refractory DLBCL and Other Forms of NHL</brief_title>
+  <official_title>A Phase 2 Study to Evaluate the Efficacy and Tolerability of Debio 1562 in Combination With Rituximab in Patients With Relapsed and/or Refractory Diffuse Large B-Cell Lymphoma and Other Forms of Non-Hodgkin's Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Debiopharm International SA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Debiopharm International SA</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open label, multicenter, adaptive Phase 2 clinical study. The study will consist
+      of a screening period, a treatment period, an end of treatment visit, and a follow-up period.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 2016</start_date>
+  <completion_date type="Anticipated">April 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 15, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with Treatment-emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>up to 30 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>up to 30 months</time_frame>
+    <description>Number of participants with clinical responses as assessed by Lugano Classification of response assessments.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum plasma drug concentration (Cmax) of Debio 1562 and Rituximab</measure>
+    <time_frame>Part 1: Pre-dose and within 5 minutes of infusion, on Day 1, 2, 3, 8, 15 for Cycles 1 and 3; and on Day 1 for Cycles 2, 4-8; Part 2: Pre-dose and within 5 minutes of infusion, Day 1, 2, 3, 8, 15 for Cycles 1-2; Day 1, 8, 15 for Cycles 3-6</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the time-concentration curve from time 0 to t (AUC0-t) of Debio 1562 and Rituximab</measure>
+    <time_frame>Part 1: Pre-dose and within 5 minutes of infusion, on Day 1, 2, 3, 8, 15 for Cycles 1 and 3; and on Day 1 for Cycles 2, 4-8; Part 2: Pre-dose and within 5 minutes of infusion, Day 1, 2, 3, 8, 15 for Cycles 1-2; Day 1, 8, 15 for Cycles 3-6</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the time-concentration curve from time 0 to infinity (AUC0-inf) of Debio 1562 and Rituximab</measure>
+    <time_frame>Part 1: Pre-dose and within 5 minutes of infusion, on Day 1, 2, 3, 8, 15 for Cycles 1 and 3; and on Day 1 for Cycles 2, 4-8; Part 2: Pre-dose and within 5 minutes of infusion, Day 1, 2, 3, 8, 15 for Cycles 1-2; Day 1, 8, 15 for Cycles 3-6</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal half-life (t1/2) of Debio 1562 and Rituximab</measure>
+    <time_frame>Part 1: Pre-dose and within 5 minutes of infusion, on Day 1, 2, 3, 8, 15 for Cycles 1 and 3; and on Day 1 for Cycles 2, 4-8; Part 2: Pre-dose and within 5 minutes of infusion, Day 1, 2, 3, 8, 15 for Cycles 1-2; Day 1, 8, 15 for Cycles 3-6</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clearance (CL) of Debio 1562 and Rituximab</measure>
+    <time_frame>Part 1: Pre-dose and within 5 minutes of infusion, on Day 1, 2, 3, 8, 15 for Cycles 1 and 3; and on Day 1 for Cycles 2, 4-8; Part 2: Pre-dose and within 5 minutes of infusion, Day 1, 2, 3, 8, 15 for Cycles 1-2; Day 1, 8, 15 for Cycles 3-6</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of Distribution at Steady State (Vss) of Debio 1562 and Rituximab</measure>
+    <time_frame>Part 1: Pre-dose and within 5 minutes of infusion, on Day 1, 2, 3, 8, 15 for Cycles 1 and 3; and on Day 1 for Cycles 2, 4-8; Part 2: Pre-dose and within 5 minutes of infusion, Day 1, 2, 3, 8, 15 for Cycles 1-2; Day 1, 8, 15 for Cycles 3-6</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Maximum Plasma Concentration (Tmax) of Debio 1562 and Rituximab</measure>
+    <time_frame>Part 1: Pre-dose and within 5 minutes of infusion, on Day 1, 2, 3, 8, 15 for Cycles 1 and 3; and on Day 1 for Cycles 2, 4-8; Part 2: Pre-dose and within 5 minutes of infusion, Day 1, 2, 3, 8, 15 for Cycles 1-2; Day 1, 8, 15 for Cycles 3-6</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>up to 30 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response</measure>
+    <time_frame>up to 30 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>up to 30 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>up to 30 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with presence of human anti-drug antibody (ADA) for Debio 1562</measure>
+    <time_frame>Pre-dose on Day 1 of Cycles 1 to 8; and at the end of treatment (Up to Month 36) and 30-day follow-up visit</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Diffuse Large B-Cell Lymphoma</condition>
+  <condition>B-cell Non-Hodgkin's Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Debio 1562</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with a diagnosis of relapsed and/or refractory (R/R) Diffuse Large B Cell Lymphoma (DLBCL), Follicular Non-Hodgkin's Lymphoma (FL), Marginal Zone/Mucosa-associated Lymphoid Tissue (MZ/MALT), Mantle Cell Lymphoma (MCL) or other Non-Hodgkin's Lymphoma (NHL) with the Sponsor's approval, will receive Debio 1562 and Rituximab in 3 different parts of study i.e., Safety run in, Part 2 and Expansion (Part 3). Participants in Part 2 will be enrolled in two parallel cohorts (Cohort A and Cohort B).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Debio 1562</intervention_name>
+    <description>Safety run in: Debio 1562 will be given on the same day as rituximab, once every three weeks (Q3W) intravenously (IV) at the dose of 0.7 mg/kg on Day 1 of a 21-day cycle. Part 2 and 3: Cohort A- Debio 1562 will be given on the same day as rituximab, once every three weeks (Q3W) intravenously (IV) at the dose of 0.7 mg/kg on Day 1 of a 21-day cycle. Cohort B- Debio 1562 will be given at a total dose of 0.8 milligram per kilogram (mg/kg) IV over a 21-day cycle.</description>
+    <arm_group_label>Debio 1562</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>Rituximab will be given on the same day as Debio 1562, Q3W IV at a dose of 375 mg/m^2 on Day 1 of a 21-day cycle.</description>
+    <arm_group_label>Debio 1562</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  For Part 1 of the study, participants must have histopathologically confirmed
+             diagnosis of R/R, DLBCL, FL, MZL/MALT, MCL, or other Sponsor approved NHL subtypes
+             according to the World Health Organization (WHO) classification 2008 for which
+             standard measures do not exist or are no longer effective.
+
+          -  For Part 2 and Part 3 of the study, participants must have histopathologically and
+             clinically confirmed diagnosis of relapsed DLBCL. Participants will be considered to
+             have a relapsed disease if they showed a duration of response of at least 24 weeks
+             after their first line of therapy. The following participants with relapsed DLBCL will
+             be enrolled:
+
+               1. Participants who received at least only one line of previous therapy and achieved
+                  either complete response (CR) or partial response (PR) for at least 24 weeks
+                  (from the last day of the last cycle) after their first line of therapy, but are
+                  not eligible for high dose chemotherapy with autologous stem cell transplantation
+                  (HD-ASCT)
+
+               2. Participants who received more than one line of previous therapy (including
+                  HD-ASCT), and have achieved a duration of response (CR or PR) of at least 8 weeks
+                  (from the last day of the last cycle) after their last line of therapy
+
+          -  Participants must have evaluable or measurable disease in accordance with the
+             International Working Group Guidelines for Lymphoma.
+
+          -  Participants must have received at least one but no more than six prior treatment
+             regimens. Prior treatment with an anti-CD20 agent, either alone or in combination, is
+             allowed.
+
+          -  Participants must have Eastern Cooperative Oncology Group (ECOG) Performance Status 0
+             - 2.
+
+          -  Participants who are Hepatitis B surface antigen positive (HBsAg+) (must be PCR
+             negative) who are taking antivirals, are allowed to enroll.
+
+        Exclusion Criteria:
+
+          -  Participants with a diagnosis of chronic lymphocytic leukemia (CLL) or small
+             lymphocytic lymphoma (SLL).
+
+          -  For Part 2 and Part 3 of the study, patients with primary refractory DLBCL (defined as
+             progression of disease within 24 weeks after first line of treatment).
+
+          -  For Part 2 and Part 3 of the study, participants that are eligible to undergo first
+             time HD-ASCT.
+
+          -  For Part 2 and Part 3 of the study, participants with R/R FL, MZL/MALT, MCL, or any
+             other NHL subtypes according to the WHO classification.
+
+          -  Participants with active hepatitis A, B or C infection.
+
+          -  Women who are pregnant or breast feeding.
+
+          -  Participants who have received prior therapy with other anti-CD37-targeting therapy.
+
+          -  Participants who have known central nervous system, meningeal, or epidural disease
+             including brain metastases.
+
+          -  Participants with impaired cardiac function or clinically significant cardiac disease.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Debiopharm International S.A</last_name>
+    <phone>+41 21 321 01 11</phone>
+    <email>clinicaltrials@debiopharm.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Alabama Oncology</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>VA Central California Health Care System</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93703</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Smilow Cancer Center at Yale New Haven Hospital</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Loyola University Medical Center</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Carle Cancer Center at Carle Foundation Hospital</name>
+      <address>
+        <city>Urbana</city>
+        <state>Illinois</state>
+        <zip>61801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Cancer Institute</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Medical Center, Comprehensive Cancer Center</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Piper Cancer Institute</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Presbyterian Hospital</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novant Health Oncology</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Abramson Cancer Center of The University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Francis Cancer Center</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spartanburg Regional Healthcare System</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor Sammons Cancer Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Medical Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU UCL Namur asbl - Site Godinne</name>
+      <address>
+        <city>Yvoir</city>
+        <state>Namur</state>
+        <zip>5530</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jan Yperman Ziekenhuis</name>
+      <address>
+        <city>Ieper</city>
+        <state>West-Vlaanderen</state>
+        <zip>8900</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Leuven, Campus Gasthuisberg, Department of Medical Oncology</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Augustinus Hospital, Department of Hematology</name>
+      <address>
+        <city>Wilrijk</city>
+        <zip>2610</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Multiprofile Hospital for Active Treatment &quot;Sveti Georgi&quot;, Clinic of Medical Oncology</name>
+      <address>
+        <city>Plovdiv</city>
+        <zip>4002</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Multiprofile Hospital for Active Treatment &quot;ACIBADEM City Clinic Tokuda Hospital&quot;, Clinic of Hematology</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1407</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Specialized Hospital for Active Treatment of Hematological Diseases,Clinic of Hematology, Department of Clinical Hematology</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1756</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Multiprofile Hospital for Active Treatment - Hristo Botev, Vratsa, First Department of Internal Medicine</name>
+      <address>
+        <city>Vratsa</city>
+        <zip>3000</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Brno</name>
+      <address>
+        <city>Brno</city>
+        <zip>625 00</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Hradec Kralove</name>
+      <address>
+        <city>Hradec Králové</city>
+        <zip>500 05</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Kralovske Vinohrady</name>
+      <address>
+        <city>Prague</city>
+        <zip>100 34</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>General University Hospital in Prague</name>
+      <address>
+        <city>Prague</city>
+        <zip>128 08</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Semmelweis University</name>
+      <address>
+        <city>Budapest</city>
+        <zip>H-1083</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Institute of Oncology</name>
+      <address>
+        <city>Budapest</city>
+        <zip>H-1122</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Debrecen Clinical Center</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>4032</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szabolcs-Szatmar-Bereg County Hospitals and University Teaching Hospital</name>
+      <address>
+        <city>Nyíregyháza</city>
+        <zip>4400</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Center of the University of Pecs</name>
+      <address>
+        <city>Pécs</city>
+        <zip>H-7624</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Healthcare Company Papa Giovanni XXIII (ASST Papa Giovanni XXIII), Department of Oncology and Hematology</name>
+      <address>
+        <city>Bergamo</city>
+        <zip>24127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Civil Hospital of Brescia</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital S. Maria of Terni, Department of Medicine and Medical Specialties, Complex University Structure of Oncohematology</name>
+      <address>
+        <city>Terni</city>
+        <zip>05100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology Institute of Southern Switzerland - Ospedale Regionale Bellinzona e Valli</name>
+      <address>
+        <city>Bellinzona</city>
+        <state>Ticino</state>
+        <zip>6500</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Inselspital, University Hospital Bern, Department of Medical Oncology</name>
+      <address>
+        <city>Bern</city>
+        <zip>3010</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Canton Hospital Winterthur</name>
+      <address>
+        <city>Winterthur</city>
+        <zip>8401</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cherkasy Regional Oncology Center, Regional Treatment and Diagnostic Hematology Center, Department of Hematology</name>
+      <address>
+        <city>Cherkasy</city>
+        <zip>18009</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Bulgaria</country>
+    <country>Czechia</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Switzerland</country>
+    <country>Ukraine</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>September 11, 2015</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 1, 2015</study_first_posted>
+  <last_update_submitted>October 23, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 23, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 24, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rituximab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

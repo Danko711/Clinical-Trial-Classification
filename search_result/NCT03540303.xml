@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="476">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03540303</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HenanCH CAR 2-1</org_study_id>
+    <nct_id>NCT03540303</nct_id>
+  </id_info>
+  <brief_title>Cytoplasmic Activated PD-1 CAR T Cells in Refractory/Relapsed B Cell Lymphoma</brief_title>
+  <official_title>Phase Ⅰ Study of CAR19 T Cells Carrying Cytoplasmic Activated PD-1 in the Treatment of Refractory/Relapsed B Cell Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Henan Cancer Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Pregene (ShenZhen) Biotechnology Company, Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Henan Cancer Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evaluation of the safety and efficacy of CAR19 T cells carrying cytoplasmic activated PD1 in
+      patients with refractory relapsed B-cell lymphoma
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Although CAR19 T cell therapy brings hope, the patients with refractory/relapsed B-cell
+      lymphoma is still a problem for the current treatment. There are still some patients with
+      poor therapeutic efficacy, and the efficacy of CAR19-T cell therapy remains to be improved.
+      Basic research shows that there is a synergistic effect between CAR-T cell therapy and
+      anti-PD1 pathway, and it did have efficacy in clinic. However, the regimen of CAR19-T cells
+      combined anti-PD1 inhibitors need to be combined with the application of anti-PD1 antibody
+      and culture of CART cells during the treatment, there may be adverse events to PD1
+      antibodies. In this study, CAR19T cells carrying cytosolic activated PD1 possess the dual
+      effects of CAR19T cells and anti-PD1 or anti-PD-L1 antibodies while overcoming the adverse
+      events of anti-PD1 inhibitors, and might have better efficacy than conventional CAR19T cells
+      plus anti-PD1 or anti-PD-L1 antibody treatment, with fewer side effects.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 12, 2018</start_date>
+  <completion_date type="Anticipated">April 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>CAR19 T cell therapy improves the clinical efficacy of refractory/relapsed B-cell lymphoma, and the combined PDL1 inhibitors may further improve the efficacy of CD19 CART in the treatment of lymphomas. The clinical efficacy of KITE's CAR19 T cells and PD-L1 inhibition was reported. This phase 1 study was conducted in 9 patients with DLBCL, 8 patients got remission and during which 5 got complete remission. However, this type of treatment requires more data and observation in a larger sample of patients. In addition, Kite Pharmaceuticals' CD19 CART is priced at 370,000 US dollars. The cost of immune checkpoint inhibitors is also very expensive. Only very small proportion of patients could afford for that expenses. In this study, genetically engineered CAR T cells, which carry cytoplasmic activated PD1, are not inhibited by PDL1 molecules, will avoid the simultaneous application of immune checkpoint antibodies and the according adverse events.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>safety: occurrence of study related adverse events</measure>
+    <time_frame>6 months</time_frame>
+    <description>occurrence of study related adverse events</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>objective response rate</measure>
+    <time_frame>3 months and 6 months</time_frame>
+    <description>tumor burdens shrink more than 30 percent by RECIST1.1</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Relapsed Non Hodgkin Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>CAR19 T cells carrying cytoplasmic activated PD-1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>patients with refractory/relapsed B-NHL receive a preconditioning before infusion of CAR T cells.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CAR19 T cells carrying cytoplasmic activated PD-1</intervention_name>
+    <description>step 1: Collect 50-100ml of peripheral blood for culture of CAR19 T cells carrying cytoplasmic activated PD-1 step 2. After 72 hours, pretreated with FC regimen, details as follow Cyclophosphamide 600-800mg/m2 for 2 days Fludarabine 25-30mg/m2 for 3 days step 3: After another 48 hours transfusion the cells back to the patients the numbers of infused CAR T cells are 2x106 /kg for the first 3 patients, 6x106 /kg for the second 3 patients and 18x106 /kg for the third 3 patients.
+After finishing this, another 6 patients will be enrolled for observation of efficacy.</description>
+    <arm_group_label>CAR19 T cells carrying cytoplasmic activated PD-1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  18-70 years old and the expected lifetime ＞3 months
+
+          -  Refractory/relapsed CD19 positive B cell lymphoma by pathology
+
+          -  ECOG score ＜2
+
+          -  Measureable lesions according to RECIST 1.1
+
+          -  Sufficient heart, liver, kidney and bone marrow function (heart: no heart disease or
+             coronary heart disease, patient heart function NYHA grade 1-2; liver: TBIL ≤ 3ULN, AST
+             ≤ 2.5ULN, ALT ≤ 2.5ULN; kidney: Cr≤ 1.25ULN; bone marrow: WBC ≥ 2.0 × 109/L, Hb ≥ 80
+             g/L, PLT ≥ 30 × 109/L)
+
+          -  no serious allergies
+
+          -  No other serious diseases that conflict with this protocol (eg, autoimmune diseases,
+             immunodeficiency, organ transplantation)
+
+          -  No other history of malignancy
+
+          -  No serious mental disorders
+
+          -  Women of childbearing age must be negative for blood pregnancy test within 7 days and
+             must take appropriated contraceptive measures during and 3 months after the study
+
+          -  The patient himself agrees to participate in this clinical study and signed the
+             &quot;informed consent&quot;
+
+        Exclusion Criteria:
+
+          -  Lactating women
+
+          -  Severe infectious or viral diseases (HIV positive, syphilis, etc.)
+
+          -  Active hepatitis B or C viral hepatitis
+
+          -  Patients who used high-dose glucocorticoids within 1 week
+
+          -  Participation in other clinical studies in the past 3 months or having been treated
+             with other gene products
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yongping Song, M.D</last_name>
+    <role>Study Chair</role>
+    <affiliation>Henan Cancer Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yongping Song, M.D</last_name>
+    <phone>+86-371-65587199</phone>
+    <email>songyongping2018@126.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Quanli Gao, M.D</last_name>
+    <phone>+86-15038171966</phone>
+    <email>gaoquanli2015@126.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Henan Cancer Hospital</name>
+      <address>
+        <city>Zhengzhou</city>
+        <state>Henan</state>
+        <zip>450000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Quanli Gao, M.D</last_name>
+      <phone>+86-15038171966</phone>
+      <email>gaoquanli2015@126.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lu Han, M.D</last_name>
+      <phone>+86-13838583031</phone>
+      <email>luhan0377@163.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>April 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>May 16, 2018</study_first_submitted>
+  <study_first_submitted_qc>May 29, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 30, 2018</study_first_posted>
+  <last_update_submitted>May 29, 2018</last_update_submitted>
+  <last_update_submitted_qc>May 29, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 30, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>relapsed/refractory, B cell, lymphoma, CAR</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

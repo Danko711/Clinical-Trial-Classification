@@ -1,0 +1,3928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1283">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01232556</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B1931008</org_study_id>
+    <secondary_id>3129K5-3303</secondary_id>
+    <secondary_id>2010-020147-12</secondary_id>
+    <nct_id>NCT01232556</nct_id>
+  </id_info>
+  <brief_title>A Study Of Inotuzumab Ozogamicin Plus Rituximab For Relapsed/Refractory Aggressive Non-Hodgkin Lymphoma Patients Who Are Not Candidates For Intensive High-Dose Chemotherapy</brief_title>
+  <official_title>An Open-label, Randomized, Phase 3 Study Of Inotuzumab Ozogamicin Administered In Combination With Rituximab Compared To Defined Investigator's Choice Therapy In Subjects With Relapsed Or Refractory Cd22-positive Aggressive Non-hodgkin Lymphoma Who Are Not Candidates For Intensive High-dose Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>UCB Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Pfizer</source>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy of inotuzumab ozogamicin plus rituximab
+      in relapsed/refractory aggressive Non-Hodgkin lymphoma patients who are not candidates for
+      intensive high-dose chemotherapy. Specifically, the goal is to demonstrate the superiority of
+      this combination compared with an active comparator arm (investigator's choice of
+      rituximab+bendamustine or rituximab+gemcitabine) using the primary endpoint of overall
+      survival.
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    The study was terminated prematurely on May 16, 2013, for futility. No new or unexpected safety
+    issues were identified.
+  </why_stopped>
+  <start_date type="Actual">April 2011</start_date>
+  <completion_date type="Actual">March 2014</completion_date>
+  <primary_completion_date type="Actual">March 2014</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>From randomization up to 5 years after last dose or up to final study visit, whichever occurs first.</time_frame>
+    <description>Overall Survival (OS) was defined as the time from randomization to death due to any cause, censoring at the date of last contact or the end of the study. The Kaplan-Meier method was used to determine OS. The hazard ratio and corresponding 95% 2-sided confidence interval were calculated using stratified Cox proportional hazard regression.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With a Treatment Emergent Adverse Event (TEAE) (Safety Population)</measure>
+    <time_frame>Up to 20 weeks after the first dose of study drug</time_frame>
+    <description>Includes all TEAEs: Any event that occurred after the first dose of study drug and was not present prior to study drug administration or worsened in severity after study drug administration..</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>From randomization up to 2 years or final study visit, whichever occurs first, including but not limited to planned assessments scheduled approximately every 12 weeks.</time_frame>
+    <description>PFS is defined as time from date of randomization to date of progressive disease (PD, including investigator's claim of clinical progression), date of death from any cause, or initiation of a new treatment for the lymphoma due to persistent/refractory disease. The Kaplan-Meier method was used to determine PFS. The hazard ratio and corresponding 95% 2-sided confidence interval were calculated using stratified Cox proportional hazard regression.
+PD requires the following:
+Appearance of any new lesion more than 1.5 cm in any axis during or at the end of treatment, even if other lesions are decreasing in size.
+At least a 50% increase from nadir in the sum of the product diameters of any previously involved nodes, or in a single involved node, or the size of other lesions.
+At least a 50% increase in the longest diameter of any single previously identified node more than 1 cm in its short axis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With A Best Overall Response of CR or Partial Response (PR) Per NCI International Response Criteria for NHL</measure>
+    <time_frame>Up to 2 years from first study drug dose or up to final study visit, whichever occurs first, including but not limited to planned assessments scheduled approximately every 12 weeks.</time_frame>
+    <description>CR is defined as disappearance of all detectable clinical evidence of disease (including cleared infiltrate on repeat bone marrow aspirate/biopsy if lymphoma involvement of bone marrow before treatment).
+Partial Response (PR) requires the following:
+≥50 % decrease in SPD of the six largest dominant nodes or nodal masses.
+No increase in the size of other nodes, liver, or spleen.
+Splenic and hepatic nodules must regress by ≥50% in the SPD, or for single nodules, in the greatest transverse diameter.
+With the exception of splenic and hepatic nodules, involvement of other organs is usually assessable and no measurable disease should be present.
+No new sites of disease. The 95% CI was determined using the exact method based on binomial distribution.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With A Best Overall Response of CR, Unconfirmed CR (unCR), PR, or Unconfirmed PR (unPR) Per NCI International Response Criteria for NHL</measure>
+    <time_frame>Up to 2 years from first study drug dose or up to final study visit, whichever occurs first, including but not limited to planned assessments scheduled approximately every 12 weeks.</time_frame>
+    <description>CR is defined as disappearance of all detectable clinical evidence of disease (including cleared infiltrate on repeat bone marrow aspirate/biopsy if lymphoma involvement of bone marrow before treatment).
+Partial Response (PR) requires the following:
+≥50 % decrease in SPD of the six largest dominant nodes or nodal masses.
+No increase in the size of other nodes, liver, or spleen.
+Splenic and hepatic nodules must regress by ≥50% in the SPD, or for single nodules, in the greatest transverse diameter.
+With the exception of splenic and hepatic nodules, involvement of other organs is usually assessable and no measurable disease should be present.
+No new sites of disease. unCR and unPR means didn't have confirmatory assessment (including bone marrow assessment for CR).
+The 95% CI was determined using the exact method based on binomial distribution.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>Up to 2 years from first study drug dose or up to final study visit, whichever occurs first, including but not limited to planned assessments scheduled approximately every 12 weeks.</time_frame>
+    <description>The duration of overall response is measured from the first date of response until the first date that the progressive disease (PD) or death is objectively documented. The hazard ratio and corresponding 95% 2-sided confidence interval were calculated using stratified Cox proportional hazard regression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health Status as Assessed by the European Quality of Life 5 Dimension (EQ-5D) Questionnaire</measure>
+    <time_frame>Assessed at Day 1 of each cycle and 6-9 weeks after the last dose, Cycle 3 (Week 12) reported</time_frame>
+    <description>EQ-5D consists of a descriptive system and an EQ visual analogue scale. The descriptive system comprises the following 5 dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 3 levels: no problems, some problems, extreme problems. The scale, the best state is marked 100 and the worst state is marked 0, is to help the participant to say how good or bad a health state is. EQ-5D index, which was reported, was derived based on US weight. The range of EQ-5D index is -0.109 to 1.00. Higher scores mean better outcomes. The average post-baseline scores for EQ-5D index were computed at approximately Week 12. The overall treatment comparisons were estimated at approximately Week 12.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health Related Quality of Life as Assessed by the Functional Assessment of Cancer Therapy for Lymphoma (FACT-Lym) Questionnaire</measure>
+    <time_frame>Assessed at Day 1 of each cycle and 6-9 weeks after the last dose, Cycle 3 (Week 12) reported</time_frame>
+    <description>FACT-Lym is a questionnaire that begins with 27 items covering four core Health-Related Quality of Life subscales: Physical Well-being (7 items), Social/Family Well-being (7), Emotional Well-being (6), and Functional Well-being (7). The FACT-Lym also includes an additional concerns subscale (15 items). It also asks participants about their concerns about lumps and swelling, fevers, infections, weight, appetite, emotional stability and treatment. The participants were requested to circle one number on a 0 to 4 points scale per line to indicate how true each statement has been for him/her during the past 7 days. FACT-Lym total score, which was reported, was derived based on FACT-Lym scoring guideline (Version 4). The range of FACT-Lym total score is 0 to 168. Higher scores mean better outcomes. The average post-baseline FACT-Lym total scores were computed at approximately Week 12. The overall treatment comparisons were estimated at approximately Week 12.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">338</enrollment>
+  <condition>Lymphoma, Non-Hodgkin</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inotuzumab ozogamicin+rituximab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Investigator's choice of (1) rituximab+gemcitabine, or (2) rituximab+bendamustine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Inotuzumab ozogamicin</intervention_name>
+    <description>1.8 mg/m2 on day 2 every 28 days by IV infusion, 3 to 6 cycles</description>
+    <arm_group_label>1</arm_group_label>
+    <other_name>CMC-544</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>375 mg/m2 on day 1 every 28 days by IV infusion, 3 to 6 cycles</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>rituximab + gemcitabine</intervention_name>
+    <description>rituximab 375 mg/m2 on days 1, 8, 15, and 22 of cycle 1, and day 1 of cycles 2 to 6, every 28 days by IV infusion, 3 to 6 cycles; gemcitabine 1000 mg/m2 on days 1, 8, and 15 every 28 days, 3 to 6 cycles</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>rituximab +bendamustine</intervention_name>
+    <description>rituximab 375 mg/m2 on day 1 every 28 days by IV infusion, 3 to 6 cycles; bendamustine 120 mg/m2 on days 1 and 2 by IV infusion every 28 days, 3 to 6 cycles</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Exclusion Criteria:
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Disney Family Cancer Center at Providence St Joseph Medical Center</name>
+      <address>
+        <city>Burbank</city>
+        <state>California</state>
+        <zip>91505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence St Joseph Medical Center</name>
+      <address>
+        <city>Burbank</city>
+        <state>California</state>
+        <zip>91505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology-Oncology Medical Group of Fresno Inc</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ronald Reagan UCLA Medical Center Drug Information Center Department of Pharmaceutical Services</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-6981</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Unit</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Peter Morton Medical Plaza</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ronald Reagan UCLA Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sansum Clinic</name>
+      <address>
+        <city>Santa Barbara</city>
+        <state>California</state>
+        <zip>93105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Santa Monica Hematology Oncology</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sansum Clinic</name>
+      <address>
+        <city>Solvang</city>
+        <state>California</state>
+        <zip>93463</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Howard University Hospital</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Comprehensive Cancer Center at Aventura</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Cancer Institute</name>
+      <address>
+        <city>Boynton Beach</city>
+        <state>Florida</state>
+        <zip>33426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21st Century Oncology of Jacksonville, LLC</name>
+      <address>
+        <city>Fernandina Beach</city>
+        <state>Florida</state>
+        <zip>32034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Davis Cancer Pavilion and Shands Medical Plaza</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Shands Cancer Hospital at the University of Florida</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UF Health Davis Cancer Pavillion and Shands Med Plaza</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UF Health Shands Cancer Hospital</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Shands Hospital at the University of Florida</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UF Health Shands Hospital</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21st Century Oncology of Jacksonville, LLC</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21st Century Oncology of Jacksonville, LLC</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Cancer Institute</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Medical Center</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21st Century Oncology of Jacksonville, LLC</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21st Century Oncology of Jacksonville, Inc.</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Specialists Of The Palm Beaches</name>
+      <address>
+        <city>Lake Worth</city>
+        <state>Florida</state>
+        <zip>33467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Comprehensive Cancer Center</name>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Medical Center</name>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Medical Specialties</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33133</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Hospital</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33133</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Research Institute</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33133</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21st Century Oncology of Jacksonville, LLC</name>
+      <address>
+        <city>Orange Park</city>
+        <state>Florida</state>
+        <zip>32073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgia Regents Medical Cancer Pharmacy</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgia Regents University</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kootenai Cancer Center</name>
+      <address>
+        <city>Coeur d'Alene</city>
+        <state>Idaho</state>
+        <zip>83814</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kootenai Cancer Center</name>
+      <address>
+        <city>Post Falls</city>
+        <state>Idaho</state>
+        <zip>083854</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Decatur Memorial Hospital (DMH)</name>
+      <address>
+        <city>Decatur</city>
+        <state>Illinois</state>
+        <zip>62526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Floyd Memorial Cancer Center of Indiana</name>
+      <address>
+        <city>New Albany</city>
+        <state>Indiana</state>
+        <zip>47150</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas Cancer Center and Medical Pavilion</name>
+      <address>
+        <city>Westwood</city>
+        <state>Kansas</state>
+        <zip>66205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kentucky A.B. Chandler Medical Center</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kentucky Markey Cancer Center</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane University Hospital and Clinic</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barbara Ann Karmanos Cancer Institute</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barbara Ann Karmanos Cancer Institute at farmington Hills</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Park Nicollet Frauenshuh Cancer Center</name>
+      <address>
+        <city>Saint Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barnes-Jewish Hospital</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University in St Louis</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barnes-Jewish St. Peters</name>
+      <address>
+        <city>Saint Peters</city>
+        <state>Missouri</state>
+        <zip>63376</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southeast Nebraska Hematology &amp; Oncology Consultants, P.C. d/b/a Southeast Nebraska Cancer Center</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Medical Center;</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Comprehensive Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10011-5903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St Luke's- Roosevelt Hospital Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10019</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University Medical Center, The Cancer Center</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University Medical Center</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West Chester Hospital Medical Building</name>
+      <address>
+        <city>West Chester</city>
+        <state>Ohio</state>
+        <zip>45069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OU Medical Center Presbyterian Professional Building</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OU Medical Center Presbyterian Tower</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Peggy and Charles Stephenson Cancer Center (chemo &amp; infusion)</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Peggy and Charles Stephenson Cancer Center (clinic location)</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Peggy and Charles Stephenson Cancer Center (Drug Shipment Address)</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Good Samaritan Hospital Corvallis</name>
+      <address>
+        <city>Corvallis</city>
+        <state>Oregon</state>
+        <zip>97330</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Good Samaritan Hospital, Corvallis</name>
+      <address>
+        <city>Corvallis</city>
+        <state>Oregon</state>
+        <zip>97330</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samaritan Ambulatory Infusion Services</name>
+      <address>
+        <city>Corvallis</city>
+        <state>Oregon</state>
+        <zip>97330</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samaritan Pacific Coast Hospital</name>
+      <address>
+        <city>Newport</city>
+        <state>Oregon</state>
+        <zip>97365</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Milton S. Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Guthrie Clinic, Ltd.</name>
+      <address>
+        <city>Sayre</city>
+        <state>Pennsylvania</state>
+        <zip>18840</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Robert Packer Hospital</name>
+      <address>
+        <city>Sayre</city>
+        <state>Pennsylvania</state>
+        <zip>18840</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thompson Oncology Group</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thompson Oncology Group</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37932</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thompson Oncology Group</name>
+      <address>
+        <city>Maryville</city>
+        <state>Tennessee</state>
+        <zip>37804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thompson Oncology Group</name>
+      <address>
+        <city>Sevierville</city>
+        <state>Tennessee</state>
+        <zip>37862</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital - St. Paul</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital - Zale Lipshy</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor University Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor: Charles A. Sammons Cancer Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Simmons Comprehensive Cancer Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaire Ziekenhuizen Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <state>Vlaams Brabant</state>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Jules Bordet</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grand Hopital de Charleroi</name>
+      <address>
+        <city>Charleroi</city>
+        <zip>6000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>H.-Hartziekenhuis Roeselare-Menen</name>
+      <address>
+        <city>Roeselare</city>
+        <zip>8800</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St Augustinus Ziekenhuis</name>
+      <address>
+        <city>Wilrijk</city>
+        <zip>2610</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques universitaires UCL de Mont-Godinne,</name>
+      <address>
+        <city>Yvoir</city>
+        <zip>5530</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UMBAL Sveti Georgi, Klinika po hematologia</name>
+      <address>
+        <city>Plovdiv</city>
+        <zip>4002</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SBAL na Hematologichnichni Zabolyavania,CTH Sofia</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1756</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spetsializirana Bolnitsa za Aktivno Lechenie na Hematologichni Zabolyavania, CTH Sofia</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1756</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tom Baker Cancer Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cross Cancer Institute</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sunnybrook Health Sciences Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3 M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Sherbrooke (CHUS), Hopital Fleurimont</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1H 5N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Zagreb</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Dubrava Department of Internal Medicine Division of Hematology</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10010</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni nemocnice Kralovske Vinohrady</name>
+      <address>
+        <city>Praha 10</city>
+        <state>Czech Republic</state>
+        <zip>100 34</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni nemocnice Brno</name>
+      <address>
+        <city>Brno</city>
+        <zip>62500</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Département Pharmacie</name>
+      <address>
+        <city>Marseille</city>
+        <state>Bouches-du-rhône</state>
+        <zip>Cedex 09 13273</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Paoli Calmettes</name>
+      <address>
+        <city>Marseille</city>
+        <state>Cedex 09</state>
+        <zip>13273</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitaire Andre Mignot</name>
+      <address>
+        <city>Le Chesnay Cedex</city>
+        <state>Yvelines</state>
+        <zip>78157</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Andre Mignot</name>
+      <address>
+        <city>Le Chesnay</city>
+        <state>Yvelines</state>
+        <zip>78157</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Leon Berard</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Saint Eloi</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295Cedex5</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital du haut Leveque</name>
+      <address>
+        <city>Pessac</city>
+        <zip>33600</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Henri Becquerel</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76038</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Aachen</name>
+      <address>
+        <city>Aachen</city>
+        <zip>52074</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sozialstiftung Bamberg</name>
+      <address>
+        <city>Bamberg</city>
+        <zip>96049</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charite Campus Benjamin Franklin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10117</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charite Campus Virchow-Klinikum</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13353</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Mainz</name>
+      <address>
+        <city>Mainz</city>
+        <zip>55101</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>TU Muenchen III. Medizinische Klinik</name>
+      <address>
+        <city>Muenchen</city>
+        <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinik Ulm</name>
+      <address>
+        <city>Ulm</city>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Egyesitett Szent Istvan es Szent Laszlo Korhaz /</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1097</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DEOEC, Belgyogyaszati Intezet</name>
+      <address>
+        <city>Debrechen</city>
+        <zip>4032</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Somongy Megyei Kaposi Mor Okato Korhaz/ Belgyogyaszati osztaly</name>
+      <address>
+        <city>Kaposvar</city>
+        <zip>7400</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kodlikeri Memorial Hospital</name>
+      <address>
+        <city>Aurangabad</city>
+        <state>Maharashtra</state>
+        <zip>431 005</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sahyadri Clinical Research and Development Center</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411 004</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OEC Record Management Company Pvt. Ltd.,</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411004</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sahyadri Speciality Hospital</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411004</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bon Secours Hospital</name>
+      <address>
+        <city>Cork</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nagoya Daini Red Cross Hospital</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>4668650</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital East</name>
+      <address>
+        <city>Kashiwa</city>
+        <state>Chiba</state>
+        <zip>277-8577</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ehime University Hospital</name>
+      <address>
+        <city>Toon-shi</city>
+        <state>Ehime</state>
+        <zip>791-0295</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gunma University Hospital</name>
+      <address>
+        <city>Maebashi-city</city>
+        <state>Gunma</state>
+        <zip>371-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tohoku University Hospital</name>
+      <address>
+        <city>Sendai</city>
+        <state>Miyagi</state>
+        <zip>980-8574</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Matsushita Memorial Hospital</name>
+      <address>
+        <city>Moriguchi</city>
+        <state>Osaka</state>
+        <zip>570-8540</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Shizuoka Cancer Center</name>
+      <address>
+        <city>Sunto-gun</city>
+        <state>Shizuoka</state>
+        <zip>411-8777</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital</name>
+      <address>
+        <city>Chuo-ku</city>
+        <state>Tokyo</state>
+        <zip>104-0045</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Institute Hospital, Japanese Foundation For Cancer Research</name>
+      <address>
+        <city>Koto-Ku</city>
+        <state>Tokyo</state>
+        <zip>135-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Akita University Hospital</name>
+      <address>
+        <city>Akita</city>
+        <zip>010-8543</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Kyushu Cancer Center</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>811-1395</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tokai University Hospital</name>
+      <address>
+        <city>Kanagawa</city>
+        <zip>259-1193</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital, Kyoto Prefectural University of Medicine</name>
+      <address>
+        <city>Kyoto</city>
+        <zip>602-8566</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klaipeda Seamen's Hospital, Public Institution, department of Oncology</name>
+      <address>
+        <city>Klaipeda</city>
+        <zip>92288</zip>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Biomédico de Investigación A.C.</name>
+      <address>
+        <city>Aguascalientes</city>
+        <state>Aguascalientes. Mexico</state>
+        <zip>20127</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Niepubliczny Zaklad Opieki Zdrowotnej AVI Diagnostyka Obrazowa</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>00-728</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinika Nowotworow Ukladu Chlonnego</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-781</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Infusion Services</name>
+      <address>
+        <city>Catano</city>
+        <zip>00962</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Espanol Auxilio Mutuo de Puerto Rico Inc</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00918</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State Budgetary Institution Hematology Scientific Centre of Ministry of</name>
+      <address>
+        <city>Moscow</city>
+        <zip>125167</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Moscow State Healthcare Institution City clinical hospital S.P. Botkin</name>
+      <address>
+        <city>Moscow</city>
+        <zip>125284</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Pediatric Hematology and Transplantology R.M.Gorbacheva</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>197022</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National University Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>119074</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Singapore General Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>169608</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Narodny onkologicky ustav</name>
+      <address>
+        <city>Bratislava</city>
+        <zip>833 10</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Virgen Del Rocio</name>
+      <address>
+        <city>Sevilla</city>
+        <state>Andalucia</state>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario De Salamanca</name>
+      <address>
+        <city>Salamanca</city>
+        <state>Castille AND LION</state>
+        <zip>37007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic Universitari de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Catala d'Oncologia-L'Hospitalet</name>
+      <address>
+        <city>L'Hospitalet De Llobregat (bcn)</city>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Canarias</name>
+      <address>
+        <city>La Laguna (Tenerife)</city>
+        <zip>38320</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de la Princesa</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitetssjukhuset</name>
+      <address>
+        <city>Linkoping</city>
+        <zip>58185</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Skanes Universitetssjukhus i Lund</name>
+      <address>
+        <city>Lund</city>
+        <zip>221 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Medical Foundation - Linkou Branch</name>
+      <address>
+        <city>Kuei-Shan Hsiang</city>
+        <state>Taoyuan County</state>
+        <zip>333</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Taichung Veterans General Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <zip>40705</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital, Department of Internal Medicine</name>
+      <address>
+        <city>Taipei</city>
+        <zip>100</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Taipei Veterans General Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>11217</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Division Department of Medicine Faculty of Medicine Siriraj Hospital Mahidol University</name>
+      <address>
+        <city>Bangkoknoi</city>
+        <state>Bangkok</state>
+        <zip>10700</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chiang Mai University</name>
+      <address>
+        <city>Chiang Mai</city>
+        <zip>50200</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Treatment and Diagnostic Hematology Center Communal Establishment</name>
+      <address>
+        <city>Cherkasy</city>
+        <zip>18009</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Oncology and Medical Radiology of State Institution</name>
+      <address>
+        <city>Dnipropetrovsk</city>
+        <zip>49102</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SI&quot;Research Center for Radiation Medicine of NAMS of Ukraine&quot;</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>03115</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barts Cancer Centre Dept Haemato-oncology St. Bartholomew's Hospital Barts Health NHS Trust</name>
+      <address>
+        <city>London</city>
+        <zip>EC1A 7BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chemotherapy Preparative Unit St. Bartholomew's Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>EC1A 7BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Medical Oncology St. Bartholomew's Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>EC1A 7BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Christie NHS Foundation Trust - Christie Hospital</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M20 4BX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Clinical Pathology Newcastle upon Tyne Hospitals NHS Foundation Trust Royal Victoria I</name>
+      <address>
+        <city>Newcastle upon Tyne</city>
+        <zip>NE1 4LP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Clinical Biochemistry Newcastle upon Tyne Hospitals</name>
+      <address>
+        <city>Newcastle upon Tyne</city>
+        <zip>NE7 7DN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northern Centre for Cancer Care</name>
+      <address>
+        <city>Newcastle upon Tyne</city>
+        <zip>NE7 7DN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nottingham University Hospital</name>
+      <address>
+        <city>Nottingham</city>
+        <zip>NG5 1PB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pathology Department Nottingham University Hospital - City Hospital Campus</name>
+      <address>
+        <city>Nottingham</city>
+        <zip>NG5 1PB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pharmacy Nottingham University Hospital - City Hospital Campus</name>
+      <address>
+        <city>Nottingham</city>
+        <zip>NG5 1PB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Local Laboratory Nottingham University Hospital - City Hospital Campus</name>
+      <address>
+        <city>Nottingham</city>
+        <zip>NG51PB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New Cross Hospital</name>
+      <address>
+        <city>Wolverhampton</city>
+        <zip>WV10 0QP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Bulgaria</country>
+    <country>Canada</country>
+    <country>Croatia</country>
+    <country>Czechia</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>India</country>
+    <country>Ireland</country>
+    <country>Japan</country>
+    <country>Lithuania</country>
+    <country>Mexico</country>
+    <country>Poland</country>
+    <country>Puerto Rico</country>
+    <country>Russian Federation</country>
+    <country>Singapore</country>
+    <country>Slovakia</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Taiwan</country>
+    <country>Thailand</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Czech Republic</country>
+    <country>Turkey</country>
+  </removed_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=B1931008&amp;StudyName=%20A%20Study%20Of%20Inotuzumab%20Ozogamicin%20Plus%20Rituximab%20For%20Relapsed/Refractory%20Aggressive%20Non-Hodgkin%20Lymphoma%20Patients%20Who%20Are%20Not%20Candidates%20F</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>July 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>October 27, 2010</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 2, 2010</study_first_posted>
+  <results_first_submitted>July 17, 2017</results_first_submitted>
+  <results_first_submitted_qc>July 24, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 21, 2018</results_first_posted>
+  <disposition_first_submitted>May 29, 2014</disposition_first_submitted>
+  <disposition_first_submitted_qc>May 29, 2014</disposition_first_submitted_qc>
+  <disposition_first_posted type="Estimate">June 2, 2014</disposition_first_posted>
+  <last_update_submitted>July 24, 2018</last_update_submitted>
+  <last_update_submitted_qc>July 24, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 21, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>inotuzumab ozogamicin</keyword>
+  <keyword>aggressive Non-Hodgkin lymphoma</keyword>
+  <keyword>diffuse large b-cell lymphoma</keyword>
+  <keyword>relapsed/refractory lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Aggression</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Bendamustine Hydrochloride</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Inotuzumab Ozogamicin Plus (+) Rituximab</title>
+          <description>Participants received rituximab 375 milligrams per square meter (mg/m^2) via intravenous (IV) infusion on Day 1 and inotuzumab ozogamicin 1.8 mg/m^2 via IV infusion on Day 2 of each 28-day cycle for a maximum of 6 cycles.</description>
+        </group>
+        <group group_id="P2">
+          <title>Rituximab+Gemcitabine or Rituximab+Bendamustine</title>
+          <description>Participants received either R-bendamustine (rituximab 375 mg/m^2 via IV infusion on Day 1 and bendamustine 120 mg/m^2 via IV infusion on Days 1 and 2 in 28-day cycles for a maximum of 6 cycles) or R-gemcitabine (rituximab 375 mg/m^2 via IV infusion on Days 1, 8, 15 and 22 of Cycle 1 and on Day 1 for all other cycles, and gemcitabine 1000 mg/m^2 via IV infusion on Days 1, 8 and 15 of each 28-day cycle for a maximum of 6 cycles). Choice of therapy was at the discretion of the investigator.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="166"/>
+                <participants group_id="P2" count="172"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Treated</title>
+              <participants_list>
+                <participants group_id="P1" count="165">One subject in this arm received rituximab only and was excluded from the safety population.</participants>
+                <participants group_id="P2" count="167"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="159"/>
+                <participants group_id="P2" count="171"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="21"/>
+                <participants group_id="P2" count="17"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="97"/>
+                <participants group_id="P2" count="97"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Terminated by Sponsor</title>
+              <participants_list>
+                <participants group_id="P1" count="35"/>
+                <participants group_id="P2" count="51"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Intent-to-treat (ITT) Population - included all participants who are randomized into the study.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Inotuzumab Ozogamicin+Rituximab</title>
+          <description>Participants received rituximab 375 mg/m^2 via IV infusion on Day 1 and inotuzumab ozogamicin 1.8 mg/m^2 via IV infusion on Day 2 of each 28-day cycle for a maximum of 6 cycles.</description>
+        </group>
+        <group group_id="B2">
+          <title>Rituximab+Gemcitabine or Rituximab+Bendamustine</title>
+          <description>Participants received either R-bendamustine (rituximab 375 mg/m^2 via IV infusion on Day 1 and bendamustine 120 mg/m^2 via IV infusion on Days 1 and 2 in 28-day cycles for a maximum of 6 cycles) or R-gemcitabine (rituximab 375 mg/m^2 via IV infusion on Days 1, 8, 15 and 22 of Cycle 1 and on Day 1 for all other cycles, and gemcitabine 1000 mg/m^2 via IV infusion on Days 1, 8 and 15 of each 28-day cycle for a maximum of 6 cycles). Choice of therapy was at the discretion of the investigator.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="166"/>
+            <count group_id="B2" value="172"/>
+            <count group_id="B3" value="338"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <description>Age measure using mean with Standard deviation</description>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68.6" spread="12.29"/>
+                    <measurement group_id="B2" value="66.9" spread="11.40"/>
+                    <measurement group_id="B3" value="67.7" spread="11.86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <description>Gender</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="75"/>
+                    <measurement group_id="B2" value="75"/>
+                    <measurement group_id="B3" value="150"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="91"/>
+                    <measurement group_id="B2" value="97"/>
+                    <measurement group_id="B3" value="188"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Overall Survival</title>
+        <description>Overall Survival (OS) was defined as the time from randomization to death due to any cause, censoring at the date of last contact or the end of the study. The Kaplan-Meier method was used to determine OS. The hazard ratio and corresponding 95% 2-sided confidence interval were calculated using stratified Cox proportional hazard regression.</description>
+        <time_frame>From randomization up to 5 years after last dose or up to final study visit, whichever occurs first.</time_frame>
+        <population>ITT Population.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Inotuzumab Ozogamicin+Rituximab</title>
+            <description>Participants received rituximab 375 mg/m^2 via IV infusion on Day 1 and inotuzumab ozogamicin 1.8 mg/m^2 via IV infusion on Day 2 of each 28-day cycle for a maximum of 6 cycles.</description>
+          </group>
+          <group group_id="O2">
+            <title>Rituximab+Gemcitabine or Rituximab+Bendamustine</title>
+            <description>Participants received either R-bendamustine (rituximab 375 mg/m^2 via IV infusion on Day 1 and bendamustine 120 mg/m^2 via IV infusion on Days 1 and 2 in 28-day cycles for a maximum of 6 cycles) or R-gemcitabine (rituximab 375 mg/m^2 via IV infusion on Days 1, 8, 15 and 22 of Cycle 1 and on Day 1 for all other cycles, and gemcitabine 1000 mg/m^2 via IV infusion on Days 1, 8 and 15 of each 28-day cycle for a maximum of 6 cycles). Choice of therapy was at the discretion of the investigator.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival</title>
+          <description>Overall Survival (OS) was defined as the time from randomization to death due to any cause, censoring at the date of last contact or the end of the study. The Kaplan-Meier method was used to determine OS. The hazard ratio and corresponding 95% 2-sided confidence interval were calculated using stratified Cox proportional hazard regression.</description>
+          <population>ITT Population.</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="166"/>
+                <count group_id="O2" value="172"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.5" lower_limit="7.0" upper_limit="14.5"/>
+                    <measurement group_id="O2" value="9.5" lower_limit="7.7" upper_limit="14.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Primary null hypothesis: Equality of survival distributions. Sample size sufficient to have power 0.96 for an experimental/control hazard ratio of 0.6.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.708</p_value>
+            <p_value_desc>A one sided 0.025 level testing plan was specified with two interim analyses and final testing level at one-sided 0.023.</p_value_desc>
+            <method>Log Rank</method>
+            <method_desc>From one sided stratified log-rank test.</method_desc>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>1.083</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.82</ci_lower_limit>
+            <ci_upper_limit>1.44</ci_upper_limit>
+            <estimate_desc>From stratified Cox proportional hazards model. The stratification factors are are pre-randomization investigator choice, baseline Secondary International Prognostic Index (sIPI), and best response to most recent chemo therapy.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Progression-Free Survival (PFS)</title>
+        <description>PFS is defined as time from date of randomization to date of progressive disease (PD, including investigator’s claim of clinical progression), date of death from any cause, or initiation of a new treatment for the lymphoma due to persistent/refractory disease. The Kaplan-Meier method was used to determine PFS. The hazard ratio and corresponding 95% 2-sided confidence interval were calculated using stratified Cox proportional hazard regression.
+PD requires the following:
+Appearance of any new lesion more than 1.5 cm in any axis during or at the end of treatment, even if other lesions are decreasing in size.
+At least a 50% increase from nadir in the sum of the product diameters of any previously involved nodes, or in a single involved node, or the size of other lesions.
+At least a 50% increase in the longest diameter of any single previously identified node more than 1 cm in its short axis.</description>
+        <time_frame>From randomization up to 2 years or final study visit, whichever occurs first, including but not limited to planned assessments scheduled approximately every 12 weeks.</time_frame>
+        <population>ITT Population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Inotuzumab Ozogamicin+Rituximab</title>
+            <description>Participants received rituximab 375 mg/m^2 via IV infusion on Day 1 and inotuzumab ozogamicin 1.8 mg/m^2 via IV infusion on Day 2 of each 28-day cycle for a maximum of 6 cycles.</description>
+          </group>
+          <group group_id="O2">
+            <title>Rituximab+Gemcitabine or Rituximab+Bendamustine</title>
+            <description>Participants received either R-bendamustine (rituximab 375 mg/m^2 via IV infusion on Day 1 and bendamustine 120 mg/m^2 via IV infusion on Days 1 and 2 in 28-day cycles for a maximum of 6 cycles) or R-gemcitabine (rituximab 375 mg/m^2 via IV infusion on Days 1, 8, 15 and 22 of Cycle 1 and on Day 1 for all other cycles, and gemcitabine 1000 mg/m^2 via IV infusion on Days 1, 8 and 15 of each 28-day cycle for a maximum of 6 cycles). Choice of therapy was at the discretion of the investigator.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Progression-Free Survival (PFS)</title>
+          <description>PFS is defined as time from date of randomization to date of progressive disease (PD, including investigator’s claim of clinical progression), date of death from any cause, or initiation of a new treatment for the lymphoma due to persistent/refractory disease. The Kaplan-Meier method was used to determine PFS. The hazard ratio and corresponding 95% 2-sided confidence interval were calculated using stratified Cox proportional hazard regression.
+PD requires the following:
+Appearance of any new lesion more than 1.5 cm in any axis during or at the end of treatment, even if other lesions are decreasing in size.
+At least a 50% increase from nadir in the sum of the product diameters of any previously involved nodes, or in a single involved node, or the size of other lesions.
+At least a 50% increase in the longest diameter of any single previously identified node more than 1 cm in its short axis.</description>
+          <population>ITT Population</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="166"/>
+                <count group_id="O2" value="172"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.7" lower_limit="2.9" upper_limit="5.0"/>
+                    <measurement group_id="O2" value="3.5" lower_limit="2.8" upper_limit="4.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Second comparison in hierarchical testing strategy was used for power calculation.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.271</p_value>
+            <p_value_desc>An hierarchical testing strategy was specified for OS, PFS and response. PFS could be tested at the 0.023 level if the OS test result were positive. Response could be tested if both the OS and PFS test results were positive.</p_value_desc>
+            <method>Log Rank</method>
+            <method_desc>From one sided stratified log-rank test.</method_desc>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.924</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.72</ci_lower_limit>
+            <ci_upper_limit>1.19</ci_upper_limit>
+            <estimate_desc>From stratified Cox proportional hazards model. The stratification factors are are pre-randomization investigator choice, baseline sIPI, and best response to most recent chemo therapy.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With A Best Overall Response of CR or Partial Response (PR) Per NCI International Response Criteria for NHL</title>
+        <description>CR is defined as disappearance of all detectable clinical evidence of disease (including cleared infiltrate on repeat bone marrow aspirate/biopsy if lymphoma involvement of bone marrow before treatment).
+Partial Response (PR) requires the following:
+≥50 % decrease in SPD of the six largest dominant nodes or nodal masses.
+No increase in the size of other nodes, liver, or spleen.
+Splenic and hepatic nodules must regress by ≥50% in the SPD, or for single nodules, in the greatest transverse diameter.
+With the exception of splenic and hepatic nodules, involvement of other organs is usually assessable and no measurable disease should be present.
+No new sites of disease. The 95% CI was determined using the exact method based on binomial distribution.</description>
+        <time_frame>Up to 2 years from first study drug dose or up to final study visit, whichever occurs first, including but not limited to planned assessments scheduled approximately every 12 weeks.</time_frame>
+        <population>ITT Population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Inotuzumab Ozogamicin+Rituximab</title>
+            <description>Participants received rituximab 375 mg/m^2 via IV infusion on Day 1 and inotuzumab ozogamicin 1.8 mg/m^2 via IV infusion on Day 2 of each 28-day cycle for a maximum of 6 cycles.</description>
+          </group>
+          <group group_id="O2">
+            <title>Rituximab+Gemcitabine or Rituximab+Bendamustine</title>
+            <description>Participants received either R-bendamustine (rituximab 375 mg/m^2 via IV infusion on Day 1 and bendamustine 120 mg/m^2 via IV infusion on Days 1 and 2 in 28-day cycles for a maximum of 6 cycles) or R-gemcitabine (rituximab 375 mg/m^2 via IV infusion on Days 1, 8, 15 and 22 of Cycle 1 and on Day 1 for all other cycles, and gemcitabine 1000 mg/m^2 via IV infusion on Days 1, 8 and 15 of each 28-day cycle for a maximum of 6 cycles). Choice of therapy was at the discretion of the investigator.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With A Best Overall Response of CR or Partial Response (PR) Per NCI International Response Criteria for NHL</title>
+          <description>CR is defined as disappearance of all detectable clinical evidence of disease (including cleared infiltrate on repeat bone marrow aspirate/biopsy if lymphoma involvement of bone marrow before treatment).
+Partial Response (PR) requires the following:
+≥50 % decrease in SPD of the six largest dominant nodes or nodal masses.
+No increase in the size of other nodes, liver, or spleen.
+Splenic and hepatic nodules must regress by ≥50% in the SPD, or for single nodules, in the greatest transverse diameter.
+With the exception of splenic and hepatic nodules, involvement of other organs is usually assessable and no measurable disease should be present.
+No new sites of disease. The 95% CI was determined using the exact method based on binomial distribution.</description>
+          <population>ITT Population</population>
+          <units>Percentage of Participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="166"/>
+                <count group_id="O2" value="172"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.5" lower_limit="22.70" upper_limit="37.08"/>
+                    <measurement group_id="O2" value="29.7" lower_limit="22.94" upper_limit="37.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Third comparison in hierarchical testing strategy was used for power calculation.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.843</p_value>
+            <p_value_desc>An hierarchical testing strategy was specified for OS, PFS and response. PFS could be tested at the 0.023 level if the OS test result were positive. Response could be tested if both the OS and PFS test results were positive.</p_value_desc>
+            <method>Cochran-Mantel-Haenszel</method>
+            <method_desc>The stratification factors are pre-randomization investigator choice, baseline sIPI, and best response to most recent chemo therapy.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With A Best Overall Response of CR, Unconfirmed CR (unCR), PR, or Unconfirmed PR (unPR) Per NCI International Response Criteria for NHL</title>
+        <description>CR is defined as disappearance of all detectable clinical evidence of disease (including cleared infiltrate on repeat bone marrow aspirate/biopsy if lymphoma involvement of bone marrow before treatment).
+Partial Response (PR) requires the following:
+≥50 % decrease in SPD of the six largest dominant nodes or nodal masses.
+No increase in the size of other nodes, liver, or spleen.
+Splenic and hepatic nodules must regress by ≥50% in the SPD, or for single nodules, in the greatest transverse diameter.
+With the exception of splenic and hepatic nodules, involvement of other organs is usually assessable and no measurable disease should be present.
+No new sites of disease. unCR and unPR means didn't have confirmatory assessment (including bone marrow assessment for CR).
+The 95% CI was determined using the exact method based on binomial distribution.</description>
+        <time_frame>Up to 2 years from first study drug dose or up to final study visit, whichever occurs first, including but not limited to planned assessments scheduled approximately every 12 weeks.</time_frame>
+        <population>ITT Population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Inotuzumab Ozogamicin+Rituximab</title>
+            <description>Participants received rituximab 375 mg/m^2 via IV infusion on Day 1 and inotuzumab ozogamicin 1.8 mg/m^2 via IV infusion on Day 2 of each 28-day cycle for a maximum of 6 cycles.</description>
+          </group>
+          <group group_id="O2">
+            <title>Rituximab+Gemcitabine or Rituximab+Bendamustine</title>
+            <description>Participants received either R-bendamustine (rituximab 375 mg/m^2 via IV infusion on Day 1 and bendamustine 120 mg/m^2 via IV infusion on Days 1 and 2 in 28-day cycles for a maximum of 6 cycles) or R-gemcitabine (rituximab 375 mg/m^2 via IV infusion on Days 1, 8, 15 and 22 of Cycle 1 and on Day 1 for all other cycles, and gemcitabine 1000 mg/m^2 via IV infusion on Days 1, 8 and 15 of each 28-day cycle for a maximum of 6 cycles). Choice of therapy was at the discretion of the investigator.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With A Best Overall Response of CR, Unconfirmed CR (unCR), PR, or Unconfirmed PR (unPR) Per NCI International Response Criteria for NHL</title>
+          <description>CR is defined as disappearance of all detectable clinical evidence of disease (including cleared infiltrate on repeat bone marrow aspirate/biopsy if lymphoma involvement of bone marrow before treatment).
+Partial Response (PR) requires the following:
+≥50 % decrease in SPD of the six largest dominant nodes or nodal masses.
+No increase in the size of other nodes, liver, or spleen.
+Splenic and hepatic nodules must regress by ≥50% in the SPD, or for single nodules, in the greatest transverse diameter.
+With the exception of splenic and hepatic nodules, involvement of other organs is usually assessable and no measurable disease should be present.
+No new sites of disease. unCR and unPR means didn't have confirmatory assessment (including bone marrow assessment for CR).
+The 95% CI was determined using the exact method based on binomial distribution.</description>
+          <population>ITT Population</population>
+          <units>Percentage of Participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="166"/>
+                <count group_id="O2" value="172"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="41.0" lower_limit="33.40" upper_limit="48.85"/>
+                    <measurement group_id="O2" value="43.6" lower_limit="36.07" upper_limit="51.36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Third comparison in hierarchical testing strategy was used for power calculation.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.714</p_value>
+            <p_value_desc>An hierarchical testing strategy was specified for OS, PFS and response. PFS could be tested at the 0.023 level if the OS test result were positive. Response could be tested if both the OS and PFS test results were positive.</p_value_desc>
+            <method>Cochran-Mantel-Haenszel</method>
+            <method_desc>The stratification factors are pre-randomization investigator choice, baseline sIPI, and best response to most recent chemo therapy.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Response</title>
+        <description>The duration of overall response is measured from the first date of response until the first date that the progressive disease (PD) or death is objectively documented. The hazard ratio and corresponding 95% 2-sided confidence interval were calculated using stratified Cox proportional hazard regression.</description>
+        <time_frame>Up to 2 years from first study drug dose or up to final study visit, whichever occurs first, including but not limited to planned assessments scheduled approximately every 12 weeks.</time_frame>
+        <population>ITT population; only participants with a CR, unCR, PR, or unPR were included in the analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Inotuzumab Ozogamicin+Rituximab</title>
+            <description>Participants received rituximab 375 mg/m^2 via IV infusion on Day 1 and inotuzumab ozogamicin 1.8 mg/m^2 via IV infusion on Day 2 of each 28-day cycle for a maximum of 6 cycles.</description>
+          </group>
+          <group group_id="O2">
+            <title>Rituximab+Gemcitabine or Rituximab+Bendamustine</title>
+            <description>Participants received either R-bendamustine (rituximab 375 mg/m^2 via IV infusion on Day 1 and bendamustine 120 mg/m^2 via IV infusion on Days 1 and 2 in 28-day cycles for a maximum of 6 cycles) or R-gemcitabine (rituximab 375 mg/m^2 via IV infusion on Days 1, 8, 15 and 22 of Cycle 1 and on Day 1 for all other cycles, and gemcitabine 1000 mg/m^2 via IV infusion on Days 1, 8 and 15 of each 28-day cycle for a maximum of 6 cycles). Choice of therapy was at the discretion of the investigator.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Response</title>
+          <description>The duration of overall response is measured from the first date of response until the first date that the progressive disease (PD) or death is objectively documented. The hazard ratio and corresponding 95% 2-sided confidence interval were calculated using stratified Cox proportional hazard regression.</description>
+          <population>ITT population; only participants with a CR, unCR, PR, or unPR were included in the analysis</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="166"/>
+                <count group_id="O2" value="172"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.56" lower_limit="7.8">The upper limit of the 95 percent (%) confidence interval could not be determined due to the large number of censored events.</measurement>
+                    <measurement group_id="O2" value="6.93" lower_limit="5.5" upper_limit="10.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>DOR was not part of the formal hypothesis testing strategy.</groups_desc>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.142</p_value>
+            <method>Log Rank</method>
+            <method_desc>From one sided stratified log-rank test.</method_desc>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>0.76</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.47</ci_lower_limit>
+            <ci_upper_limit>1.25</ci_upper_limit>
+            <estimate_desc>From stratified Cox proportional hazards model. The stratification factors are pre-randomization investigator choice, baseline sIPI, and best response to most recent chemo therapy.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Health Status as Assessed by the European Quality of Life 5 Dimension (EQ-5D) Questionnaire</title>
+        <description>EQ-5D consists of a descriptive system and an EQ visual analogue scale. The descriptive system comprises the following 5 dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 3 levels: no problems, some problems, extreme problems. The scale, the best state is marked 100 and the worst state is marked 0, is to help the participant to say how good or bad a health state is. EQ-5D index, which was reported, was derived based on US weight. The range of EQ-5D index is -0.109 to 1.00. Higher scores mean better outcomes. The average post-baseline scores for EQ-5D index were computed at approximately Week 12. The overall treatment comparisons were estimated at approximately Week 12.</description>
+        <time_frame>Assessed at Day 1 of each cycle and 6-9 weeks after the last dose, Cycle 3 (Week 12) reported</time_frame>
+        <population>ITT population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Inotuzumab Ozogamicin+Rituximab</title>
+            <description>Participants received rituximab 375 mg/m^2 via IV infusion on Day 1 and inotuzumab ozogamicin 1.8 mg/m^2 via IV infusion on Day 2 of each 28-day cycle for a maximum of 6 cycles.</description>
+          </group>
+          <group group_id="O2">
+            <title>Rituximab+Gemcitabine or Rituximab+Bendamustine</title>
+            <description>Participants received either R-bendamustine (rituximab 375 mg/m^2 via IV infusion on Day 1 and bendamustine 120 mg/m^2 via IV infusion on Days 1 and 2 in 28-day cycles for a maximum of 6 cycles) or R-gemcitabine (rituximab 375 mg/m^2 via IV infusion on Days 1, 8, 15 and 22 of Cycle 1 and on Day 1 for all other cycles, and gemcitabine 1000 mg/m^2 via IV infusion on Days 1, 8 and 15 of each 28-day cycle for a maximum of 6 cycles). Choice of therapy was at the discretion of the investigator.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Health Status as Assessed by the European Quality of Life 5 Dimension (EQ-5D) Questionnaire</title>
+          <description>EQ-5D consists of a descriptive system and an EQ visual analogue scale. The descriptive system comprises the following 5 dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 3 levels: no problems, some problems, extreme problems. The scale, the best state is marked 100 and the worst state is marked 0, is to help the participant to say how good or bad a health state is. EQ-5D index, which was reported, was derived based on US weight. The range of EQ-5D index is -0.109 to 1.00. Higher scores mean better outcomes. The average post-baseline scores for EQ-5D index were computed at approximately Week 12. The overall treatment comparisons were estimated at approximately Week 12.</description>
+          <population>ITT population</population>
+          <units>Unit on a scale</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="166"/>
+                <count group_id="O2" value="172"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.79" lower_limit="0.76" upper_limit="0.82"/>
+                    <measurement group_id="O2" value="0.77" lower_limit="0.74" upper_limit="0.79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.2892</p_value>
+            <method>Mixed Models Analysis</method>
+            <method_desc>Repeated measures mixed effects model with treatment, time, treatment-by-time interaction, and baseline as covariate.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0.02</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.02</ci_lower_limit>
+            <ci_upper_limit>0.06</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Health Related Quality of Life as Assessed by the Functional Assessment of Cancer Therapy for Lymphoma (FACT-Lym) Questionnaire</title>
+        <description>FACT-Lym is a questionnaire that begins with 27 items covering four core Health-Related Quality of Life subscales: Physical Well-being (7 items), Social/Family Well-being (7), Emotional Well-being (6), and Functional Well-being (7). The FACT-Lym also includes an additional concerns subscale (15 items). It also asks participants about their concerns about lumps and swelling, fevers, infections, weight, appetite, emotional stability and treatment. The participants were requested to circle one number on a 0 to 4 points scale per line to indicate how true each statement has been for him/her during the past 7 days. FACT-Lym total score, which was reported, was derived based on FACT-Lym scoring guideline (Version 4). The range of FACT-Lym total score is 0 to 168. Higher scores mean better outcomes. The average post-baseline FACT-Lym total scores were computed at approximately Week 12. The overall treatment comparisons were estimated at approximately Week 12.</description>
+        <time_frame>Assessed at Day 1 of each cycle and 6-9 weeks after the last dose, Cycle 3 (Week 12) reported</time_frame>
+        <population>ITT population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Inotuzumab Ozogamicin+Rituximab</title>
+            <description>Participants received rituximab 375 mg/m^2 via IV infusion on Day 1 and inotuzumab ozogamicin 1.8 mg/m^2 via IV infusion on Day 2 of each 28-day cycle for a maximum of 6 cycles.</description>
+          </group>
+          <group group_id="O2">
+            <title>Rituximab+Gemcitabine or Rituximab+Bendamustine</title>
+            <description>Participants received either R-bendamustine (rituximab 375 mg/m^2 via IV infusion on Day 1 and bendamustine 120 mg/m^2 via IV infusion on Days 1 and 2 in 28-day cycles for a maximum of 6 cycles) or R-gemcitabine (rituximab 375 mg/m^2 via IV infusion on Days 1, 8, 15 and 22 of Cycle 1 and on Day 1 for all other cycles, and gemcitabine 1000 mg/m^2 via IV infusion on Days 1, 8 and 15 of each 28-day cycle for a maximum of 6 cycles). Choice of therapy was at the discretion of the investigator.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Health Related Quality of Life as Assessed by the Functional Assessment of Cancer Therapy for Lymphoma (FACT-Lym) Questionnaire</title>
+          <description>FACT-Lym is a questionnaire that begins with 27 items covering four core Health-Related Quality of Life subscales: Physical Well-being (7 items), Social/Family Well-being (7), Emotional Well-being (6), and Functional Well-being (7). The FACT-Lym also includes an additional concerns subscale (15 items). It also asks participants about their concerns about lumps and swelling, fevers, infections, weight, appetite, emotional stability and treatment. The participants were requested to circle one number on a 0 to 4 points scale per line to indicate how true each statement has been for him/her during the past 7 days. FACT-Lym total score, which was reported, was derived based on FACT-Lym scoring guideline (Version 4). The range of FACT-Lym total score is 0 to 168. Higher scores mean better outcomes. The average post-baseline FACT-Lym total scores were computed at approximately Week 12. The overall treatment comparisons were estimated at approximately Week 12.</description>
+          <population>ITT population</population>
+          <units>Unit on a scale</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="166"/>
+                <count group_id="O2" value="172"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="120.07" lower_limit="116.74" upper_limit="123.41"/>
+                    <measurement group_id="O2" value="116.96" lower_limit="113.74" upper_limit="120.19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other</non_inferiority_type>
+            <p_value>0.1879</p_value>
+            <method>Mixed Models Analysis</method>
+            <method_desc>Repeated measures mixed effects model with treatment, time, treatment-by-time interaction, and baseline as covariate.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>3.11</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.52</ci_lower_limit>
+            <ci_upper_limit>7.74</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With a Treatment Emergent Adverse Event (TEAE) (Safety Population)</title>
+        <description>Includes all TEAEs: Any event that occurred after the first dose of study drug and was not present prior to study drug administration or worsened in severity after study drug administration..</description>
+        <time_frame>Up to 20 weeks after the first dose of study drug</time_frame>
+        <population>Safety Population - included all participants who received at least 1 dose of test article (either inotuzumab ozogamicin administrated in combination with rituximab or investigator’s choice). This population only excluded participants who never received any test article.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Inotuzumab Ozogamicin+Rituximab</title>
+            <description>Participants received rituximab 375 mg/m^2 via IV infusion on Day 1 and inotuzumab ozogamicin 1.8 mg/m^2 via IV infusion on Day 2 of each 28-day cycle for a maximum of 6 cycles.</description>
+          </group>
+          <group group_id="O2">
+            <title>Rituximab+Gemcitabine or Rituximab+Bendamustine</title>
+            <description>Participants received either R-bendamustine (rituximab 375 mg/m^2 via IV infusion on Day 1 and bendamustine 120 mg/m^2 via IV infusion on Days 1 and 2 in 28-day cycles for a maximum of 6 cycles) or R-gemcitabine (rituximab 375 mg/m^2 via IV infusion on Days 1, 8, 15 and 22 of Cycle 1 and on Day 1 for all other cycles, and gemcitabine 1000 mg/m^2 via IV infusion on Days 1, 8 and 15 of each 28-day cycle for a maximum of 6 cycles). Choice of therapy was at the discretion of the investigator.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With a Treatment Emergent Adverse Event (TEAE) (Safety Population)</title>
+          <description>Includes all TEAEs: Any event that occurred after the first dose of study drug and was not present prior to study drug administration or worsened in severity after study drug administration..</description>
+          <population>Safety Population - included all participants who received at least 1 dose of test article (either inotuzumab ozogamicin administrated in combination with rituximab or investigator’s choice). This population only excluded participants who never received any test article.</population>
+          <units>Percentage of Participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="164"/>
+                <count group_id="O2" value="167"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>% participants with a TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="98.8"/>
+                    <measurement group_id="O2" value="100.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>% participants with serious TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37.2"/>
+                    <measurement group_id="O2" value="37.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>% participants with Grade 3 or 4 TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="79.9"/>
+                    <measurement group_id="O2" value="79.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>% participants with Grade 5 TEAE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.6"/>
+                    <measurement group_id="O2" value="13.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>% participants for study drug discontinuation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.0"/>
+                    <measurement group_id="O2" value="18.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>% participants with dose reductions due to TEAEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.4"/>
+                    <measurement group_id="O2" value="29.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>% participants for study drug stopped temporarily</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="31.1"/>
+                    <measurement group_id="O2" value="46.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Up to 22 weeks after the informed consent</time_frame>
+      <desc>Adverse Events calculated using safety population. One subject in the rituximab+ inotuzumab ozogamicin arm received rituximab only, and was excluded from the safety population analysis. AE summaries below are inclusive of AEs from first dose date up to 56 days after last dose of study drug.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Inotuzumab Ozogamicin+Rituximab</title>
+          <description>Participants received rituximab 375 mg/m^2 via IV infusion on Day 1 and inotuzumab ozogamicin 1.8 mg/m^2 via IV infusion on Day 2 of each 28-day cycle for a maximum of 6 cycles.</description>
+        </group>
+        <group group_id="E2">
+          <title>Rituximab+Gemcitabine or Rituximab+Bendamustine</title>
+          <description>Participants received either R-bendamustine (rituximab 375 mg/m^2 via IV infusion on Day 1 and bendamustine 120 mg/m^2 via IV infusion on Days 1 and 2 in 28-day cycles for a maximum of 6 cycles) or R-gemcitabine (rituximab 375 mg/m^2 via IV infusion on Days 1, 8, 15 and 22 of Cycle 1 and on Day 1 for all other cycles, and gemcitabine 1000 mg/m^2 via IV infusion on Days 1, 8 and 15 of each 28-day cycle for a maximum of 6 cycles). Choice of therapy was at the discretion of the investigator.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA v17.0</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="61" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="63" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Febrile bone marrow aplasia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Febrile neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pancytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Splenic infarction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Angina unstable</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Atrial flutter</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Atrial tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Sinus tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Abdominal wall haematoma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Colitis ulcerative</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Dysphagia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Enteritis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Ileus</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Intestinal obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pancreatitis acute</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Small intestinal obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Disease progression</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="20" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>General physical health deterioration</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Oedema due to hepatic disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Sudden death</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hepatitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Hepatitis acute</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Hyperbilirubinaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Venoocclusive liver disease</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Clostridium difficile colitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Clostridium difficile infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Cytomegalovirus infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Cytomegalovirus viraemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Device related infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis viral</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Infectious pleural effusion</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Lung infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Meningitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Oesophageal candidiasis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Oral candidiasis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pneumocystis jirovecii pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia fungal</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pyelonephritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Salmonella sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Staphylococcal infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Staphylococcal sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Staphylococcal skin infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Streptococcal bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Viral infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Viral upper respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Femoral neck fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Infusion related reaction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Overdose</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Spinal fracture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Transfusion reaction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Blood bilirubin increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Hypercalcaemia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Hyperkalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Hyperuricaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Groin pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Muscular weakness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Lymphoma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Myelodysplastic syndrome transformation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Prostate cancer</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Carotid artery stenosis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Cognitive disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Depressed level of consciousness</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Dysarthria</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>IIIrd nerve paralysis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Paraplegia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Presyncope</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Tremor</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>VIIth nerve paralysis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Confusional state</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Delirium febrile</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Mental status changes</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Suicide attempt</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haematuria</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Renal failure</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Renal failure acute</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Renal impairment</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Urinary retention</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory distress syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pneumonitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haematoma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA v17.0</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="155" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="158" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="24" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="43" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia</sub_title>
+                <counts group_id="E1" subjects_affected="37" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="54" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Lymphopenia</sub_title>
+                <counts group_id="E1" subjects_affected="28" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="39" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="57" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="81" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="101" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="64" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="38" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="33" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="22" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="31" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="50" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="54" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="23" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="32" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Chills</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="55" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="42" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="37" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="35" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperbilirubinaemia</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="28" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="44" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="18" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Blood alkaline phosphatase increased</sub_title>
+                <counts group_id="E1" subjects_affected="24" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="16" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Blood bilirubin increased</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Blood creatinine increased</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Blood lactate dehydrogenase increased</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Gamma-glutamyltransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="38" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="16" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Haemoglobin decreased</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Platelet count decreased</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Weight decreased</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>White blood cell count decreased</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="28" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="31" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Hypercalcaemia</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Hypokalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Hypophosphataemia</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Dysgeusia</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="24" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pruritus</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="167"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="164"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="167"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Interpretation of the results is limited by the small number of subjects analyzed and follow-up period was shortened due to the early termination of the study.
+Adverse Events were calculated using the safety populations.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Pfizer ClinicalTrials.gov Call Center</name_or_title>
+      <organization>Pfizer, Inc.</organization>
+      <phone>1-800-718-1021</phone>
+      <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

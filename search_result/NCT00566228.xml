@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1336">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00566228</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MC0681</org_study_id>
+    <secondary_id>P30CA015083</secondary_id>
+    <secondary_id>MC0681</secondary_id>
+    <secondary_id>07-000789</secondary_id>
+    <nct_id>NCT00566228</nct_id>
+  </id_info>
+  <brief_title>Two Different Methods of Collecting Stem Cells For an Autologous Stem Cell Transplant in Treating Patients With Diffuse Large Cell Lymphoma</brief_title>
+  <official_title>Randomized, Double-Blind Phase III Clinical Trial Comparing Outcomes of Immunologic Autograft Engineering Versus Standard Autograft Collection in Patients Undergoing Autologous Stem Cell Transplantation for Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: It is not yet known which method of stem cell collection is best for patients
+      undergoing an autologous stem cell transplant.
+
+      PURPOSE: This randomized phase III trial is comparing two different methods of collecting
+      stem cells in patients undergoing stem cell transplant for diffuse large cell lymphoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  Determine the therapeutic effect of instrument-driven lymphocyte enrichment of the
+           autograft absolute lymphocyte count (A-ALC) compared to &quot;standard autograft collection&quot;
+           as determined by progression-free survival post-transplantation.
+
+      Secondary
+
+        -  Determine the profile of immune effector cells of the &quot;lymphocyte enriched autograft&quot; vs
+           &quot;standard autograft&quot; and peripheral blood after autologous stem cell transplant (ASCT)
+           and their impact on post- ASCT immunological reconstitution and clinical endpoints.
+
+        -  Perform quantitative and functional analysis of T, B, NK, and dendritic cells from the
+           apheresis product and peripheral blood samples at multiple timepoints after
+           transplantation.
+
+        -  Determine and compare the proportion of patients who are progression-free and alive at 1
+           and 2 years.
+
+        -  Determine the differences in overall survival between the two collection method arms.
+
+        -  Evaluate and characterize differences in transplantation outcomes (e.g., time to ALC
+           engraftment, incidence of infection, and the CD34 count) between the two collection
+           method arms.
+
+      OUTLINE: Patients are stratified according to baseline International Prognostic Factor (≥ 2
+      factors vs &lt; 2 factors) and PET scan findings prior to transplantation (positive vs
+      negative). Patients receive filgrastim (G-CSF) alone or G-CSF and sargramostim (GM-CSF) daily
+      for stem cell mobilization. Once the peripheral CD34-positive cell count reaches ≥ 10/μL,
+      patients undergo stem cell collection. Patients are then randomized to 1 of 2 treatment arms
+      for standard autologous stem cell transplantation (ASCT).
+
+        -  Immunologic autograft engineering: Patients' stem cells are collected according to
+           modified Amicus settings (i.e., MNC OFFSET = 0.0 and RBC = 7.0). Patients undergo ASCT
+           IV on the day of apheresis (lymphocyte enriched autograft).
+
+        -  Standard autograft collection: Patients' stem cells are collected according to standard
+           Amicus settings (i.e., MNC OFFSET = 1.5 and RBC OFFSET = 5.0). Patients undergo ASCT IV
+           on the day of apheresis.
+
+      Patients undergo blood sample collection periodically for immunological studies. Samples are
+      analyzed for immunophenotyping of immune cell subsets via multicolor flow cytometry,
+      immunoglobulin reconstitution, and functional T-cell immunity.
+
+      After completion of study treatment, patients are followed at day 15 post ASCT and then at 3,
+      6, 9, and 12 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2007</start_date>
+  <completion_date type="Actual">January 15, 2015</completion_date>
+  <primary_completion_date type="Actual">January 15, 2015</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Median Progression-free Survival</measure>
+    <time_frame>Date of infusion to disease progression, relapse, or death from any cause whichever came first, assessed up to 24 months post enrollment.</time_frame>
+    <description>Progression free survival (PFS) was defined as the time from the date of infusion to disease progression, relapse, or death from any cause. Patients alive without disease progression or relapse were censored at their last disease evaluation or at their secondary primary cancer diagnosis, whichever occurred first. Criteria for Relapsed Disease: Appearance of any new lesion or increase by ≥50% in the size of previously involved sites, ≥50% increase in greatest diameter of any previously identified node &gt;1.0 cm in its short axis or in the sum of the products of diameters (SPD) of more than one node. Criteria for Progressive Disease: ≥50% increase from nadir in the SPD of any previously identified abnormal node or ALC for partial remissions or non-responders, Appearance of any new lesion (≥ 2x2 cm). A log rank test was used to assess whether PFS differed with respect to apheresis collection method.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free Survival Rate at 1 Year</measure>
+    <time_frame>Date of infusion to disease progression, relapse, or death from any cause, up to one year</time_frame>
+    <description>Progression-free survival rate (percentage) at one year is defined as 100 times the number of patients who have not progressed, relapsed and/or died divided by the total number of evaluable patients in each arm. Criteria for Relapsed Disease: Appearance of any new lesion or increase by ≥50% in the size of previously involved sites, ≥50% increase in greatest diameter of any previously identified node &gt;1.0 cm in its short axis or in the SPD of more than one node. Criteria for Progressive Disease: ≥50% increase from nadir in the SPD of any previously identified abnormal node or ALC for partial remissions or non-responders, Appearance of any new lesion (≥ 2x2 cm).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free Survival Rate at 2 Years</measure>
+    <time_frame>Date of infusion to disease progression, relapse, or death from any cause, up to two years</time_frame>
+    <description>Progression-free survival rate (percentage) at two years is defined as 100 times the number of patients who have not progressed, relapsed and/or died divided by the total number of evaluable patients in each arm. Criteria for Relapsed Disease: Appearance of any new lesion or increase by ≥50% in the size of previously involved sites, ≥50% increase in greatest diameter of any previously identified node &gt;1.0 cm in its short axis or in the SPD of more than one node. Criteria for Progressive Disease: ≥50% increase from nadir in the SPD of any previously identified abnormal node or ALC for partial remissions or non-responders, Appearance of any new lesion (≥ 2x2 cm).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>One-year Overall Survival Rate</measure>
+    <time_frame>date of infusion to death from any cause, up to one year</time_frame>
+    <description>Overall survival (OS) was defined at the time from infusion to death from any cause. The one-year OS rate is defined as the percentage of patients who are still alive after one year. A log rank test was used to assess whether OS differed with respect to apheresis collection method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Time to Absolute Lymphocyte Count Engraftment</measure>
+    <time_frame>Up to 30 days after autologous peripheral hematopoietic stem cell transplantation</time_frame>
+    <description>The time to absolute lymphocyte count (ALC) engraftment will be evaluated and compared between the two arms, where time to ALC engraftment is defined as the time from transplant to the time they achieve ALC &gt; 500.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Number of CD34 Cells/kg Infused</measure>
+    <time_frame>5 to 7 days after patient received granulocyte-colony stimulating factor and reached a peripheral CD34 count of 10 cells/microliter or greater</time_frame>
+    <description>Five (5) to seven (7) days after patient received granulocyte-colony stimulating factor and reached a peripheral CD34 count of 10 cells/microliter or greater, stem cell collection began. Apheresis collections were to be performed daily. At least 2 x 10^6 CD34 cells/kg were to be collected. Additional collections were at the discretion of the transplantation team. The median number of CD34 cells/kg infused are reported for each arm below.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Evaluation and Comparison of Immunologic Recovery Within and Between the Arms by Assessing the Quantitative and Functional Immune Effector Cells (T, B, or NK Cells) From the Apheresis Product</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Evaluation and comparison of immunologic recovery within and between the arms by assessing the quantitative and functional immune effector cells (T, B, or NK cells) from the apheresis product</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">122</enrollment>
+  <condition>Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Immunologic autograft engineering</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients' stem cells are collected according to modified Amicus settings (i.e., MNC OFFSET = 0.0 and RBC = 7.0). Patients undergo ASCT IV on the day of apheresis (lymphocyte enriched autograft).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard autograft collection</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients' stem cells are collected according to standard Amicus settings (i.e., MNC OFFSET = 1.5 and RBC OFFSET = 5.0). Patients undergo ASCT IV on the day of apheresis.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>autologous hematopoietic stem cell transplantation</intervention_name>
+    <description>Patients undergo autologous stem cell transplantation</description>
+    <arm_group_label>Immunologic autograft engineering</arm_group_label>
+    <arm_group_label>Standard autograft collection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>leukapheresis</intervention_name>
+    <description>Stem cells collected</description>
+    <arm_group_label>Immunologic autograft engineering</arm_group_label>
+    <arm_group_label>Standard autograft collection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Diagnosis of diffuse large cell lymphoma
+
+               -  Low-grade non-Hodgkin lymphoma transformed to diffuse large cell lymphoma allowed
+
+          -  Candidate for with autologous peripheral blood stem cell transplantation
+
+               -  Not requiring bone marrow harvest to collect stem cells
+
+               -  No chemotherapy with filgrastim ( G-CSF) or mobilization study drug (i.e.,
+                  AMD3100) needed for mobilization of stem cells
+
+        PATIENT CHARACTERISTICS:
+
+          -  ECOG performance status 0-1
+
+          -  Cardiac and pulmonary status sufficient to undergo apheresis and stem cell
+             transplantation
+
+          -  Negative pregnancy test
+
+          -  Not pregnant or nursing
+
+          -  Fertile patients must use effective contraception
+
+          -  HIV negative
+
+          -  No active uncontrolled infection requiring antibiotic treatment
+
+          -  No comorbid condition which, in view of the investigators, renders the patient at high
+             risk from treatment complications
+
+          -  Willing to provide all research blood samples as required by the protocol
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  At least 4 weeks since prior chemotherapy (rituxan is not considered chemotherapy for
+             the purpose of this study)
+
+          -  More than 4 weeks since prior experimental therapy
+
+          -  No concurrent enrollment on another experimental protocol during the mobilization
+             phase
+
+          -  No concurrent participation in any autologous stem cell transplantation study that is
+             not using the standard conditioning regimens for lymphomas
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Luis F. Porrata, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Porrata LF, Burgstaler EA, Winters JL, Jacob EK, Gastineau DA, Suman VJ, Inwards DJ, Ansell SM, Micallef IN, Johnston PB, Nevala W, Markovic SN. Immunologic Autograft Engineering and Survival in Non-Hodgkin Lymphoma. Biol Blood Marrow Transplant. 2016 Jun;22(6):1017-1023. doi: 10.1016/j.bbmt.2016.01.024. Epub 2016 Jan 27.</citation>
+    <PMID>26826432</PMID>
+  </results_reference>
+  <verification_date>June 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>November 30, 2007</study_first_submitted>
+  <study_first_submitted_qc>November 30, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 3, 2007</study_first_posted>
+  <results_first_submitted>May 1, 2018</results_first_submitted>
+  <results_first_submitted_qc>June 6, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 9, 2018</results_first_posted>
+  <last_update_submitted>June 6, 2018</last_update_submitted>
+  <last_update_submitted_qc>June 6, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 9, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>noncontiguous stage II adult diffuse large cell lymphoma</keyword>
+  <keyword>stage III adult diffuse large cell lymphoma</keyword>
+  <keyword>stage IV adult diffuse large cell lymphoma</keyword>
+  <keyword>recurrent adult diffuse large cell lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Immunologic Autograft Engineering</title>
+          <description>Patients' stem cells are collected according to modified Amicus settings (i.e., MNC OFFSET = 0.0 and RBC = 7.0).</description>
+        </group>
+        <group group_id="P2">
+          <title>Standard Autograft Collection</title>
+          <description>Patients' stem cells are collected according to standard Amicus settings (i.e., MNC OFFSET = 1.5 and RBC OFFSET = 5.0).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="62"/>
+                <participants group_id="P2" count="60"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="56"/>
+                <participants group_id="P2" count="55"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Attempt to mobilize stem cells failed</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Unable to collect sufficient CD34 cells</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>progressed before infusion could occur</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>All patients who started the study and did not withdraw consent prior to the start of treatment were included.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Immunologic Autograft Engineering</title>
+          <description>Patients' stem cells are collected according to modified Amicus settings (i.e., MNC OFFSET = 0.0 and RBC = 7.0).</description>
+        </group>
+        <group group_id="B2">
+          <title>Standard Autograft Collection</title>
+          <description>Patients' stem cells are collected according to standard Amicus settings (i.e., MNC OFFSET = 1.5 and RBC OFFSET = 5.0).</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="61"/>
+            <count group_id="B2" value="60"/>
+            <count group_id="B3" value="121"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="58" lower_limit="50" upper_limit="64"/>
+                    <measurement group_id="B2" value="58" lower_limit="49" upper_limit="64"/>
+                    <measurement group_id="B3" value="58" lower_limit="50" upper_limit="64"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="36"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="85"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="61"/>
+                    <measurement group_id="B2" value="60"/>
+                    <measurement group_id="B3" value="121"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Median Progression-free Survival</title>
+        <description>Progression free survival (PFS) was defined as the time from the date of infusion to disease progression, relapse, or death from any cause. Patients alive without disease progression or relapse were censored at their last disease evaluation or at their secondary primary cancer diagnosis, whichever occurred first. Criteria for Relapsed Disease: Appearance of any new lesion or increase by ≥50% in the size of previously involved sites, ≥50% increase in greatest diameter of any previously identified node &gt;1.0 cm in its short axis or in the sum of the products of diameters (SPD) of more than one node. Criteria for Progressive Disease: ≥50% increase from nadir in the SPD of any previously identified abnormal node or ALC for partial remissions or non-responders, Appearance of any new lesion (≥ 2x2 cm). A log rank test was used to assess whether PFS differed with respect to apheresis collection method.</description>
+        <time_frame>Date of infusion to disease progression, relapse, or death from any cause whichever came first, assessed up to 24 months post enrollment.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Immunologic Autograft Engineering</title>
+            <description>Patients' stem cells are collected according to modified Amicus settings (i.e., MNC OFFSET = 0.0 and RBC = 7.0).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Autograft Collection</title>
+            <description>Patients' stem cells are collected according to standard Amicus settings (i.e., MNC OFFSET = 1.5 and RBC OFFSET = 5.0).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Median Progression-free Survival</title>
+          <description>Progression free survival (PFS) was defined as the time from the date of infusion to disease progression, relapse, or death from any cause. Patients alive without disease progression or relapse were censored at their last disease evaluation or at their secondary primary cancer diagnosis, whichever occurred first. Criteria for Relapsed Disease: Appearance of any new lesion or increase by ≥50% in the size of previously involved sites, ≥50% increase in greatest diameter of any previously identified node &gt;1.0 cm in its short axis or in the sum of the products of diameters (SPD) of more than one node. Criteria for Progressive Disease: ≥50% increase from nadir in the SPD of any previously identified abnormal node or ALC for partial remissions or non-responders, Appearance of any new lesion (≥ 2x2 cm). A log rank test was used to assess whether PFS differed with respect to apheresis collection method.</description>
+          <units>months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="56"/>
+                <count group_id="O2" value="55"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA">The median and 95% confidence interval was not reached.</measurement>
+                    <measurement group_id="O2" value="NA">The median and 95% confidence interval was not reached.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.690</p_value>
+            <method>Log Rank</method>
+            <param_type>Hazard Ratio (HR)</param_type>
+            <param_value>1.13</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.62</ci_lower_limit>
+            <ci_upper_limit>2.08</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Progression-free Survival Rate at 1 Year</title>
+        <description>Progression-free survival rate (percentage) at one year is defined as 100 times the number of patients who have not progressed, relapsed and/or died divided by the total number of evaluable patients in each arm. Criteria for Relapsed Disease: Appearance of any new lesion or increase by ≥50% in the size of previously involved sites, ≥50% increase in greatest diameter of any previously identified node &gt;1.0 cm in its short axis or in the SPD of more than one node. Criteria for Progressive Disease: ≥50% increase from nadir in the SPD of any previously identified abnormal node or ALC for partial remissions or non-responders, Appearance of any new lesion (≥ 2x2 cm).</description>
+        <time_frame>Date of infusion to disease progression, relapse, or death from any cause, up to one year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Immunologic Autograft Engineering</title>
+            <description>Patients' stem cells are collected according to modified Amicus settings (i.e., MNC OFFSET = 0.0 and RBC = 7.0).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Autograft Collection</title>
+            <description>Patients' stem cells are collected according to standard Amicus settings (i.e., MNC OFFSET = 1.5 and RBC OFFSET = 5.0).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Progression-free Survival Rate at 1 Year</title>
+          <description>Progression-free survival rate (percentage) at one year is defined as 100 times the number of patients who have not progressed, relapsed and/or died divided by the total number of evaluable patients in each arm. Criteria for Relapsed Disease: Appearance of any new lesion or increase by ≥50% in the size of previously involved sites, ≥50% increase in greatest diameter of any previously identified node &gt;1.0 cm in its short axis or in the SPD of more than one node. Criteria for Progressive Disease: ≥50% increase from nadir in the SPD of any previously identified abnormal node or ALC for partial remissions or non-responders, Appearance of any new lesion (≥ 2x2 cm).</description>
+          <units>percentage of patients</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="56"/>
+                <count group_id="O2" value="55"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="73.1" lower_limit="62.3" upper_limit="85.7"/>
+                    <measurement group_id="O2" value="65.4" lower_limit="53.9" upper_limit="79.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Progression-free Survival Rate at 2 Years</title>
+        <description>Progression-free survival rate (percentage) at two years is defined as 100 times the number of patients who have not progressed, relapsed and/or died divided by the total number of evaluable patients in each arm. Criteria for Relapsed Disease: Appearance of any new lesion or increase by ≥50% in the size of previously involved sites, ≥50% increase in greatest diameter of any previously identified node &gt;1.0 cm in its short axis or in the SPD of more than one node. Criteria for Progressive Disease: ≥50% increase from nadir in the SPD of any previously identified abnormal node or ALC for partial remissions or non-responders, Appearance of any new lesion (≥ 2x2 cm).</description>
+        <time_frame>Date of infusion to disease progression, relapse, or death from any cause, up to two years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Immunologic Autograft Engineering</title>
+            <description>Patients' stem cells are collected according to modified Amicus settings (i.e., MNC OFFSET = 0.0 and RBC = 7.0).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Autograft Collection</title>
+            <description>Patients' stem cells are collected according to standard Amicus settings (i.e., MNC OFFSET = 1.5 and RBC OFFSET = 5.0).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Progression-free Survival Rate at 2 Years</title>
+          <description>Progression-free survival rate (percentage) at two years is defined as 100 times the number of patients who have not progressed, relapsed and/or died divided by the total number of evaluable patients in each arm. Criteria for Relapsed Disease: Appearance of any new lesion or increase by ≥50% in the size of previously involved sites, ≥50% increase in greatest diameter of any previously identified node &gt;1.0 cm in its short axis or in the SPD of more than one node. Criteria for Progressive Disease: ≥50% increase from nadir in the SPD of any previously identified abnormal node or ALC for partial remissions or non-responders, Appearance of any new lesion (≥ 2x2 cm).</description>
+          <units>percentage of patients</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="56"/>
+                <count group_id="O2" value="55"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="57.9" lower_limit="46.1" upper_limit="72.7"/>
+                    <measurement group_id="O2" value="65.4" lower_limit="53.9" upper_limit="79.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>One-year Overall Survival Rate</title>
+        <description>Overall survival (OS) was defined at the time from infusion to death from any cause. The one-year OS rate is defined as the percentage of patients who are still alive after one year. A log rank test was used to assess whether OS differed with respect to apheresis collection method.</description>
+        <time_frame>date of infusion to death from any cause, up to one year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Immunologic Autograft Engineering</title>
+            <description>Patients' stem cells are collected according to modified Amicus settings (i.e., MNC OFFSET = 0.0 and RBC = 7.0).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Autograft Collection</title>
+            <description>Patients' stem cells are collected according to standard Amicus settings (i.e., MNC OFFSET = 1.5 and RBC OFFSET = 5.0).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>One-year Overall Survival Rate</title>
+          <description>Overall survival (OS) was defined at the time from infusion to death from any cause. The one-year OS rate is defined as the percentage of patients who are still alive after one year. A log rank test was used to assess whether OS differed with respect to apheresis collection method.</description>
+          <units>percentage of patients</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="56"/>
+                <count group_id="O2" value="55"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="91.1" lower_limit="83.9" upper_limit="98.9"/>
+                    <measurement group_id="O2" value="83.6" lower_limit="74.4" upper_limit="94.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.679</p_value>
+            <method>Log Rank</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Median Time to Absolute Lymphocyte Count Engraftment</title>
+        <description>The time to absolute lymphocyte count (ALC) engraftment will be evaluated and compared between the two arms, where time to ALC engraftment is defined as the time from transplant to the time they achieve ALC &gt; 500.</description>
+        <time_frame>Up to 30 days after autologous peripheral hematopoietic stem cell transplantation</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Immunologic Autograft Engineering</title>
+            <description>Patients' stem cells are collected according to modified Amicus settings (i.e., MNC OFFSET = 0.0 and RBC = 7.0).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Autograft Collection</title>
+            <description>Patients' stem cells are collected according to standard Amicus settings (i.e., MNC OFFSET = 1.5 and RBC OFFSET = 5.0).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Median Time to Absolute Lymphocyte Count Engraftment</title>
+          <description>The time to absolute lymphocyte count (ALC) engraftment will be evaluated and compared between the two arms, where time to ALC engraftment is defined as the time from transplant to the time they achieve ALC &gt; 500.</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="56"/>
+                <count group_id="O2" value="55"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14" lower_limit="10" upper_limit="30"/>
+                    <measurement group_id="O2" value="14" lower_limit="10" upper_limit="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Median Number of CD34 Cells/kg Infused</title>
+        <description>Five (5) to seven (7) days after patient received granulocyte-colony stimulating factor and reached a peripheral CD34 count of 10 cells/microliter or greater, stem cell collection began. Apheresis collections were to be performed daily. At least 2 x 10^6 CD34 cells/kg were to be collected. Additional collections were at the discretion of the transplantation team. The median number of CD34 cells/kg infused are reported for each arm below.</description>
+        <time_frame>5 to 7 days after patient received granulocyte-colony stimulating factor and reached a peripheral CD34 count of 10 cells/microliter or greater</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Immunologic Autograft Engineering</title>
+            <description>Patients' stem cells are collected according to modified Amicus settings (i.e., MNC OFFSET = 0.0 and RBC = 7.0).</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard Autograft Collection</title>
+            <description>Patients' stem cells are collected according to standard Amicus settings (i.e., MNC OFFSET = 1.5 and RBC OFFSET = 5.0).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Median Number of CD34 Cells/kg Infused</title>
+          <description>Five (5) to seven (7) days after patient received granulocyte-colony stimulating factor and reached a peripheral CD34 count of 10 cells/microliter or greater, stem cell collection began. Apheresis collections were to be performed daily. At least 2 x 10^6 CD34 cells/kg were to be collected. Additional collections were at the discretion of the transplantation team. The median number of CD34 cells/kg infused are reported for each arm below.</description>
+          <units>x10^6 cells/kg</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="56"/>
+                <count group_id="O2" value="55"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.6" lower_limit="2.0" upper_limit="8.2"/>
+                    <measurement group_id="O2" value="5.3" lower_limit="3.0" upper_limit="11.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Evaluation and Comparison of Immunologic Recovery Within and Between the Arms by Assessing the Quantitative and Functional Immune Effector Cells (T, B, or NK Cells) From the Apheresis Product</title>
+        <description>Evaluation and comparison of immunologic recovery within and between the arms by assessing the quantitative and functional immune effector cells (T, B, or NK cells) from the apheresis product</description>
+        <time_frame>Baseline</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>At completion of apheresis collection; Up to 2 years.</time_frame>
+      <desc>CTCAE term (AE description) and grade: The descriptions and grading scales found in the revised NCI Common Terminology Criteria for Adverse Events (CTCAE) version 3.0 will be utilized for AE reporting. Each CTCAE term in the current version is a unique representation of a specific event used for medical documentation and scientific analysis and is a single MedDRA Lowest Level Term (LLT).</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Immunologic Autograft Engineering</title>
+          <description>Patients' stem cells are collected according to modified Amicus settings (i.e., MNC OFFSET = 0.0 and RBC = 7.0).</description>
+        </group>
+        <group group_id="E2">
+          <title>Standard Autograft Collection</title>
+          <description>Patients' stem cells are collected according to standard Amicus settings (i.e., MNC OFFSET = 1.5 and RBC OFFSET = 5.0).</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="57"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="57"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA 6</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="22" subjects_at_risk="57"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="57"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hemoglobin decreased</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="57"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="57"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+              </event>
+              <event>
+                <sub_title>Atrial tachycardia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Injection site reaction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="57"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Bruising</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="57"/>
+                <counts group_id="E2" events="9" subjects_affected="9" subjects_at_risk="57"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Platelet count decreased</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="57"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="57"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Peripheral sensory neuropathy</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="57"/>
+                <counts group_id="E2" events="6" subjects_affected="6" subjects_at_risk="57"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Luis F. Porrata, M.D.</name_or_title>
+      <organization>Mayo Clinic</organization>
+      <phone>507/284–2511</phone>
+      <email>Porrata.Luis@mayo.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

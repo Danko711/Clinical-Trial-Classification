@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="324">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03571828</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20170533</org_study_id>
+    <nct_id>NCT03571828</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of AMG 562 in Subjects With r/r Diffuse Large B-cell Lymphoma, Mantle Cell Lymphoma, or Follicular Lymphoma</brief_title>
+  <official_title>A Phase 1, First-in-Human, Open-Label Study Evaluating the Safety, Tolerability, Pharmacokinetics, and Efficacy of AMG 562 in Subjects With Relapsed / Refractory Diffuse Large B-cell Lymphoma, Mantle Cell Lymphoma, or Follicular Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Amgen</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Amgen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evaluate the safety and tolerability of AMG 562 in adult subjects with DLBCL, MCL, or FL.
+      Estimate the maximum tolerated dose (MTD) and/or a biologically active dose (e.g.,
+      recommended phase 2 dose [RP2D])
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 15, 2018</start_date>
+  <completion_date type="Anticipated">November 4, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 4, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of dose limiting toxicities (DLTs)</measure>
+    <time_frame>up to 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of treatment-emergent adverse events</measure>
+    <time_frame>up to 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of treatment-related adverse events</measure>
+    <time_frame>up to 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of disease-related events</measure>
+    <time_frame>up to 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of clinically-significant changes in vital signs</measure>
+    <time_frame>up to 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of clinically-significant changes in physical examinations</measure>
+    <time_frame>up to 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of clinically-significant changes in electrocardiograms (ECG)s</measure>
+    <time_frame>up to 2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum observed concentration (Cmax) of AMG 562</measure>
+    <time_frame>Day 1, 2 and 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>minimum concentration (Cmin)</measure>
+    <time_frame>Day 1, 2 and 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>time of maximum concentration (Tmax)</measure>
+    <time_frame>Day 1, 2 and 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>area under the concentration-time curve (AUC)</measure>
+    <time_frame>Day 1, 2 and 8</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">85</enrollment>
+  <condition>Diffuse Large B-cell Lymphoma(DLBCL)</condition>
+  <condition>Mantle Cell Lymphoma (MCL)</condition>
+  <condition>Follicular Lymphoma (FL)</condition>
+  <arm_group>
+    <arm_group_label>Part 1: Dose Exploration</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose exploration cohorts to estimate the MTD, safety, tolerability, PK, and PD of different doses of AMG 562 in subjects with relapsed/refractory DLBCL, MCL or FL using a Bayesian logistic regression model (BLRM; Neuenschwander et al, 2008).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Dose Expansion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>dose expansion part to gain further clinical experience, safety and efficacy data for AMG 562 in subjects with relapsed / refractory DLBCL. The dose to be evaluated will be at or below the MTD estimated in the dose exploration cohorts.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AMG 562</intervention_name>
+    <description>AMG 562 is a BiTE® antibody construct that targets CD19 and is intended for the treatment of patients with B-cell malignancies.</description>
+    <arm_group_label>Part 1: Dose Exploration</arm_group_label>
+    <arm_group_label>Part 2: Dose Expansion</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  101 Subject has provided informed consent prior to initiation of any study-specific
+             activities/procedures OR subject's legally acceptable representative has provided
+             informed consent prior to any study-specific activities/procedures being initiated
+             when the subject has any kind of condition that, in the opinion of the investigator,
+             may compromise the ability of the subject to give written informed consent.
+
+          -  102 Age ≥ 18 at the time of informed consent.
+
+          -  103 Biopsy proven B-NHL (biopsy proven at least at primary diagnosis), including DLBCL
+             that represents transformation of indolent NHL (including follicular, marginal zone,
+             and lymphoplasmacytic lymphoma excluding chronic lymphocytic leukemia or Hodgkin
+             Lymphoma), FL, and MCL. Presentations of these histologies with substantial occurrence
+             of malignant cells into the bloodstream (lymphocyte count ≥ 7 x 10^9/L) including all
+             leukemic presentations are excluded. Subjects with transformation of indolent lymphoma
+             must have received therapy after a diagnosis of transformation that is appropriate for
+             aggressive histology as described in 105. The following histologies are not eligible:
+             Lymphoblastic lymphoma, Burkitt lymphoma. Any histologies not specifically mentioned
+             must be discussed with the medical monitor.
+
+          -  104 For Part 2 (Expansion in patients with DLBCL): only biopsy proven DLBCL (biopsy
+             proven at least at primary diagnosis), including DLBCL that represents transformation
+             of indolent NHL (including follicular, marginal zone, and lymphoplasmacytic lymphoma
+             excluding chronic lymphocytic leukemia or Hodgkin Lymphoma) are eligible.
+             Presentations of these histologies with substantial occurrence of malignant cells into
+             the bloodstream (lymphocyte count ≥ 7 x 10^9/L) including all leukemic presentations
+             are excluded. Subjects with transformation of indolent lymphoma must have received
+             therapy after a diagnosis of transformation that is appropriate for aggressive
+             histology as described in 105. Other histologies are not eligible.
+
+          -  105 For DLBCL: Refractory (no prior CR/CMR) to first or later line of treatment or
+             relapsed (prior CR/CMR) after two or more prior treatments., with at least one
+             treatment consisting of standard multiagent chemotherapy containing an anthracycline
+             AND an approved anti-CD20 agent. Examples of appropriate therapy include but are not
+             limited to R-CHOP (14 or 21), R-CHOEP, and DA-REOCH. For FL: Refractory (no prior
+             CR/CMR) to first or later line of treatment or relapsed (prior CR/CMR) after two or
+             more prior treatments, with at least one treatment consisting of a standard
+             chemotherapy containing an approved anti-CD20 agent.
+
+        Examples of appropriate therapy include but are not limited to R-CHOP, R-CVP, and BR. For
+        MCL: Refractory (no prior CR/CMR) to first or later line of treatment or relapsed (prior
+        CR/CMR) after two or more prior treatments, with at least one treatment consisting of a
+        standard chemotherapy containing an approved anti-CD20 agent. Examples of appropriate
+        therapy include but are not limited to R-CHOP, BR and hyper-CVAD alternating with
+        R-MTX/Ara-C. For subjects with refractory B-NHL and who have received radiotherapy, PET
+        positivity should be demonstrated no less than 6 weeks after the last dose of radiotherapy
+
+          -  106 Minimum life expectancy of 12 weeks.
+
+          -  107 Radiographically measurable disease with a clearly demarcated nodal lesion at
+             least 1.5 cm in its largest dimension or a target extranodal lesion at least 1.0 cm in
+             its largest dimension. In the dose exploration phase in case disease is not
+             radiographically measurable PET positivity (ie, Deauville ≥4) instead is acceptable.
+
+          -  108 Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2
+
+          -  109 Laboratory parameters (completed within 14 days prior to enrollment): Hematology:
+             Absolute neutrophil count (ANC) ≥ 1.0 x 10^9/L, Platelets ≥ 75 x 10^9/L. Chemistry:
+             Creatinine clearance ≥ 50 mL/min (calculated using Cockcroft Gault equation).
+             Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) &lt; 3X upper limit of
+             normal (ULN), Total bilirubin (TBL) &lt; 2x ULN (unless Gilbert's disease or if liver
+             involvement with lymphoma)
+
+        Exclusion Criteria:
+
+          -  201 Treatment within 30 days prior to enrollment with another investigational device
+             or drug (interventional clinical study / studies). Other investigational procedures
+             while participating in this study are excluded (observational studies are permitted).
+
+          -  202 Prior anti-cancer therapy as specified below: At least 3 half-lives from first
+             dose of AMG 562 must have elapsed from any prior systemic inhibitory/stimulatory
+             immune checkpoint molecule therapy (eg, ipilimumab, nivolumab, pembrolizumab,
+             atezolizumab, OX40 agonists, 4-1BB agonists, etc). Other targeted anti-cancer therapy
+             (chemotherapy, antibody therapy,molecular targeted therapy, steroids) within 14 days
+             or 5 half lives (which ever is longer) prior to first dose of AMG 562. Patients
+             requiring continued treatment due to aggressive disease may only be included if there
+             is agreement by both the investigator and the Amgen Medical Monitor. Radiation therapy
+             completed within 28 days prior to first dose of AMG 562. Autologous HSCT within six
+             weeks prior to start of AMG 562 treatment.
+
+          -  203 Prior anti-CD19-directed therapies.
+
+          -  204 Prior allogeneic HSCT.
+
+          -  205 For Part 2 (Expansion in patients with DLBCL): fluorodeoxyglucose non-avid
+             patients.
+
+          -  206 Baseline electrocardiogram (ECG) QTc &gt; 470 msec.
+
+          -  207 Autoimmune disorders requiring chronic systemic steroid therapy or any other form
+             of immunosuppressive therapy. Patient may be included if the treatment is discontinued
+             more than 3 months prior to the first dose of AMG 562 at a low likelihood of relapse
+             AND if there is agreement by both the investigator and the Amgen Medical Monitor.
+
+          -  208 Unresolved toxicity from prior anti-tumor therapy, defined as not having resolved
+             to CTCAE version 4.0 grade 1, or to levels dictated in the eligibility criteria with
+             the exception of alopecia or toxicities from prior anti-tumor therapy that are
+             considered irreversible (defined as having been present and stable for &gt; 28 days)
+             which may be allowed if they are not otherwise described in the exclusion criteria AND
+             there is agreement to allow by both the investigator and the Amgen Medical Monitor.
+
+          -  209 Presence of clinically relevant central nervous system (CNS) pathology such as
+             epilepsy, paresis, aphasia, stroke, severe brain injury, dementia, Parkinson's
+             disease, cerebellar disease, organic brain syndrome, or psychosis.
+
+          -  210 Evidence of CNS involvement by NHL.
+
+          -  211 Known infection with human immunodeficiency virus (HIV).
+
+          -  212 Exclusion of hepatitis infection based on the following results and/or criteria:
+             Positive for hepatitis B surface antigen (HBsAg) (indicative of chronic hepatitis B or
+             recent acute hepatitis B). Negative HBsAg and positive for hepatitis B core antibody:
+             Assay for hepatitis B virus DNA by polymerase chain reaction (PCR) is necessary.
+             Detectable hepatitis B virus DNA suggests occult hepatitis B. Positive Hepatitis C
+             virus antibody (HCVAb): Assay for hepatitis C virus RNA by PCR is necessary.
+             Detectable hepatitis C virus RNA suggests chronic hepatitis C.
+
+          -  213 History of malignancy other than B-NHL within the past 3 years with the exception
+             of: Malignancy treated with curative intent and with no known active disease present
+             for ≥ 3 years before enrollment and felt to be at low risk for recurrence by the
+             treating physician. Adequately treated non-melanoma skin cancer or lentigo maligna
+             without evidence of disease. Adequately treated cervical carcinoma in situ without
+             evidence of disease. Adequately treated breast ductal carcinoma in situ without
+             evidence of disease. Prostatic intraepithelial neoplasia without evidence of prostate
+             cancer. Adequately treated urothelial papillary noninvasive carcinoma or carcinoma in
+             situ.
+
+          -  214 Major surgery within 28 days of first dose AMG 562.
+
+          -  215 History of arterial thrombosis (eg, stroke or transient ischemic attack) within 12
+             months of first dose of AMG 562.
+
+          -  216 Presence of fungal, bacterial, viral, or other infection requiring IV
+             antimicrobials for management within 7 days of first dose AMG 562. NOTE: Simple UTI
+             and uncomplicated bacterial pharyngitis are permitted after consultation with sponsor
+             and if responding to active treatment.
+
+          -  217 Subject has known sensitivity to immunoglobulins or any of the products or
+             components to be administered during dosing.
+
+          -  218 Males and females of reproductive potential who are unwilling to practice highly
+             effective method(s) of birth control while on study through 110 days (females) and 170
+             days (males) after receiving the last dose of study drug. Highly effective methods of
+             birth control include sexual abstinence (males, females); vasectomy; bilateral tubal
+             ligation/occlusion; or a condom with spermicide (males) in combination with hormonal
+             birth control or intrauterine device (IUD) (females).
+
+          -  219 Females who are lactating/breastfeeding or who plan to breastfeed while on study
+             through 110 days after receiving the last dose of study drug.
+
+          -  220 Females with a positive pregnancy test.
+
+          -  221 Females planning to become pregnant while on study through 110 days after
+             receiving the last dose of study drug.
+
+          -  222 Males who are unwilling to abstain from sperm donation while on study through 170
+             days after receiving the last dose of study drug.
+
+          -  223 Subjects likely to not be available to complete all protocol- required study
+             visits or procedures including BM aspirates/biopsies, and/or to comply with all
+             required study procedures to the best of the subject and investigator's knowledge.
+
+          -  224 History or evidence of any other clinically-relevant concurrent disorder,
+             condition or disease (eg, symptomatic congestive heart failure, unstable angina
+             pectoris, cardiac arrythmia requiring therapy at time of screening) with the exception
+             of those outlined above that, in the opinion of the investigator or Amgen medical
+             monitor, if consulted, would not pose a risk to subject safety or interfere with the
+             study evaluation, procedures or completion.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Amgen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amgen Call Center</last_name>
+    <phone>866-572-6436</phone>
+    <email>medinfo@amgen.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.amgentrials.com</url>
+    <description>AmgenTrials clinical trials website</description>
+  </link>
+  <verification_date>October 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>June 18, 2018</study_first_submitted>
+  <study_first_submitted_qc>June 18, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 28, 2018</study_first_posted>
+  <last_update_submitted>October 18, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 18, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Follicular</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Mantle-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified individual patient data for variables necessary to address the specific research question in an approved data sharing request</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data sharing requests relating to this study will be considered beginning 18 months after the study has ended and either 1) the product and indication have been granted marketing authorization in both the US and Europe or 2) clinical development for the product and/or indication discontinues and the data will not be submitted to regulatory authorities. There is no end date for eligibility to submit a data sharing request for this study.</ipd_time_frame>
+    <ipd_access_criteria>Qualified researchers may submit a request containing the research objectives, the Amgen product(s) and Amgen study/studies in scope, endpoints/outcomes of interest, statistical analysis plan, data requirements, publication plan, and qualifications of the researcher(s). In general, Amgen does not grant external requests for individual patient data for the purpose of re-evaluating safety and efficacy issues already addressed in the product labelling. Requests are reviewed by a committee of internal advisors. If not approved, a Data Sharing Independent Review Panel will arbitrate and make the final decision. Upon approval, information necessary to address the research question will be provided under the terms of a data sharing agreement. This may include anonymized individual patient data and/or available supporting documents, containing fragments of analysis code where provided in analysis specifications. Further details are available at the link below.</ipd_access_criteria>
+    <ipd_url>https://www.amgen.com/datasharing</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="834">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03664635</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M-2016-312</org_study_id>
+    <nct_id>NCT03664635</nct_id>
+  </id_info>
+  <brief_title>MB-CART20.1 Lymphoma</brief_title>
+  <official_title>A Phase I/II Safety, Dose Finding and Feasibility Trial of MB-CART20.1 in Patients With Relapsed or Resistant CD20 Positive B-NHL</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Miltenyi Biotec GmbH</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Miltenyi Biotec GmbH</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is a phase I/II trial to assess safety, dose finding and feasibility of ex vivo
+      generated MB-CART20.1 cells in patients with relapsed or refractory CD20 positive B-NHL.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      MB-CART20.1 consists of autologous Anti-CD20 Chimeric Antigen Receptor (CAR) transduced CD4
+      /CD8 enriched T cells targeting CD20-positive tumor cells in Non-Hodgkin-Lymphoma (NHL)
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 10, 2018</start_date>
+  <completion_date type="Anticipated">November 10, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 10, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase I - Determination of the maximum tolerated dose (MTD)</measure>
+    <time_frame>until day 28 after infusion of MB-CART20.1</time_frame>
+    <description>MTD is defined as the highest dose level at which &lt; 33% of patients experience Dose Limiting Toxicity (DLT). Safety and toxicity assessment of MB-CART20.1 per adverse events (AE) reporting classified according to CTCAE version 5.0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase II - Best overall response rate</measure>
+    <time_frame>3 months after infusion of MB-CART20.1</time_frame>
+    <description>Response (Complete response (CR), Partial response (PR), Stable disease (SD), Progressive disease (PD)) is defined according to Cheson criteria.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase I - Related safety and toxicity of MB-CART20.1</measure>
+    <time_frame>months 3, 6, 9 and 12 after infusion of MB-CART20.1</time_frame>
+    <description>Per adverse events (AE) reporting classified according to CTCAE version 5.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase I - Best overall response rate over 4 weeks and 3 months</measure>
+    <time_frame>4 weeks and 3 months after infusion of MB-CART20.1</time_frame>
+    <description>Response (CR, PR, SD and PD) is defined according to Cheson criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase I - Best overall response rate over 1 year</measure>
+    <time_frame>1 year after infusion of MB-CART20.1</time_frame>
+    <description>Response (CR, PR, SD and PD) is defined according to Cheson criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase I - Occurrence of B-cell aplasia</measure>
+    <time_frame>1 year after infusion of MB-CART20.1</time_frame>
+    <description>Circulating B cell numbers in the peripheral blood will be assessed by Flow cytometry.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase I - Phenotype and Persistence of MB-CART20.1</measure>
+    <time_frame>1 year after infusion of MB-CART20.1</time_frame>
+    <description>Blood samples for determination of persistence/phenotyping of infused MB-CART20.1 will be analysed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase II - Best overall response rate over 1 year</measure>
+    <time_frame>1 year after infusion of MB-CART20.1</time_frame>
+    <description>Response (CR, PR, SD and PD) is defined according to Cheson criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase II - Overall response rate over 4 weeks and 3 months</measure>
+    <time_frame>4 weeks and 3 months after infusion of MB-CART20.1</time_frame>
+    <description>Response (CR, PR, SD and PD) is defined according to Cheson criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase II - Overall response rate over 1 year</measure>
+    <time_frame>1 year after infusion of MB-CART20.1</time_frame>
+    <description>Response (CR, PR, SD and PD) is defined according to Cheson criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase II - Number of patients with CR, PR, SD and PD</measure>
+    <time_frame>1 year after infusion of MB-CART20.1</time_frame>
+    <description>Response (CR, PR, SD and PD) is defined according to Cheson criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase II -Percentage of patients with CR, PR, SD and PD</measure>
+    <time_frame>1 year after infusion of MB-CART20.1</time_frame>
+    <description>Response (CR, PR, SD and PD) is defined according to Cheson criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase II - Safety and toxicity assessment of MB-CART20.1</measure>
+    <time_frame>1 year after infusion of MB-CART20.1</time_frame>
+    <description>Per adverse events (AE) reporting classified according to CTCAE version 5.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase II - Occurrence of B-cell aplasia</measure>
+    <time_frame>1 year after infusion of MB-CART20.1</time_frame>
+    <description>Circulating B cell numbers in the peripheral blood will be assessed by Flow cytometry.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase II - Phenotype and Persistence of MB-CART20.1</measure>
+    <time_frame>1 year after infusion of MB-CART20.1</time_frame>
+    <description>Blood samples for determination of persistence/phenotyping of infused MB-CART20.1 will be analysed.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">19</enrollment>
+  <condition>Relapsed or Refractory B-cell Non-Hodgkin's Lymphoma</condition>
+  <condition>Non-Hodgkin's Lymphoma</condition>
+  <condition>Refractory/Relapsed CD20+ B-NHL</condition>
+  <arm_group>
+    <arm_group_label>Phase I - Safety Dose Level</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In phase I three (3) + 3 patients will be treated with 1x10^5 MB-CART20.1 cells per kg body weight administered intravenously as single dose in the preceding safety dose level</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase I - Dose Level 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In phase I six (6) + 3 patients will be treated with 1x10^6 MB-CART20.1 cells per kg body weight administered intravenously as single dose in the dose level 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase I - Dose Level 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In phase I six (6) + 3 patients will be treated with 3x10^6 MB-CART20.1 cells per kg body weight administered intravenously as single dose in the dose level 2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The number of additional patients who will be treated with MB-CART20.1 cells in Phase II is depending on the number of evaluable patients treated with the maximum tolerated dose (MTD) level and the results in Part I</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MB-CART20.1</intervention_name>
+    <description>MB-CART20.1 consists of autologous CD20 Chimeric Antigen Receptor (CAR) transduced CD4 /CD8 enriched T cells targeting CD20-positive tumor cells in NHL</description>
+    <arm_group_label>Phase I - Safety Dose Level</arm_group_label>
+    <arm_group_label>Phase I - Dose Level 1</arm_group_label>
+    <arm_group_label>Phase I - Dose Level 2</arm_group_label>
+    <arm_group_label>Phase II</arm_group_label>
+    <other_name>CD20-targeting CAR T Cells</other_name>
+    <other_name>Anti-CD20 CAR T cells</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Refractory/relapsed CD20+ B-NHL (including malignant transformation like Richter's
+             transformation) with no curative treatment option.
+
+          -  At least 18 years of age
+
+          -  Estimated life expectancy of more than 3 months
+
+          -  ECOG performance status (Eastern cooperative oncology group) of 0-2
+
+          -  Negative serological HBV (Hepatitis B virus) test, negative testing of HCVAb
+             (Hepatitis C virus Antibody), negative HIV1/2 (Human immunodeficiency virus 1/2 ) test
+             within 6 weeks prior to enrollment
+
+          -  No childbearing potential or negative pregnancy test at screening and before
+             chemotherapy in women with childbearing potential.
+
+          -  Signed and dated informed consent before conduct of any trial-specific procedure
+
+        Exclusion Criteria:
+
+          -  Participation in another interventional trial that could interact with this trial
+
+          -  Any evidence 0f CNS (Central nervous system) involvement
+
+          -  Known history or presence of clinically relevant CNS pathology
+
+          -  Patients with history of primary immunodeficiency,
+
+          -  Patients with any history of auto-immune induced condition such as those caused by
+             checkpoint inhibitors, MEK inhibitors or BRAF inhibitors, for example pituitary
+             hypophysitis must be excluded
+
+          -  Patients with Chronic Lymphocytic Leukemia unless suffering from malignant
+             transformation
+
+          -  Active systemic fungal, viral or bacterial infection
+
+          -  Serious cardiac functional incapacity (class III or IV as defined by the New York
+             Heart Association Classification)
+
+          -  Severe pulmonary disease (DLCO (Transfer factor of the lung for carbon monoxide)
+             and/or FEV1 (Forced expiratory volume in 1 second) &lt; 65%, dyspnea at rest)
+
+          -  Liver dysfunction as indicated by a total bilirubin, AST (Aspartate Aminotransferase),
+             and ALT (Alanine aminotransferase) ≥ 2 the institutional ULN (Upper limit of normal)
+             value, unless directly attributable to the patient's tumor
+
+          -  Creatinine clearance &lt;50 ml/min calculated according to the modified formula of
+             Cockcroft and Gault
+
+          -  Pregnant or lactating women
+
+          -  Active secondary malignancy requiring treatment (except basal cell carcinoma or
+             malignant tumor curatively treated by surgery) within the last 5 years before
+             enrollment.
+
+          -  Medical condition requiring prolonged use of systemic corticosteroids (&gt; 1 month)
+
+          -  Prior therapy with genetically modified substances
+
+          -  Use of anti-CD20 antibodies within 4 weeks before leukapheresis
+
+          -  Chemotherapy within 4 weeks prior to leukapheresis
+
+          -  Other treatment within 4 weeks or two half-lives, whichever is longer before
+             MB-CART20.1 infusion. This pertains to immunomodulatory therapies such as checkpoint
+             inhibitors because of the influence on the immune system
+
+          -  Concurrent systemic radiotherapy
+
+          -  Hypersensitivity against any drug or its ingredients/impurities that is scheduled or
+             likely to be given during trial participation e.g. as part of the mandatory
+             lymphodepletion protocol, pre-medication for infusion, rescue medication/salvage
+             therapies for treatment of related toxicities
+
+          -  Patients in which such medication is contraindicated for other reasons than
+             hypersensitivity (e.g. live vaccines and fludarabine)
+
+          -  Patients in which trial related procedures are contraindicated as judged by the
+             investigator, e.g. lumbar punctures for CSF (Cerebrospinal fluid) sampling
+
+          -  Patient's lack of accountability, inability to appreciate the nature, meaning and
+             consequence of the trial and to formulate his/her own wishes correspondingly
+
+          -  Patients who have a relationship of dependence or employer employee relationship to
+             the sponsor or the investigator
+
+          -  Committal to an institution on judicial or official order
+
+          -  Cerebral dysfunction, legal incapacity
+
+          -  Other investigational treatment within 4 weeks before IMP (Investigational Medicinal
+             Product) infusion
+
+          -  Clinically relevant autoimmune diseases or history of autoimmune disease
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Peter Borchmann, Prof. Dr.</last_name>
+    <phone>+49 (0) 221 478-88159</phone>
+    <email>peter.borchmann@uni-koeln.de</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital of Cologne - Clinic for Internal Medicine I</name>
+      <address>
+        <city>Cologne</city>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Peter Borchmann, Prof. Dr.</last_name>
+      <phone>+49 (0) 221 478-88159</phone>
+      <email>peter.borchmann@uni-koeln.de</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>September 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>September 3, 2018</study_first_submitted>
+  <study_first_submitted_qc>September 6, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 10, 2018</study_first_posted>
+  <last_update_submitted>September 6, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 6, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 10, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
