@@ -1,0 +1,1999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="756">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00695409</url>
+  </required_header>
+  <id_info>
+    <org_study_id>07076</org_study_id>
+    <secondary_id>P01CA030206</secondary_id>
+    <secondary_id>P30CA033572</secondary_id>
+    <secondary_id>CHNMC-07076</secondary_id>
+    <secondary_id>CDR0000597569</secondary_id>
+    <secondary_id>NCI-2010-01231</secondary_id>
+    <nct_id>NCT00695409</nct_id>
+  </id_info>
+  <brief_title>Yttrium-90 Ibritumomab Tiuxetan Plus High-Dose BEAM Followed By ASCT For Relapsed B-Cell Non-Hodgkin Lymphoma</brief_title>
+  <official_title>A Phase II Study of Yttrium-90-Labeled Anti-CD20 Monoclonal Antibody in Combination With High-Dose Beam Followed by Autologous Stem Cell Transplantation for Poor Risk/Relapsed B-Cell Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>City of Hope Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>City of Hope Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II clinical trial studies how well yttrium Y 90 ibritumomab tiuxetan, rituximab,
+      and high-dose chemotherapy followed by peripheral blood stem cell transplant in treating
+      patients with relapsed B-cell non-Hodgkin lymphoma. Monoclonal antibodies, such as yttrium Y
+      90 ibritumomab tiuxetan and rituximab, can block cancer growth in different ways. Some block
+      the ability of cancer cells to grow and spread. Others find cancer cells and help kill them
+      or carry cancer-killing substances to them. Radiolabeled monoclonal antibodies can find tumor
+      cells and carry tumor-killing substances to them without harming normal cells. Giving
+      monoclonal antibody therapy, radioimmunotherapy (RIT), and high-dose combination chemotherapy
+      before a peripheral blood stem cell transplant may be an effective treatment for non-Hodgkin
+      lymphoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:
+
+      I. To estimate the 2-year progression free survival.
+
+      SECONDARY OBJECTIVES:
+
+      II. To estimate the 2-year overall survival.
+
+      III. To estimate the 2-year cumulative incidence of progression.
+
+      IV. To estimate time to hematopoietic recovery, using absolute neutrophil and platelet
+      engraftment.
+
+      V. To estimate incidence of grade 3-4 toxicities by Bearman Scale, Day 0 to Day 100.
+
+      VI. To estimate the response rate (CR/PR).
+
+      VII. To estimate 100-day treatment related mortality.
+
+      VIII. To estimate incidence of myelodysplasia and therapy related acute myeloid leukemia
+      (AML).
+
+      IX. To descriptively compare the outcomes of patients treated on this protocol to a
+      comparable patient population treated with chemotherapy alone.
+
+      OUTLINE: RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan intravenously
+      (IV) following rituximab IV on day -14.
+
+      HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6;
+      etoposide IV over 1 hour twice daily (BID) and cytarabine IV over 2 hours BID on days -5 to
+      -2; and melphalan IV on day -1.
+
+      STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant
+      on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive
+      rituximab on day -1. Treatment continues in the absence of disease progression or
+      unacceptable toxicity. After completion of study treatment, patients are followed up
+      periodically.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 18, 2008</start_date>
+  <completion_date type="Actual">March 27, 2017</completion_date>
+  <primary_completion_date type="Actual">March 27, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>2-Year Progression-Free Survival</measure>
+    <time_frame>From peripheral stem cell infusion (Day0 ASCT) to first observation of progressive disease or death due to any cause, whichever comes first, assessed up to 5 years</time_frame>
+    <description>Progression-free survival (PFS) was defined as time from peripheral stem cell infusion to recurrence, progression or death. In a clinical trial, measuring the progression-free survival is one way to see how well a new treatment works. Progression-free survival was estimated using the Kaplan-Meier method; the 95% confidence interval was calculated using Greenwood's formula [Breslow NE, Day NE. Statistical methods in cancer research: volume II, the design and analysis of cohort studies. IARC Sci Publ 1987;82:1-406.]</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>2-Year Overall Survival</measure>
+    <time_frame>From peripheral stem cell infusion (Day0 ASCT) to death due to any cause, assessed up to 5 years</time_frame>
+    <description>Overall survival (OS) was measured from peripheral stem cell infusion to death from any cause. It was estimated using the Kaplan-Meier method; the 95% confidence interval was calculated using Greenwood's formula. [Breslow NE, Day NE. Statistical methods in cancer research: volume II, the design and analysis of cohort studies. IARC Sci Publ 1987;82:1-406.]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>2-Year Cumulative Incidence of Progression</measure>
+    <time_frame>From peripheral stem cell infusion (Day0 ASCT) to date of first observation of progressive disease or relapsed disease, assessed up to 5 years</time_frame>
+    <description>The cumulative incidence was estimated after taking into account the competing risk of early death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With Active Disease at ASCT Achieving CR/PR by Day 100 After ASCT</measure>
+    <time_frame>Up to Day 100 post-ASCT</time_frame>
+    <description>Responses are assessed using the Revised Criteria for Malignant Lymphoma Response Definitions for Clinical Trials (Cheson et al. 2007). Complete Response (CR) defined as disappearance of all evidence of disease. Partial Response (PR) defined as regression of measurable disease and no new sites.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With Grade 3-4 Bearman Toxicities.</measure>
+    <time_frame>From initial of study treatment to Day 100 post-ASCT</time_frame>
+    <description>Toxicities were recorded using the modified Bearman Scale for non-hematologic adverse events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>100-Day Treatment-Related Mortality</measure>
+    <time_frame>From peripheral stem cell infusion (Day0 ASCT) to death due to any couse, assessed up to 5 years</time_frame>
+    <description>The cumulative incidence was estimated after taking into account the competing risk of relapse post-ASCT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Neutrophil Recovery</measure>
+    <time_frame>From peripheral stem cell infusion (Day0 ASCT) till the first of 3 consecutive days of an absolute neutrophil count ≥ 500/µL.)</time_frame>
+    <description>Neutrophil recovery was defined as the first of 3 consecutive days of an absolute neutrophil count ≥ 500/µL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Platelet Recovery</measure>
+    <time_frame>From peripheral stem cell infusion (Day0 ASCT) till the first of 7 consecutive days with a platelet count ≥ 20,000/µL with no transfusions</time_frame>
+    <description>Platelet recovery was defined as the first of 7 consecutive days with a platelet count ≥ 20,000/µL with no transfusions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With RIT/ZBEAM Developing Therapy Induced MDS and AML</measure>
+    <time_frame>From peripheral stem cell infusion (Day0 ASCT) to onset of therapy induced MDS/AML, assessed up to 5 years</time_frame>
+    <description>Patient receiving the full treatment of RIT/ZBEAM developed therapy induced MDS or AML.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">122</enrollment>
+  <condition>Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (RIT, ZBEAM, ASCT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rituximab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (RIT, ZBEAM, ASCT)</arm_group_label>
+    <other_name>IDEC-C2B8</other_name>
+    <other_name>IDEC-C2B8 monoclonal antibody</other_name>
+    <other_name>Mabthera</other_name>
+    <other_name>MOAB IDEC-C2B8</other_name>
+    <other_name>Rituxan</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>carmustine</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (RIT, ZBEAM, ASCT)</arm_group_label>
+    <other_name>BCNU</other_name>
+    <other_name>BiCNU</other_name>
+    <other_name>bis-chloronitrosourea</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cytarabine</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (RIT, ZBEAM, ASCT)</arm_group_label>
+    <other_name>ARA-C</other_name>
+    <other_name>arabinofuranosylcytosine</other_name>
+    <other_name>arabinosylcytosine</other_name>
+    <other_name>Cytosar-U</other_name>
+    <other_name>cytosine arabinoside</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>etoposide</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (RIT, ZBEAM, ASCT)</arm_group_label>
+    <other_name>EPEG</other_name>
+    <other_name>VP-16</other_name>
+    <other_name>VP-16-213</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>melphalan</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (RIT, ZBEAM, ASCT)</arm_group_label>
+    <other_name>Alkeran</other_name>
+    <other_name>CB-3025</other_name>
+    <other_name>L-PAM</other_name>
+    <other_name>L-phenylalanine mustard</other_name>
+    <other_name>L-Sarcolysin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>ASCT</intervention_name>
+    <description>Undergo autologous peripheral blood stem cell transplant</description>
+    <arm_group_label>Treatment (RIT, ZBEAM, ASCT)</arm_group_label>
+    <other_name>Autologous Stem Cell Transplantation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>yttrium Y 90 ibritumomab tiuxetan</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (RIT, ZBEAM, ASCT)</arm_group_label>
+    <other_name>90Y ibritumomab tiuxetan</other_name>
+    <other_name>IDEC Y2B8</other_name>
+    <other_name>Y90 Zevalin</other_name>
+    <other_name>Y90-labeled ibritumomab tiuxetan</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All patients must have biopsy proven diagnosis of low- and intermediate-grade
+             non-Hodgkin lymphoma (NHL) working formulation B, C,D, E, F, and G; including mantle
+             cell lymphoma; patients with transformed lymphoma are also eligible
+
+          -  Demonstrated monoclonal CD20 positive b-cell population in lymph nodes and/or bone
+             marrow
+
+          -  Patients must have relapsed after achieving a complete or partial response to prior
+             therapy, have never responded to prior therapy or have poor risk disease
+
+          -  Patients with prior bone marrow involvement must have bone marrow aspiration and
+             biopsy within 60 days prior to stem cell collection which shows =&lt; 10% lymphomatous
+             involvement of total cellularity; alternatively, patients with prior bone marrow
+             involvement should have a normal bone marrow study which shows =&lt; 10% lymphomatous
+             involvement within 28 days before salvage chemotherapy
+
+          -  Normal renal function test with serum creatinine of &lt; upper limit of normal (ULN), and
+             a creatinine clearance of &gt;= 60 ml/min (measured or calculated)
+
+          -  Adequate pulmonary function as measured by forced expiratory volume in 1 second (FEV1)
+             &gt; 60% of predicted measured, or a diffusion capacity of carbon monoxide (DLCO) &gt;= 50%
+             of predicted measured
+
+          -  Cardiac ejection fraction of &gt; 50% by echocardiogram or multi gated acquisition (MUGA)
+             scan; the left ventricular ejection fraction (LVEF) from the prestudy echocardiogram
+             (ECHO) or MUGA may be used for eligibility purposes, even if the prestudy stress test
+             indicated a lower LVEF
+
+          -  Adequate liver function tests with a bilirubin of =&lt; 1.5 x ULN and serum glutamic
+             oxaloacetic transaminase (SGOT) or serum glutamic pyruvic transaminase (SGPT) =&lt; 2 x
+             ULN
+
+          -  Negative human immunodeficiency virus antibody
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status = 0 or 1; karnofsky
+             performance status (KPS) &gt;= 80
+
+          -  No active central nervous system (CNS) disease or prior history of CNS disease
+
+          -  Patients must have recovered from last therapy and should be at least four weeks from
+             prior radiation or systemic chemotherapy on the day of administration of Y2B8
+
+          -  After the last systemic therapeutic chemotherapy (Cytoxan, administered only for stem
+             cell mobilization is not considered therapeutic) and prior to initiation of high dose
+             treatment, the patient should have a baseline computed tomography (CT) scan and
+             positron emission tomography (PET) scan done; an fluorodeoxyglucose-computed
+             tomography (FDG/CT) scan is sufficient, however, is clinically indicated, an
+             additional diagnostic CT may be ordered; exception: if scans were done and were
+             negative for disease just prior to priming chemotherapy (therapeutic or
+             nontherapeutic) and subsequent stem cell harvest, they do not need to be repeated
+             prior to initiation of high dose treatment
+
+        Exclusion Criteria:
+
+          -  Presence of human anti-Zevalin antibody (HAZA)
+
+          -  Prior radioimmunotherapy
+
+          -  Failure to collect adequate number of CD34+ cells &gt;= 3 x 10^6/kg
+
+          -  Abnormal cytogenetic study not related to the underlying lymphoma on the bone marrow
+             aspirate sample prior to stem cell collection; if cytogenetics were not performed on
+             the marrow aspirate prior to stem cell collection, cytogenetics on the peripheral
+             blood may be performed
+
+          -  Prior bone marrow transplantation
+
+          -  Prior malignancy except for:
+
+               -  Adequately treated basal cell or squamous cell skin cancer
+
+               -  Adequately treated noninvasive carcinoma
+
+               -  Other cancer from which the patient has been disease-free for at least five years
+
+          -  Active evidence of Hepatitis B or C infection; Hepatitis B surface antigen positive
+
+          -  Patients who have had prior radiation to the lung will be excluded from the study,
+             although mediastinal irradiation will be permitted if minimal lung is in the treatment
+             volume
+
+          -  Patients who have received &gt; 500cGy radiation to the kidneys will be excluded from the
+             study
+
+          -  Patients who are pregnant or lactating
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amrita Y. Krishnan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>City of Hope Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Medical Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010-3000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>June 10, 2008</study_first_submitted>
+  <study_first_submitted_qc>June 10, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 11, 2008</study_first_posted>
+  <results_first_submitted>April 4, 2018</results_first_submitted>
+  <results_first_submitted_qc>June 8, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 6, 2018</results_first_posted>
+  <last_update_submitted>June 8, 2018</last_update_submitted>
+  <last_update_submitted_qc>June 8, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 6, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>recurrent mantle cell lymphoma</keyword>
+  <keyword>stage III mantle cell lymphoma</keyword>
+  <keyword>stage IV mantle cell lymphoma</keyword>
+  <keyword>recurrent adult diffuse large cell lymphoma</keyword>
+  <keyword>stage III adult diffuse large cell lymphoma</keyword>
+  <keyword>stage IV adult diffuse large cell lymphoma</keyword>
+  <keyword>recurrent grade 1 follicular lymphoma</keyword>
+  <keyword>recurrent grade 2 follicular lymphoma</keyword>
+  <keyword>recurrent grade 3 follicular lymphoma</keyword>
+  <keyword>stage III grade 1 follicular lymphoma</keyword>
+  <keyword>stage III grade 2 follicular lymphoma</keyword>
+  <keyword>stage III grade 3 follicular lymphoma</keyword>
+  <keyword>stage IV grade 1 follicular lymphoma</keyword>
+  <keyword>stage IV grade 2 follicular lymphoma</keyword>
+  <keyword>stage IV grade 3 follicular lymphoma</keyword>
+  <keyword>stage III adult immunoblastic large cell lymphoma</keyword>
+  <keyword>stage IV adult immunoblastic large cell lymphoma</keyword>
+  <keyword>recurrent adult immunoblastic large cell lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Cytarabine</mesh_term>
+    <mesh_term>Melphalan</mesh_term>
+    <mesh_term>Etoposide phosphate</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Carmustine</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Treatment (RIT, ZBEAM, ASCT)</title>
+          <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.
+rituximab: Given IV
+carmustine: Given IV
+cytarabine: Given IV
+etoposide: Given IV
+melphalan: Given IV
+ASCT: Undergo autologous peripheral blood stem cell transplant
+yttrium Y 90 ibritumomab tiuxetan: Given IV</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="122"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="122"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Treatment (RIT, ZBEAM, ASCT)</title>
+          <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.
+rituximab: Given IV
+carmustine: Given IV
+cytarabine: Given IV
+etoposide: Given IV
+melphalan: Given IV
+ASCT: Undergo autologous peripheral blood stem cell transplant
+yttrium Y 90 ibritumomab tiuxetan: Given IV</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="122"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="103"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="92"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="104"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="122"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>2-Year Progression-Free Survival</title>
+        <description>Progression-free survival (PFS) was defined as time from peripheral stem cell infusion to recurrence, progression or death. In a clinical trial, measuring the progression-free survival is one way to see how well a new treatment works. Progression-free survival was estimated using the Kaplan-Meier method; the 95% confidence interval was calculated using Greenwood’s formula [Breslow NE, Day NE. Statistical methods in cancer research: volume II, the design and analysis of cohort studies. IARC Sci Publ 1987;82:1-406.]</description>
+        <time_frame>From peripheral stem cell infusion (Day0 ASCT) to first observation of progressive disease or death due to any cause, whichever comes first, assessed up to 5 years</time_frame>
+        <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment (RIT, ZBEAM, ASCT)</title>
+            <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.
+rituximab: Given IV
+carmustine: Given IV
+cytarabine: Given IV
+etoposide: Given IV
+melphalan: Given IV
+ASCT: Undergo autologous peripheral blood stem cell transplant
+yttrium Y 90 ibritumomab tiuxetan: Given IV</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>2-Year Progression-Free Survival</title>
+          <description>Progression-free survival (PFS) was defined as time from peripheral stem cell infusion to recurrence, progression or death. In a clinical trial, measuring the progression-free survival is one way to see how well a new treatment works. Progression-free survival was estimated using the Kaplan-Meier method; the 95% confidence interval was calculated using Greenwood’s formula [Breslow NE, Day NE. Statistical methods in cancer research: volume II, the design and analysis of cohort studies. IARC Sci Publ 1987;82:1-406.]</description>
+          <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+          <units>Percentage of Participants (%)</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="71" lower_limit="61" upper_limit="78"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>2-Year Overall Survival</title>
+        <description>Overall survival (OS) was measured from peripheral stem cell infusion to death from any cause. It was estimated using the Kaplan-Meier method; the 95% confidence interval was calculated using Greenwood’s formula. [Breslow NE, Day NE. Statistical methods in cancer research: volume II, the design and analysis of cohort studies. IARC Sci Publ 1987;82:1-406.]</description>
+        <time_frame>From peripheral stem cell infusion (Day0 ASCT) to death due to any cause, assessed up to 5 years</time_frame>
+        <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment (RIT, ZBEAM, ASCT)</title>
+            <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.
+rituximab: Given IV
+carmustine: Given IV
+cytarabine: Given IV
+etoposide: Given IV
+melphalan: Given IV
+ASCT: Undergo autologous peripheral blood stem cell transplant
+yttrium Y 90 ibritumomab tiuxetan: Given IV</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>2-Year Overall Survival</title>
+          <description>Overall survival (OS) was measured from peripheral stem cell infusion to death from any cause. It was estimated using the Kaplan-Meier method; the 95% confidence interval was calculated using Greenwood’s formula. [Breslow NE, Day NE. Statistical methods in cancer research: volume II, the design and analysis of cohort studies. IARC Sci Publ 1987;82:1-406.]</description>
+          <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+          <units>Percentage of Participants (%)</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="89" lower_limit="82" upper_limit="94"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>2-Year Cumulative Incidence of Progression</title>
+        <description>The cumulative incidence was estimated after taking into account the competing risk of early death.</description>
+        <time_frame>From peripheral stem cell infusion (Day0 ASCT) to date of first observation of progressive disease or relapsed disease, assessed up to 5 years</time_frame>
+        <population>6 patients did not receive full treatment so are excluded from the result analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment (RIT, ZBEAM, ASCT)</title>
+            <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.
+rituximab: Given IV
+carmustine: Given IV
+cytarabine: Given IV
+etoposide: Given IV
+melphalan: Given IV
+ASCT: Undergo autologous peripheral blood stem cell transplant
+yttrium Y 90 ibritumomab tiuxetan: Given IV</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>2-Year Cumulative Incidence of Progression</title>
+          <description>The cumulative incidence was estimated after taking into account the competing risk of early death.</description>
+          <population>6 patients did not receive full treatment so are excluded from the result analysis</population>
+          <units>Percentage of Participants (%)</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28" lower_limit="20" upper_limit="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With Active Disease at ASCT Achieving CR/PR by Day 100 After ASCT</title>
+        <description>Responses are assessed using the Revised Criteria for Malignant Lymphoma Response Definitions for Clinical Trials (Cheson et al. 2007). Complete Response (CR) defined as disappearance of all evidence of disease. Partial Response (PR) defined as regression of measurable disease and no new sites.</description>
+        <time_frame>Up to Day 100 post-ASCT</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Patients With Active Disease at ASCT</title>
+            <description>Patients receiving the full treatment (RIT/ZBEAM) with active disease at time of ASCT</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Active Disease at ASCT Achieving CR/PR by Day 100 After ASCT</title>
+          <description>Responses are assessed using the Revised Criteria for Malignant Lymphoma Response Definitions for Clinical Trials (Cheson et al. 2007). Complete Response (CR) defined as disappearance of all evidence of disease. Partial Response (PR) defined as regression of measurable disease and no new sites.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="64"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With Grade 3-4 Bearman Toxicities.</title>
+        <description>Toxicities were recorded using the modified Bearman Scale for non-hematologic adverse events.</description>
+        <time_frame>From initial of study treatment to Day 100 post-ASCT</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment (RIT, ZBEAM, ASCT)</title>
+            <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.
+rituximab: Given IV
+carmustine: Given IV
+cytarabine: Given IV
+etoposide: Given IV
+melphalan: Given IV
+ASCT: Undergo autologous peripheral blood stem cell transplant
+yttrium Y 90 ibritumomab tiuxetan: Given IV</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Grade 3-4 Bearman Toxicities.</title>
+          <description>Toxicities were recorded using the modified Bearman Scale for non-hematologic adverse events.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="122"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Gastrointestinal Toxicity</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Pulmonary Toxicity</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No Grade 3-4 Toxicity</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="120"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>100-Day Treatment-Related Mortality</title>
+        <description>The cumulative incidence was estimated after taking into account the competing risk of relapse post-ASCT.</description>
+        <time_frame>From peripheral stem cell infusion (Day0 ASCT) to death due to any couse, assessed up to 5 years</time_frame>
+        <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment (RIT, ZBEAM, ASCT)</title>
+            <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.
+rituximab: Given IV
+carmustine: Given IV
+cytarabine: Given IV
+etoposide: Given IV
+melphalan: Given IV
+ASCT: Undergo autologous peripheral blood stem cell transplant
+yttrium Y 90 ibritumomab tiuxetan: Given IV</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>100-Day Treatment-Related Mortality</title>
+          <description>The cumulative incidence was estimated after taking into account the competing risk of relapse post-ASCT.</description>
+          <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+          <units>Percentage of Participants (%)</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9" lower_limit="0.1" upper_limit="6.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Neutrophil Recovery</title>
+        <description>Neutrophil recovery was defined as the first of 3 consecutive days of an absolute neutrophil count ≥ 500/µL.</description>
+        <time_frame>From peripheral stem cell infusion (Day0 ASCT) till the first of 3 consecutive days of an absolute neutrophil count ≥ 500/µL.)</time_frame>
+        <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment (RIT, ZBEAM, ASCT)</title>
+            <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.
+rituximab: Given IV
+carmustine: Given IV
+cytarabine: Given IV
+etoposide: Given IV
+melphalan: Given IV
+ASCT: Undergo autologous peripheral blood stem cell transplant
+yttrium Y 90 ibritumomab tiuxetan: Given IV</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Neutrophil Recovery</title>
+          <description>Neutrophil recovery was defined as the first of 3 consecutive days of an absolute neutrophil count ≥ 500/µL.</description>
+          <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10" lower_limit="9" upper_limit="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Platelet Recovery</title>
+        <description>Platelet recovery was defined as the first of 7 consecutive days with a platelet count ≥ 20,000/µL with no transfusions.</description>
+        <time_frame>From peripheral stem cell infusion (Day0 ASCT) till the first of 7 consecutive days with a platelet count ≥ 20,000/µL with no transfusions</time_frame>
+        <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment (RIT, ZBEAM, ASCT)</title>
+            <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.
+rituximab: Given IV
+carmustine: Given IV
+cytarabine: Given IV
+etoposide: Given IV
+melphalan: Given IV
+ASCT: Undergo autologous peripheral blood stem cell transplant
+yttrium Y 90 ibritumomab tiuxetan: Given IV</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Platelet Recovery</title>
+          <description>Platelet recovery was defined as the first of 7 consecutive days with a platelet count ≥ 20,000/µL with no transfusions.</description>
+          <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+          <units>Days</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12" lower_limit="8" upper_limit="86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With RIT/ZBEAM Developing Therapy Induced MDS and AML</title>
+        <description>Patient receiving the full treatment of RIT/ZBEAM developed therapy induced MDS or AML.</description>
+        <time_frame>From peripheral stem cell infusion (Day0 ASCT) to onset of therapy induced MDS/AML, assessed up to 5 years</time_frame>
+        <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment (RIT, ZBEAM, ASCT)</title>
+            <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.
+rituximab: Given IV
+carmustine: Given IV
+cytarabine: Given IV
+etoposide: Given IV
+melphalan: Given IV
+ASCT: Undergo autologous peripheral blood stem cell transplant
+yttrium Y 90 ibritumomab tiuxetan: Given IV</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With RIT/ZBEAM Developing Therapy Induced MDS and AML</title>
+          <description>Patient receiving the full treatment of RIT/ZBEAM developed therapy induced MDS or AML.</description>
+          <population>6 patients did not receive full treatment so are excluded from the result analysis.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Up to 5 years</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Treatment (RIT, ZBEAM, ASCT)</title>
+          <description>RADIOIMMUNOTHERAPY: Patients receive yttrium Y 90 ibritumomab tiuxetan IV following rituximab IV on day -14. HIGH-DOSE COMBINATION CHEMOTHERAPY: Patients receive carmustine IV on days -7 and -6; etoposide IV over 1 hour twice daily and cytarabine IV over 2 hours twice daily on days -5 to -2; and melphalan IV on day -1. STEM CELL TRANSPLANTATION: Patients undergo autologous peripheral blood stem cell transplant on day 0. Patients also receive rituximab on day 8*. NOTE: * Some patients may also receive rituximab on day -1. Treatment continues in the absence of disease progression or unacceptable toxicity.
+rituximab: Given IV
+carmustine: Given IV
+cytarabine: Given IV
+etoposide: Given IV
+melphalan: Given IV
+ASCT: Undergo autologous peripheral blood stem cell transplant
+yttrium Y 90 ibritumomab tiuxetan: Given IV</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTCAE (3.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="25" subjects_at_risk="122"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="122"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Secondary Malignancy</sub_title>
+                <description>Neuroendocrine Cancer</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="122"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonitis/pulmonary infiltrates</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="122"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>CTCAE (3.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="121" subjects_at_risk="122"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Blood/Bone Marrow - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Bone marrow cellularity</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hemoglobin</sub_title>
+                <counts group_id="E1" events="119" subjects_affected="119" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Leukocytes (total WBC)</sub_title>
+                <counts group_id="E1" events="130" subjects_affected="117" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Lymphopenia</sub_title>
+                <counts group_id="E1" events="129" subjects_affected="118" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Myelodysplasia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Neutrophils/granulocytes (ANC/AGC)</sub_title>
+                <counts group_id="E1" events="154" subjects_affected="115" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Phlebitis (including superficial thrombosis)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Platelets</sub_title>
+                <counts group_id="E1" events="121" subjects_affected="115" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Thrombosis/embolism (vascular access-related)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Thrombosis/thrombus/embolism</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>INR (International Normalized Ratio of prothrombin time)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>PTT (Partial Thromboplastin Time)</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hematoma</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhage, GI</sub_title>
+                <counts group_id="E1" events="35" subjects_affected="33" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhage, GU</sub_title>
+                <counts group_id="E1" events="26" subjects_affected="24" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhage, pulmonary/upper respiratory</sub_title>
+                <counts group_id="E1" events="24" subjects_affected="23" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhage/Bleeding - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Petechiae/purpura (hemorrhage/bleeding into skin or mucosa)</sub_title>
+                <counts group_id="E1" events="36" subjects_affected="36" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiac Arrhythmia - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Cardiac General - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="17" subjects_affected="13" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Conduction abnormality/atrioventricular heart block</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" events="43" subjects_affected="36" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="47" subjects_affected="47" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Left ventricular diastolic dysfunction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Left ventricular systolic dysfunction</sub_title>
+                <counts group_id="E1" events="18" subjects_affected="18" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Palpitations</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Pericardial effusion (non-malignant)</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Prolonged QTc interval</sub_title>
+                <counts group_id="E1" events="19" subjects_affected="19" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary hypertension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Right ventricular dysfunction (cor pulmonale)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Supraventricular and nodal arrhythmia</sub_title>
+                <counts group_id="E1" events="56" subjects_affected="44" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Valvular heart disease</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Ventricular arrhythmia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Auditory/Ear - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hearing: patients without baseline audiogram and not enrolled in a monitoring program</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="7" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Tinnitus</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Endocrine - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hot flashes/flushes</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dry eye syndrome</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Glaucoma</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Nystagmus</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Ocular surface disease</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Ocular/Visual - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="6" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Retinal detachment</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Vision-blurred vision</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Vision-flashing lights/floaters</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Watery eye (epiphora, tearing)</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anorexia</sub_title>
+                <counts group_id="E1" events="100" subjects_affected="100" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Colitis</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="69" subjects_affected="68" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="112" subjects_affected="111" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Distension/bloating, abdominal</sub_title>
+                <counts group_id="E1" events="31" subjects_affected="31" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Dry mouth/salivary gland (xerostomia)</sub_title>
+                <counts group_id="E1" events="48" subjects_affected="48" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Dysphagia (difficulty swallowing)</sub_title>
+                <counts group_id="E1" events="16" subjects_affected="16" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Esophagitis</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Fistula, GI</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Flatulence</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Gastritis (including bile reflux gastritis)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="8" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Heartburn/dyspepsia</sub_title>
+                <counts group_id="E1" events="37" subjects_affected="37" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhoids</sub_title>
+                <counts group_id="E1" events="18" subjects_affected="18" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Ileus, GI (functional obstruction of bowel, i.e., neuroconstipation)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Incontinence, anal</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Mucositis/stomatitis (clinical exam)</sub_title>
+                <counts group_id="E1" events="152" subjects_affected="101" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Mucositis/stomatitis (functional/symptomatic)</sub_title>
+                <counts group_id="E1" events="151" subjects_affected="98" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="114" subjects_affected="113" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Obstruction, GI</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Proctitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Salivary gland changes/saliva</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Stricture/stenosis (including anastomotic), GI</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Taste alteration (dysgeusia)</sub_title>
+                <counts group_id="E1" events="37" subjects_affected="37" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="96" subjects_affected="94" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue (asthenia, lethargy, malaise)</sub_title>
+                <counts group_id="E1" events="120" subjects_affected="118" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Fever (in the absence of neutropenia, where neutropenia is defined as ANC &lt;1.0 x 10e9/L)</sub_title>
+                <counts group_id="E1" events="32" subjects_affected="32" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" events="72" subjects_affected="72" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" events="646" subjects_affected="116" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Pain - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="42" subjects_affected="34" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Rigors/chills</sub_title>
+                <counts group_id="E1" events="49" subjects_affected="49" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Sweating (diaphoresis)</sub_title>
+                <counts group_id="E1" events="20" subjects_affected="20" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Weight gain</sub_title>
+                <counts group_id="E1" events="34" subjects_affected="34" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Weight loss</sub_title>
+                <counts group_id="E1" events="61" subjects_affected="61" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Edema:head and neck</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="13" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Edema:limb</sub_title>
+                <counts group_id="E1" events="52" subjects_affected="52" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Allergic reaction/hypersensitivity (including drug fever)</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Allergic rhinitis (including sneezing, nasal stuffiness, postnasal drip)</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Allergy/Immunology - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Colitis, infectious (e.g., Clostridium difficile)</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Febrile neutropenia</sub_title>
+                <description>Febrile neutropenia (fever of unknown origin without clinically or microbiologically documented infection)(ANC &lt;1.0 x 10e9/L, fever &gt;=38.5 degrees C)</description>
+                <counts group_id="E1" events="40" subjects_affected="39" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Infection with Grade 3 or 4 neutrophils</sub_title>
+                <description>Infection (documented clinically or microbiologically) with Grade 3 or 4 neutrophils (ANC &lt;1.0 x 10e9/L)</description>
+                <counts group_id="E1" events="32" subjects_affected="28" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Infection with normal ANC or Grade 1 or 2 neutrophils</sub_title>
+                <counts group_id="E1" events="60" subjects_affected="47" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Infection with unknown ANC</sub_title>
+                <counts group_id="E1" events="15" subjects_affected="13" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Secondary Malignancy - possibly related to cancer treatment (Specify, __)</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Syndromes - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>ALT, SGPT (serum glutamic pyruvic transaminase)</sub_title>
+                <counts group_id="E1" events="60" subjects_affected="60" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>AST, SGOT(serum glutamic oxaloacetic transaminase)</sub_title>
+                <counts group_id="E1" events="71" subjects_affected="71" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Acidosis (metabolic or respiratory)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Albumin, serum-low (hypoalbuminemia)</sub_title>
+                <counts group_id="E1" events="106" subjects_affected="106" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Alkaline phosphatase</sub_title>
+                <counts group_id="E1" events="41" subjects_affected="41" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Alkalosis (metabolic or respiratory)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Amylase</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Bicarbonate, serum-low</sub_title>
+                <counts group_id="E1" events="23" subjects_affected="23" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Bilirubin (hyperbilirubinemia)</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="12" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Calcium, serum-high (hypercalcemia)</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Calcium, serum-low (hypocalcemia)</sub_title>
+                <counts group_id="E1" events="92" subjects_affected="92" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Cholesterol, serum-high (hypercholesteremia)</sub_title>
+                <counts group_id="E1" events="43" subjects_affected="43" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Creatinine</sub_title>
+                <counts group_id="E1" events="14" subjects_affected="14" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Glucose, serum-high (hyperglycemia)</sub_title>
+                <counts group_id="E1" events="78" subjects_affected="70" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Glucose, serum-low (hypoglycemia)</sub_title>
+                <counts group_id="E1" events="48" subjects_affected="48" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Magnesium, serum-high (hypermagnesemia)</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Magnesium, serum-low (hypomagnesemia)</sub_title>
+                <counts group_id="E1" events="36" subjects_affected="36" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Metabolic/Laboratory - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Phosphate, serum-low (hypophosphatemia)</sub_title>
+                <counts group_id="E1" events="49" subjects_affected="47" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Potassium, serum-high (hyperkalemia)</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Potassium, serum-low (hypokalemia)</sub_title>
+                <counts group_id="E1" events="84" subjects_affected="82" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Proteinuria</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Sodium, serum-high (hypernatremia)</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Sodium, serum-low (hyponatremia)</sub_title>
+                <counts group_id="E1" events="103" subjects_affected="103" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Triglyceride, serum-high (hypertriglyceridemia)</sub_title>
+                <counts group_id="E1" events="34" subjects_affected="34" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Uric acid, serum-high (hyperuricemia)</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="7" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Obesity</sub_title>
+                <counts group_id="E1" events="190" subjects_affected="76" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthritis (non-septic)</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Extremity-lower (gait/walking)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Extremity-upper (function)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Joint-effusion</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Joint-function</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Muscle weakness, generalized or specific area (not due to neuropathy)</sub_title>
+                <counts group_id="E1" events="123" subjects_affected="84" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal/Soft Tissue - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Osteonecrosis (avascular necrosis)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Osteoporosis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arachnoiditis/meningismus/radiculitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Ataxia (incoordination)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Cognitive disturbance</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Confusion</sub_title>
+                <counts group_id="E1" events="18" subjects_affected="18" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="66" subjects_affected="66" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Encephalopathy</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Extrapyramidal/involuntary movement/restlessness</sub_title>
+                <counts group_id="E1" events="17" subjects_affected="17" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Memory impairment</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Mood alteration</sub_title>
+                <counts group_id="E1" events="137" subjects_affected="88" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Neurology - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Neuropathy: cranial</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Neuropathy: motor</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="7" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Neuropathy: sensory</sub_title>
+                <counts group_id="E1" events="43" subjects_affected="42" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Psychosis (hallucinations/delusions)</sub_title>
+                <counts group_id="E1" events="12" subjects_affected="12" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Seizure</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Somnolence/depressed level of consciousness</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="7" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Syncope (fainting)</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Tremor</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cystitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Incontinence, urinary</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Renal failure</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Renal/Genitourinary - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Stricture/stenosis (including anastomotic), GU</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Urinary frequency/urgency</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Urinary retention (including neurogenic bladder)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Urine color change</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Erectile dysfunction</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Irregular menses (change from baseline)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Libido</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Sexual/Reproductive Function - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Adult Respiratory Distress Syndrome (ARDS)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Atelectasis</sub_title>
+                <counts group_id="E1" events="17" subjects_affected="17" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Bronchospasm, wheezing</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Carbon monoxide diffusion capacity (DL(co))</sub_title>
+                <counts group_id="E1" events="61" subjects_affected="59" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="73" subjects_affected="72" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Dyspnea (shortness of breath)</sub_title>
+                <counts group_id="E1" events="35" subjects_affected="35" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>FEV(1)</sub_title>
+                <counts group_id="E1" events="25" subjects_affected="25" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hiccoughs (hiccups, singultus)</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" events="20" subjects_affected="20" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Nasal cavity/paranasal sinus reactions</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Obstruction/stenosis of airway</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Pleural effusion (non-malignant)</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Pneumonitis/pulmonary infiltrates</sub_title>
+                <counts group_id="E1" events="23" subjects_affected="21" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary fibrosis (radiographic changes)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary/Upper Respiratory - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="74" subjects_affected="54" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Vital capacity</sub_title>
+                <counts group_id="E1" events="27" subjects_affected="27" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Voice changes/dysarthria (e.g., hoarseness, loss or alteration in voice, laryngitis)</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bruising (in absence of Grade 3 or 4 thrombocytopenia)</sub_title>
+                <counts group_id="E1" events="14" subjects_affected="14" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Burn</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Dermatology/Skin - Other (Specify, __)</sub_title>
+                <counts group_id="E1" events="27" subjects_affected="24" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Dry skin</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="29" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Flushing</sub_title>
+                <counts group_id="E1" events="35" subjects_affected="35" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hair loss/alopecia (scalp or body)</sub_title>
+                <counts group_id="E1" events="50" subjects_affected="50" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Hyperpigmentation</sub_title>
+                <counts group_id="E1" events="21" subjects_affected="21" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Induration/fibrosis (skin and subcutaneous tissue)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Injection site reaction/extravasation changes</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Nail changes</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Pruritus/itching</sub_title>
+                <counts group_id="E1" events="46" subjects_affected="46" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Rash/desquamation</sub_title>
+                <counts group_id="E1" events="84" subjects_affected="84" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Rash: acne/acneiform</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Rash: dermatitis associated with radiation</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Rash: hand-foot skin reaction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Skin breakdown/decubitus ulcer</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="121"/>
+              </event>
+              <event>
+                <sub_title>Urticaria (hives, welts, wheals)</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="121"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Amrita Krishnan</name_or_title>
+      <organization>City of Hope National Medical Center</organization>
+      <phone>626-256-4673 ext 82405</phone>
+      <email>AKrishnan@coh.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

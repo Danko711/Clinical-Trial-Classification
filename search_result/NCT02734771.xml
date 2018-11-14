@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="240">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02734771</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ULYM15105</org_study_id>
+    <secondary_id>IST-2014-100578</secondary_id>
+    <nct_id>NCT02734771</nct_id>
+  </id_info>
+  <brief_title>A Study of Brentuximab Vedotin, Rituximab, and Dose Attenuated CHP in Elderly Patients With Diffuse Large B-Cell Lymphoma (DLBCL)</brief_title>
+  <acronym>BV mini CHP</acronym>
+  <official_title>Phase II Pilot Study of Brentuximab Vedotin, Rituximab and Dose Attenuated CHP in Elderly Patients With DLBCL</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Patrick Reagan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Seattle Genetics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Rochester</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study incorporating brentuximab vedotin and dose attenuated rituximab,
+      cyclophosphamide, doxorubicin, and prednisone (R-CHP) into initial therapy for elderly
+      patients with DLBCL. Vincristine will be omitted from the standard R-CHOP regimen given the
+      overlapping toxicities with brentuximab vedotin.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicenter, single-arm pilot study incorporating brentuximab vedotin and dose
+      attenuated rituximab, cyclophosphamide, doxorubicin, and prednisone (R-CHP) into initial
+      therapy for elderly patients with DLBCL. Vincristine will be omitted from the standard R-CHOP
+      regimen given the overlapping toxicities with brentuximab vedotin. CD30 positivity will be
+      determined at enrollment and patients will be enrolled into a CD30 positive and negative
+      group in equal numbers. Additionally, a Comprehensive Geriatric Assessment (CGA) will be
+      performed on all patients, but this will not be used to guide treatment decisions.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2016</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent of Subjects Completing Regimen</measure>
+    <time_frame>20 weeks</time_frame>
+    <description>Number of subjects who complete all 6 cycles of the therapy divided by the total number of subjects.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>2 years</time_frame>
+    <description>Number of participants who are alive after two years.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival</measure>
+    <time_frame>2 years</time_frame>
+    <description>Per the Lugano Criteria, progression is defined as an individual node/lesion that increases in size by 50% or in the setting of splenomegaly, the splenic length must increase by 50% of the extent of its prior increase beyond baseline (eg, a 15-cm spleen must increase to 16 cm). If no prior splenomegaly, must increase by at least 2 cm from baseline or any new or recurrent splenomegaly or new o

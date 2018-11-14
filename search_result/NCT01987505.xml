@@ -1,0 +1,1835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="900">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01987505</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ML28943</org_study_id>
+    <secondary_id>2013-001118-14</secondary_id>
+    <nct_id>NCT01987505</nct_id>
+  </id_info>
+  <brief_title>MabRella Study: A Study to Evaluate the Safety of Switching From Intravenous to Subcutaneous Administration of Rituximab During First-Line Treatment for Lymphoma</brief_title>
+  <official_title>Open Label, Single-arm, Phase IIIb Clinical Trial to Evaluate the Safety of Switching From Intravenous Rituximab to Subcutaneous Rituximab During First Line Treatment for CD20+ Non-Hodgkin's Follicular Lymphoma and Diffuse Large B-cell Lymphoma.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This open-label, single-arm, phase IIIb study will evaluate the safety of switching from
+      intravenous (IV) to subcutaneous (SC) administration of rituximab during first-line treatment
+      for participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell
+      lymphoma (DLBCL) who have already received at least one full dose of rituximab IV.
+      Participants with FL will be given 1400 mg rituximab SC during induction therapy (once
+      monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). 1400
+      mg SC of rituximab will be given to participants with DLBCL once monthly for 4-7 cycles.
+      Treatment duration is expected to last up to 7 months for participants with DLBCL and up to
+      32 months for participants with FL.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 11, 2013</start_date>
+  <completion_date type="Actual">April 11, 2017</completion_date>
+  <primary_completion_date type="Actual">April 11, 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants With Administration-Associated Reactions (AARs)</measure>
+    <time_frame>From start of treatment to end of treatment (up to 32 months)</time_frame>
+    <description>AARs were defined as all adverse events (AEs) occurring within 24 hours of rituximab SC administration and which were considered related to study drug. AARs included infusion/injection-related reactions (IIRRs), injection-site reactions, administration site conditions and all symptoms thereof. Grading was completed according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), version 4.0.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With At Least One Grade &gt;/= 3 Adverse Events (AEs)</measure>
+    <time_frame>From start of recruitment (10 months period) up to end of treatment at 32 months (total period up to 42 months)</time_frame>
+    <description>An adverse event is any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have to have a causal relationship with the treatment. An adverse event can therefore be any unfavourable and unintended sign (including an abnormal laboratory finding, for example), symptom, or disease temporally associated with the use of a pharmaceutical product, whether or not considered related to the pharmaceutical product. Pre-existing conditions which worsen during a study are also considered as adverse events. Grading was completed according to the CTCAE, version 4.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With At Least One Grade &gt;/= 3 Infusion/ Injection Related Reactions (IIRRs)</measure>
+    <time_frame>From start of treatment to end of treatment (up to 32 months)</time_frame>
+    <description>Grading of IIRRs was completed according to the CTCAE, version 4.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With At Least One Serious Adverse Event (SAE)</measure>
+    <time_frame>From start of recruitment (10 months period) up to end of treatment at 32 months (total period up to 42 months)</time_frame>
+    <description>SAE was defined as any experience that suggested a significant hazard, contraindication, side effect, or precaution, and fulfilled any of the following criteria: fatal (resulted in death), life-threatening, required in-patient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/ birth defect, was medically significant or required intervention to prevent any of the other outcomes listed here.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event-Free Survival (EFS)</measure>
+    <time_frame>From time of first dose of rituximab IV before study enrollment up to end of study (up to approximately 62 months)</time_frame>
+    <description>EFS was defined as the time from first dose of rituximab IV to first occurrence of progressive disease (PD) or relapse, according to the International Working Group (IWG) response criteria or initiation of a non-protocol-specified anti-lymphoma therapy or death, whichever occurs first. PD: &gt;/= 50% increase lymph nodes and nodal mass size, any new lesion, enlarged liver/spleen, reappearance bone marrow abnormalities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>From time of first dose of rituximab IV before study enrollment up to end of study (up to approximately 62 months)</time_frame>
+    <description>PFS was defined as the time from first dose of rituximab IV to the first occurrence of progressive disease (PD) or relapse, according to the International Working Group (IWG) response criteria or death from any cause. PD: &gt;/= 50% increase lymph nodes and nodal mass size, any new lesion, enlarged liver/spleen, reappearance bone marrow abnormalities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>From time of first dose of rituximab IV before study enrollment up to end of study (up to approximately 62 months)</time_frame>
+    <description>OS was defined as the time from first dose of rituximab IV to death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease-Free Survival (DFS)</measure>
+    <time_frame>From time of first dose of rituximab IV before study enrollment up to end of study (up to approximately 62 months)</time_frame>
+    <description>DFS was assessed in participants achieving complete response (CR) including complete response unconfirmed (Cru) and was defined as the period from the date of the initial CR/CRu until the date of relapse or death from any cause. CR: 1) disappearance of all evidence/symptoms of disease, 2) lymph nodes and nodal masses normal size, 3) enlarged spleen must have regressed in size, 4) normal bone marrow; CRu: see 1) and 3) of CR plus &gt; 75% decrease in residual lymph node mass, indeterminate bone marrow. Reported here is the truncated mean estimate based on Kaplan-Meier analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Response Rate</measure>
+    <time_frame>4-6 weeks after the last dose of Induction (Up to approximately 8 months)</time_frame>
+    <description>Treatment response rate was classified according to the International Working Group (IWG) response criteria: CR/Cru, partial response (PR), stable disease (SD) and PD. CR: 1) disappearance of all evidence/symptoms of disease, 2) lymph nodes and nodal masses normal size, 3) enlarged spleen must have regressed in size, 4) normal bone marrow; CRu: see 1) and 3) of CR plus &gt; 75% decrease in residual lymph node mass, indeterminate bone marrow; PR: &gt;/= 50% decrease lymph nodes and nodal mass size; decrease in liver/spleen size, no new sites; SD: less than a PR, but is not PD; PD: &gt;/= 50% increase lymph nodes and nodal mass size, any new lesion, enlarged liver/spleen, reappearance bone marrow abnormalities.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">140</enrollment>
+  <condition>Lymphoma, Non Hodgkin</condition>
+  <arm_group>
+    <arm_group_label>Subcutaneous Rituximab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab will be treated with subcutaneous (SC) rituximab. Participants with FL will be administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL will be administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration is expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>1400 mg will be injected subcutaneously (SC).</description>
+    <arm_group_label>Subcutaneous Rituximab</arm_group_label>
+    <other_name>MabThera</other_name>
+    <other_name>Rituxan</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥ 18 and ≤ 80 years at time of enrolment.
+
+          -  Life expectancy ≥ 6 months.
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status ≤ 3.
+
+          -  Fertile men or women of childbearing potential must use effective contraception until
+             at least 12 months after the last dose; women must not be pregnant.
+
+          -  Histologically confirmed CD20+ diffuse large B-cell lymphoma (DLBCL) or CD20+
+             follicular Non-Hodgkin Lymphoma (FL) grade 1, 2 or 3a according to the World Health
+             Organisation Classification system.
+
+        Induction only:
+
+          -  Participants with Follicular Lymphoma should meet Groupe D'Etude des Lymphomes
+             Folliculaires (GELF) criteria to initiate treatment.
+
+          -  At least tumor &gt;/= 1.5 cm as measured by computed tomography (CT) scan.
+
+        FL treatment-related criteria
+
+        - Currently being treated with rituximab IV during first-line therapy and has received at
+        least one full dose of rituximab IV.
+
+        Exclusion Criteria:
+
+          -  Transformed lymphoma.
+
+          -  Primary central nervous system lymphoma, primary effusion lymphoma, primary
+             mediastinal DLBCL, DLBCL of the testis, primary cutaneous DLBCL or histologic evidence
+             of transformation to a Burkitt lymphoma.
+
+          -  History of other cancer, including one that has been treated but not with curative
+             intent, unless the cancer has been in remission without treatment for &gt;/= 5 years
+             prior to dosing. Note: Participants with a history of cured skin cancer or in situ
+             carcinoma of the cervix are eligible for the study.
+
+          -  Ongoing corticosteroid use &gt; 30 mg/day of prednisone or equivalent. Note: Participants
+             receiving corticosteroid treatment with &lt;/= 30 mg/day of prednisone or equivalent must
+             be on a stable regimen for at least 4 weeks prior to start of dosing.
+
+          -  Inadequate renal, hematologic, or hepatic function.
+
+          -  History of severe allergic or anaphylactic reactions to humanized or murine monoclonal
+             antibodies or known sensitivity or allergy to murine products.
+
+          -  For participants with DLBCL: Contraindication to any of the individual components of
+             CHOP (cyclophosphamide, vincristine, doxorubicin and prednisone), including prior
+             anthracycline treatment.
+
+          -  For participants with FL: contraindication to standard chemotherapy.
+
+          -  Other serious underlying medical conditions.
+
+          -  Recent major surgery (within 4 weeks prior to dosing), other than for diagnosis.
+
+          -  Active and/or severe infections (excluding nail fungal infections) or any infection
+             requiring treatment with IV antibiotics or hospitalization within 4 weeks prior to
+             dosing.
+
+          -  Active Hepatitis B virus (HBV) or Hepatitis C virus (HCV) infection. Note:
+             Participants testing positive for Hepatitis B or C virus antibodies but with an
+             undetectable viral load may be included.
+
+          -  History of Human Immunodeficiency Virus (HIV) positive status.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital De Txagorritxu; Servicio de Hematologia</name>
+      <address>
+        <city>Vitoria</city>
+        <state>Alava</state>
+        <zip>01009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General de Elda; Servicio de Hematologia</name>
+      <address>
+        <city>Elda</city>
+        <state>Alicante</state>
+        <zip>03600</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Granollers, Servicio de Hematología</name>
+      <address>
+        <city>Granollers</city>
+        <state>Barcelona</state>
+        <zip>08400</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Mutua de Terrassa; Servicio de Hematologia</name>
+      <address>
+        <city>Terrassa</city>
+        <state>Barcelona</state>
+        <zip>08221</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Son Llatzer; Servicio de Hematologia</name>
+      <address>
+        <city>Palma de Mallorca</city>
+        <state>Islas Baleares</state>
+        <zip>07198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario Universitario A Coruña (CHUAC); Servicio de Hematologia</name>
+      <address>
+        <city>La Coruna</city>
+        <state>LA Coruña</state>
+        <zip>15006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario Universitario de Santiago (CHUS) ; Servicio de Hematologia</name>
+      <address>
+        <city>Santiago de Compostela</city>
+        <state>LA Coruña</state>
+        <zip>15706</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario San Millan - San Pedro; Servicio Hematologia</name>
+      <address>
+        <city>Logroño</city>
+        <state>LA Rioja</state>
+        <zip>26006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Asistencial de León, Servicio de Hematología</name>
+      <address>
+        <city>León</city>
+        <state>Leon</state>
+        <zip>24008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Fuenlabrada; Servicio de Hematologia</name>
+      <address>
+        <city>Fuenlabrada</city>
+        <state>Madrid</state>
+        <zip>28943</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Severo Ochoa; Servicio de Hematologia</name>
+      <address>
+        <city>Leganes</city>
+        <state>Madrid</state>
+        <zip>28911</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosital Universitario de Mostoles;Servicio de Hematologia</name>
+      <address>
+        <city>Mostoles</city>
+        <state>Madrid</state>
+        <zip>28935</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universitaria de Navarra; Servicio de Hematologia</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Navarra, Servicio de Hematología</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario Universitario de Vigo; Servicio de Hematologia</name>
+      <address>
+        <city>Vigo</city>
+        <state>Pontevedra</state>
+        <zip>36204</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario Nuestra Señora de la Candelaria; Servicio de Oncologia</name>
+      <address>
+        <city>Santa Cruz de Tenerife</city>
+        <state>Tenerife</state>
+        <zip>38010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Basurto; Servicio de Hematologia</name>
+      <address>
+        <city>Bilbao</city>
+        <state>Vizcaya</state>
+        <zip>48013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Galdakano; Servicio de Hematologia</name>
+      <address>
+        <city>Galdakao</city>
+        <state>Vizcaya</state>
+        <zip>48960</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario Torrecardenas; Servicio de Hematologia</name>
+      <address>
+        <city>Almeria</city>
+        <zip>04009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Burgos, Servicio de Hematología</name>
+      <address>
+        <city>Burgos</city>
+        <zip>09006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General de Castellon; Servicio de Hematologia</name>
+      <address>
+        <city>Castellon</city>
+        <zip>12004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Reina Sofia; Servicio de Hematologia</name>
+      <address>
+        <city>Cordoba</city>
+        <zip>14004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen de las Nieves; Servicio de Hematologia</name>
+      <address>
+        <city>Granada</city>
+        <zip>18014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Gaudalajara; Hematología</name>
+      <address>
+        <city>Guadalajara</city>
+        <zip>19002</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Arnau de Vilanova de Lleida; Servicio de Hematologia</name>
+      <address>
+        <city>Lerida</city>
+        <zip>25198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Infanta Leonor; Servicio de Hematologia</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28031</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Jimenez Diaz; Servicio de Hematologia</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Clínico San Carlos; Servicio de Hematología</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HOSPITAL DE MADRID NORTE SANCHINARRO- CENTRO INTEGRAL ONCOLOGICO CLARA CAMPAL; Servicio Hematologia</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28050</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Puerta de Hierro; Servicio de Hematologia</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28222</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Principe de Asturias; Servicio de Hematología</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28805</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Univ. Virgen de la Victoria</name>
+      <address>
+        <city>Malaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario J.M Morales Meseguer; Servicio de Hematología</name>
+      <address>
+        <city>Murcia</city>
+        <zip>30008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen de Arrixaca; Servicio de Hematologia</name>
+      <address>
+        <city>Murcia</city>
+        <zip>30120</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario de Pontevedra; Servicio de Hematologia</name>
+      <address>
+        <city>Pontevedra</city>
+        <zip>36071</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Asistencial de Segovia</name>
+      <address>
+        <city>Segovia</city>
+        <zip>40002</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen Macarena; Servicio de Hematologia</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Univ. Nuestra Señora de Valme; Servicio de Hematologia</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Rio Hortega; Servicio de Hematologia</name>
+      <address>
+        <city>Valladolid</city>
+        <zip>47010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>July 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>November 8, 2013</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 19, 2013</study_first_posted>
+  <results_first_submitted>April 4, 2018</results_first_submitted>
+  <results_first_submitted_qc>July 3, 2018</results_first_submitted_qc>
+  <results_first_posted type="Estimate">July 4, 2018</results_first_posted>
+  <last_update_submitted>July 3, 2018</last_update_submitted>
+  <last_update_submitted_qc>July 3, 2018</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 4, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rituximab</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Subcutaneous Rituximab</title>
+          <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab during first-line treatment. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="140"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="106"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="34"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Other</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other Reason</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Investigator Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Intent-to-Treat (ITT) population included all enrolled participants. All analyses described have been performed by type of lymphoma (DLBCL/ FL) and overall.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Diffuse Large B-Cell Lymphoma</title>
+          <description>Participants with diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL.</description>
+        </group>
+        <group group_id="B2">
+          <title>Follicular Lymphoma</title>
+          <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Treatment duration was expected to last to 32 months for participants with FL.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="29"/>
+            <count group_id="B2" value="111"/>
+            <count group_id="B3" value="140"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="62.5" spread="12.0"/>
+                    <measurement group_id="B2" value="59.6" spread="12.5"/>
+                    <measurement group_id="B3" value="60.2" spread="12.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="53"/>
+                    <measurement group_id="B3" value="65"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="58"/>
+                    <measurement group_id="B3" value="75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Black</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Caucasian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="110"/>
+                    <measurement group_id="B3" value="139"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With Administration-Associated Reactions (AARs)</title>
+        <description>AARs were defined as all adverse events (AEs) occurring within 24 hours of rituximab SC administration and which were considered related to study drug. AARs included infusion/injection-related reactions (IIRRs), injection-site reactions, administration site conditions and all symptoms thereof. Grading was completed according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), version 4.0.</description>
+        <time_frame>From start of treatment to end of treatment (up to 32 months)</time_frame>
+        <population>Safety Population included all enrolled participants who received at least one dose of study medication.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Diffuse Large B-Cell Lymphoma (DLBCL)</title>
+            <description>Participants with diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL.</description>
+          </group>
+          <group group_id="O2">
+            <title>Follicular Lymphoma (FL)</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Treatment duration was expected to last to 32 months for participants with FL.</description>
+          </group>
+          <group group_id="O3">
+            <title>Subcutaneous Rituximab</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab during first-line treatment. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Administration-Associated Reactions (AARs)</title>
+          <description>AARs were defined as all adverse events (AEs) occurring within 24 hours of rituximab SC administration and which were considered related to study drug. AARs included infusion/injection-related reactions (IIRRs), injection-site reactions, administration site conditions and all symptoms thereof. Grading was completed according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), version 4.0.</description>
+          <population>Safety Population included all enrolled participants who received at least one dose of study medication.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="111"/>
+                <count group_id="O3" value="140"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>At Least One AAR</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="34.5"/>
+                    <measurement group_id="O2" value="52.3"/>
+                    <measurement group_id="O3" value="48.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>At Least One AAR Grade ≥ 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2.7"/>
+                    <measurement group_id="O3" value="2.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>At Least One Serious AARs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1.8"/>
+                    <measurement group_id="O3" value="1.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Generalised or Remote from the Injection Site AARs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="57.9"/>
+                    <measurement group_id="O2" value="11.1"/>
+                    <measurement group_id="O3" value="15.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Localised at the injection site AARs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="42.1"/>
+                    <measurement group_id="O2" value="88.9"/>
+                    <measurement group_id="O3" value="84.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With At Least One Grade &gt;/= 3 Adverse Events (AEs)</title>
+        <description>An adverse event is any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have to have a causal relationship with the treatment. An adverse event can therefore be any unfavourable and unintended sign (including an abnormal laboratory finding, for example), symptom, or disease temporally associated with the use of a pharmaceutical product, whether or not considered related to the pharmaceutical product. Pre-existing conditions which worsen during a study are also considered as adverse events. Grading was completed according to the CTCAE, version 4.0.</description>
+        <time_frame>From start of recruitment (10 months period) up to end of treatment at 32 months (total period up to 42 months)</time_frame>
+        <population>Safety Population included all enrolled participants who received at least one dose of study medication.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Diffuse Large B-Cell Lymphoma (DLBCL)</title>
+            <description>Participants with diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL.</description>
+          </group>
+          <group group_id="O2">
+            <title>Follicular Lymphoma (FL)</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Treatment duration was expected to last to 32 months for participants with FL.</description>
+          </group>
+          <group group_id="O3">
+            <title>Subcutaneous Rituximab</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab during first-line treatment. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With At Least One Grade &gt;/= 3 Adverse Events (AEs)</title>
+          <description>An adverse event is any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have to have a causal relationship with the treatment. An adverse event can therefore be any unfavourable and unintended sign (including an abnormal laboratory finding, for example), symptom, or disease temporally associated with the use of a pharmaceutical product, whether or not considered related to the pharmaceutical product. Pre-existing conditions which worsen during a study are also considered as adverse events. Grading was completed according to the CTCAE, version 4.0.</description>
+          <population>Safety Population included all enrolled participants who received at least one dose of study medication.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="111"/>
+                <count group_id="O3" value="140"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="48.3"/>
+                    <measurement group_id="O2" value="36.0"/>
+                    <measurement group_id="O3" value="38.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With At Least One Grade &gt;/= 3 Infusion/ Injection Related Reactions (IIRRs)</title>
+        <description>Grading of IIRRs was completed according to the CTCAE, version 4.0.</description>
+        <time_frame>From start of treatment to end of treatment (up to 32 months)</time_frame>
+        <population>Safety Population included all enrolled participants who received at least one dose of study medication.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Diffuse Large B-Cell Lymphoma (DLBCL)</title>
+            <description>Participants with diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL.</description>
+          </group>
+          <group group_id="O2">
+            <title>Follicular Lymphoma (FL)</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Treatment duration was expected to last to 32 months for participants with FL.</description>
+          </group>
+          <group group_id="O3">
+            <title>Subcutaneous Rituximab</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab during first-line treatment. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With At Least One Grade &gt;/= 3 Infusion/ Injection Related Reactions (IIRRs)</title>
+          <description>Grading of IIRRs was completed according to the CTCAE, version 4.0.</description>
+          <population>Safety Population included all enrolled participants who received at least one dose of study medication.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="111"/>
+                <count group_id="O3" value="140"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0"/>
+                    <measurement group_id="O2" value="2.7"/>
+                    <measurement group_id="O3" value="2.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With At Least One Serious Adverse Event (SAE)</title>
+        <description>SAE was defined as any experience that suggested a significant hazard, contraindication, side effect, or precaution, and fulfilled any of the following criteria: fatal (resulted in death), life-threatening, required in-patient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/ birth defect, was medically significant or required intervention to prevent any of the other outcomes listed here.</description>
+        <time_frame>From start of recruitment (10 months period) up to end of treatment at 32 months (total period up to 42 months)</time_frame>
+        <population>Safety Population included all enrolled participants who received at least one dose of study medication.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Diffuse Large B-Cell Lymphoma (DLBCL)</title>
+            <description>Participants with diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL.</description>
+          </group>
+          <group group_id="O2">
+            <title>Follicular Lymphoma (FL)</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Treatment duration was expected to last to 32 months for participants with FL.</description>
+          </group>
+          <group group_id="O3">
+            <title>Subcutaneous Rituximab</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab during first-line treatment. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With At Least One Serious Adverse Event (SAE)</title>
+          <description>SAE was defined as any experience that suggested a significant hazard, contraindication, side effect, or precaution, and fulfilled any of the following criteria: fatal (resulted in death), life-threatening, required in-patient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/ birth defect, was medically significant or required intervention to prevent any of the other outcomes listed here.</description>
+          <population>Safety Population included all enrolled participants who received at least one dose of study medication.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="111"/>
+                <count group_id="O3" value="140"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37.9"/>
+                    <measurement group_id="O2" value="27.9"/>
+                    <measurement group_id="O3" value="30.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Event-Free Survival (EFS)</title>
+        <description>EFS was defined as the time from first dose of rituximab IV to first occurrence of progressive disease (PD) or relapse, according to the International Working Group (IWG) response criteria or initiation of a non–protocol-specified anti-lymphoma therapy or death, whichever occurs first. PD: &gt;/= 50% increase lymph nodes and nodal mass size, any new lesion, enlarged liver/spleen, reappearance bone marrow abnormalities.</description>
+        <time_frame>From time of first dose of rituximab IV before study enrollment up to end of study (up to approximately 62 months)</time_frame>
+        <population>Intent-to-Treat (ITT) population included all enrolled participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Diffuse Large B-Cell Lymphoma (DLBCL)</title>
+            <description>Participants with diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL.</description>
+          </group>
+          <group group_id="O2">
+            <title>Follicular Lymphoma (FL)</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Treatment duration was expected to last to 32 months for participants with FL.</description>
+          </group>
+          <group group_id="O3">
+            <title>Subcutaneous Rituximab</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab during first-line treatment. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Event-Free Survival (EFS)</title>
+          <description>EFS was defined as the time from first dose of rituximab IV to first occurrence of progressive disease (PD) or relapse, according to the International Working Group (IWG) response criteria or initiation of a non–protocol-specified anti-lymphoma therapy or death, whichever occurs first. PD: &gt;/= 50% increase lymph nodes and nodal mass size, any new lesion, enlarged liver/spleen, reappearance bone marrow abnormalities.</description>
+          <population>Intent-to-Treat (ITT) population included all enrolled participants.</population>
+          <units>months</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="111"/>
+                <count group_id="O3" value="140"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.79" lower_limit="20.800" upper_limit="30.776"/>
+                    <measurement group_id="O2" value="54.39" lower_limit="51.416" upper_limit="57.362"/>
+                    <measurement group_id="O3" value="52.314" lower_limit="49.162" upper_limit="55.466"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Progression-Free Survival (PFS)</title>
+        <description>PFS was defined as the time from first dose of rituximab IV to the first occurrence of progressive disease (PD) or relapse, according to the International Working Group (IWG) response criteria or death from any cause. PD: &gt;/= 50% increase lymph nodes and nodal mass size, any new lesion, enlarged liver/spleen, reappearance bone marrow abnormalities.</description>
+        <time_frame>From time of first dose of rituximab IV before study enrollment up to end of study (up to approximately 62 months)</time_frame>
+        <population>ITT population included all enrolled participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Diffuse Large B-Cell Lymphoma (DLBCL)</title>
+            <description>Participants with diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL.</description>
+          </group>
+          <group group_id="O2">
+            <title>Follicular Lymphoma (FL)</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Treatment duration was expected to last to 32 months for participants with FL.</description>
+          </group>
+          <group group_id="O3">
+            <title>Subcutaneous Rituximab</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab during first-line treatment. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Progression-Free Survival (PFS)</title>
+          <description>PFS was defined as the time from first dose of rituximab IV to the first occurrence of progressive disease (PD) or relapse, according to the International Working Group (IWG) response criteria or death from any cause. PD: &gt;/= 50% increase lymph nodes and nodal mass size, any new lesion, enlarged liver/spleen, reappearance bone marrow abnormalities.</description>
+          <population>ITT population included all enrolled participants.</population>
+          <units>months</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="111"/>
+                <count group_id="O3" value="140"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.952" lower_limit="23.443" upper_limit="32.460"/>
+                    <measurement group_id="O2" value="54.389" lower_limit="51.416" upper_limit="57.362"/>
+                    <measurement group_id="O3" value="53.118" lower_limit="50.108" upper_limit="56.127"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival (OS)</title>
+        <description>OS was defined as the time from first dose of rituximab IV to death from any cause.</description>
+        <time_frame>From time of first dose of rituximab IV before study enrollment up to end of study (up to approximately 62 months)</time_frame>
+        <population>ITT population included all enrolled participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Diffuse Large B-Cell Lymphoma (DLBCL)</title>
+            <description>Participants with diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL.</description>
+          </group>
+          <group group_id="O2">
+            <title>Follicular Lymphoma (FL)</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Treatment duration was expected to last to 32 months for participants with FL.</description>
+          </group>
+          <group group_id="O3">
+            <title>Subcutaneous Rituximab</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab during first-line treatment. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival (OS)</title>
+          <description>OS was defined as the time from first dose of rituximab IV to death from any cause.</description>
+          <population>ITT population included all enrolled participants.</population>
+          <units>months</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="111"/>
+                <count group_id="O3" value="140"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37.42" lower_limit="33.354" upper_limit="41.485"/>
+                    <measurement group_id="O2" value="60.61" lower_limit="59.692" upper_limit="61.535"/>
+                    <measurement group_id="O3" value="59.516" lower_limit="57.999" upper_limit="61.033"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Disease-Free Survival (DFS)</title>
+        <description>DFS was assessed in participants achieving complete response (CR) including complete response unconfirmed (Cru) and was defined as the period from the date of the initial CR/CRu until the date of relapse or death from any cause. CR: 1) disappearance of all evidence/symptoms of disease, 2) lymph nodes and nodal masses normal size, 3) enlarged spleen must have regressed in size, 4) normal bone marrow; CRu: see 1) and 3) of CR plus &gt; 75% decrease in residual lymph node mass, indeterminate bone marrow. Reported here is the truncated mean estimate based on Kaplan-Meier analysis.</description>
+        <time_frame>From time of first dose of rituximab IV before study enrollment up to end of study (up to approximately 62 months)</time_frame>
+        <population>ITT population included all enrolled participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Diffuse Large B-Cell Lymphoma (DLBCL)</title>
+            <description>Participants with diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL.</description>
+          </group>
+          <group group_id="O2">
+            <title>Follicular Lymphoma (FL)</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Treatment duration was expected to last to 32 months for participants with FL.</description>
+          </group>
+          <group group_id="O3">
+            <title>Subcutaneous Rituximab</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab during first-line treatment. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease-Free Survival (DFS)</title>
+          <description>DFS was assessed in participants achieving complete response (CR) including complete response unconfirmed (Cru) and was defined as the period from the date of the initial CR/CRu until the date of relapse or death from any cause. CR: 1) disappearance of all evidence/symptoms of disease, 2) lymph nodes and nodal masses normal size, 3) enlarged spleen must have regressed in size, 4) normal bone marrow; CRu: see 1) and 3) of CR plus &gt; 75% decrease in residual lymph node mass, indeterminate bone marrow. Reported here is the truncated mean estimate based on Kaplan-Meier analysis.</description>
+          <population>ITT population included all enrolled participants.</population>
+          <units>months</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="111"/>
+                <count group_id="O3" value="140"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26.062" lower_limit="23.510" upper_limit="28.613"/>
+                    <measurement group_id="O2" value="NA">No events in this arm, therefore mean and 95% Confidence Interval could not be calculated.</measurement>
+                    <measurement group_id="O3" value="33.044" lower_limit="31.489" upper_limit="34.600"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Treatment Response Rate</title>
+        <description>Treatment response rate was classified according to the International Working Group (IWG) response criteria: CR/Cru, partial response (PR), stable disease (SD) and PD. CR: 1) disappearance of all evidence/symptoms of disease, 2) lymph nodes and nodal masses normal size, 3) enlarged spleen must have regressed in size, 4) normal bone marrow; CRu: see 1) and 3) of CR plus &gt; 75% decrease in residual lymph node mass, indeterminate bone marrow; PR: &gt;/= 50% decrease lymph nodes and nodal mass size; decrease in liver/spleen size, no new sites; SD: less than a PR, but is not PD; PD: &gt;/= 50% increase lymph nodes and nodal mass size, any new lesion, enlarged liver/spleen, reappearance bone marrow abnormalities.</description>
+        <time_frame>4-6 weeks after the last dose of Induction (Up to approximately 8 months)</time_frame>
+        <population>ITT population included all enrolled participants.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Diffuse Large B-Cell Lymphoma (DLBCL)</title>
+            <description>Participants with diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL.</description>
+          </group>
+          <group group_id="O2">
+            <title>Follicular Lymphoma (FL)</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Treatment duration was expected to last to 32 months for participants with FL.</description>
+          </group>
+          <group group_id="O3">
+            <title>Subcutaneous Rituximab</title>
+            <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab during first-line treatment. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Treatment Response Rate</title>
+          <description>Treatment response rate was classified according to the International Working Group (IWG) response criteria: CR/Cru, partial response (PR), stable disease (SD) and PD. CR: 1) disappearance of all evidence/symptoms of disease, 2) lymph nodes and nodal masses normal size, 3) enlarged spleen must have regressed in size, 4) normal bone marrow; CRu: see 1) and 3) of CR plus &gt; 75% decrease in residual lymph node mass, indeterminate bone marrow; PR: &gt;/= 50% decrease lymph nodes and nodal mass size; decrease in liver/spleen size, no new sites; SD: less than a PR, but is not PD; PD: &gt;/= 50% increase lymph nodes and nodal mass size, any new lesion, enlarged liver/spleen, reappearance bone marrow abnormalities.</description>
+          <population>ITT population included all enrolled participants.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="111"/>
+                <count group_id="O3" value="140"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Complete Response (CR)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="62.1"/>
+                    <measurement group_id="O2" value="66.7"/>
+                    <measurement group_id="O3" value="64.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Complete Response Unconfirmed (CRU)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.4"/>
+                    <measurement group_id="O2" value="7.4"/>
+                    <measurement group_id="O3" value="5.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Partial Response (PR)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.4"/>
+                    <measurement group_id="O2" value="11.1"/>
+                    <measurement group_id="O3" value="7.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stable Disease (SD)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0"/>
+                    <measurement group_id="O2" value="3.7"/>
+                    <measurement group_id="O3" value="1.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Progressive disease (PD)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17.2"/>
+                    <measurement group_id="O2" value="7.4"/>
+                    <measurement group_id="O3" value="12.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Unable to Assess (UA)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.9"/>
+                    <measurement group_id="O2" value="0.0"/>
+                    <measurement group_id="O3" value="3.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Not Evaluable</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.9"/>
+                    <measurement group_id="O2" value="3.7"/>
+                    <measurement group_id="O3" value="5.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From start of recruitment (10 months period) up to end of treatment at 32 months (total period up to 42 months)</time_frame>
+      <desc>An adverse event is any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have to have a causal relationship with the treatment. Safety Population included all enrolled participants who received at least one dose of study medication.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Subcutaneous Rituximab</title>
+          <description>Participants with CD20+ non-Hodgkin's follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL), who had already received at least one full dose of intravenous (IV) rituximab were treated with subcutaneous (SC) rituximab during first-line treatment. Participants with FL were administered 1400 mg rituximab during induction therapy (once monthly for 4-7 cycles) and maintenance therapy (once every 2 months for 6-12 cycles). Participants with DLBCL were administered 1400 mg SC of rituximab once monthly for 4-7 cycles. Treatment duration was expected to last up to 7 months for participants with DLBCL and up to 32 months for participants with FL.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 20.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="42" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Agranulocytosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Febrile neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vertigo</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain upper</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Enteritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Intestinal obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Paraesthesia oral</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Umbilical hernia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Enterobacter bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Escherichia bacteraemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Lung infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia pneumococcal</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Urosepsis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Toxicity to various agents</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypomagnesaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Malnutrition</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Brain neoplasm</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Gastric neoplasm</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Malignant melanoma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Prostate cancer</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Presyncope</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Prostatitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haemoptysis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary mass</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Venous thrombosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA 20.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="117" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="24" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="22" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Dyspepsia</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="31" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Injection site erythema</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="23" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Viral upper respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="21" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Paraesthesia</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="140"/>
+              </event>
+              <event>
+                <sub_title>Productive cough</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Erythema</sub_title>
+                <counts group_id="E1" subjects_affected="36" subjects_at_risk="140"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The Study being conducted under this Agreement is part of the Overall Study. Investigator is free to publish in reputable journals or to present at professional conferences the results of the Study, but only after the first publication or presentation that involves the Overall Study. The Sponsor may request that Confidential Information be deleted and/or the publication be postponed in order to protect the Sponsor's intellectual property rights.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Medical Communications</name_or_title>
+      <organization>Hoffmann-La Roche</organization>
+      <phone>800 821-8590</phone>
+      <email>genentech@druginfo.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

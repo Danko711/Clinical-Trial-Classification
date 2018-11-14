@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="712">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 31, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00809341</url>
+  </required_header>
+  <id_info>
+    <org_study_id>J0802</org_study_id>
+    <secondary_id>NA_00013656</secondary_id>
+    <secondary_id>J0802</secondary_id>
+    <nct_id>NCT00809341</nct_id>
+  </id_info>
+  <brief_title>R-ICE and High-Dose Cyclophosphamide With PET/CT for Diffuse Large B-Cell Non-Hodgkin's Lymphoma</brief_title>
+  <official_title>Treatment Intensification With R-ICE and High-Dose Cyclophosphamide for Diffuse Large B-Cell Non-Hodgkin's Lymphoma Based on Early [18F] FDG-PET Scanning</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research is being done to see if a PET scan that is obtained after 3 cycles of a
+      standard chemotherapy regimen can help guide treatment for patients with a blood disease
+      called Non-Hodgkin's Lymphoma.
+
+      The standard treatment for newly diagnosed lymphoma is 6 to 8 cycles of chemotherapy like the
+      CHOP combination (Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone). This regimen
+      can cure about half of patients with lymphoma, but in many others disease relapses (comes
+      back). Relapses are generally treated with more chemotherapy.
+
+      We believe that a PET scan (a type of imaging study that &quot;lights up&quot; in areas of cells with
+      high activity such as lymphoma), may identify patients early who are at high risk of relapse.
+
+      The purpose of this research study is to find out if people whose treatment is changed early
+      to an intensification regimen (high dose chemotherapy) based on a positive PET scan will have
+      longer remissions than they would if they did not receive that high dose chemotherapy.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients will receive 3 cycles of chemotherapy prior to mid-treatment PET-CT. Rituximab-CHOP,
+      or an equivalent regimen must be used. During the third cycle of Rituximab-CHOP chemotherapy,
+      a PET-CT scan will be performed. The PET scan will be designated as negative or positive.
+      Based on the results, patients will either complete standard dose therapy or receive two
+      cycles of R-ICE followed by high dose cyclophosphamide and rituximab.
+
+      A repeat PET-CT is required between 4 to 6 weeks following treatment completion. Patients
+      will be followed-up every 4 months for 2 years, then every 6 months for one year, then
+      annually until 5 years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Low accrual
+  </why_stopped>
+  <start_date>January 2009</start_date>
+  <completion_date type="Actual">April 2014</completion_date>
+  <primary_completion_date type="Actual">April 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Event-free Survival in Patient Receiving Early Treatment Intensification Based on a Positive Mid-treatment PET Scan</measure>
+    <time_frame>2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival in Patients Whose Treatment is Determined on the Basis of a Mid-treatment [18F] FDG-PET Scan Result.</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">27</enrollment>
+  <condition>Non-Hodgkin's Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>PET Negative</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, prednisone) or an equivalent anthracycline-containing regimen for 3 cycles, followed by PET scan. Participants with a negative PET scan will complete their chemotherapy regimen as prescribed by their oncologist.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PET Positive</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, prednisone) or an equivalent anthracycline-containing regimen for 3 cycles, followed by PET scan. Participants with a positive PET scan will receive two cycles of R-ICE (rituximab, ifosfamide, carboplatin, etoposide) followed by HiCy (high-dose cyclophosphamide).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>375 mg/m^2 on Day 1 of each cycle as part of R-CHOP or R-ICE. Also given 375 mg/m^2 on Days 1, 30, and 37 as part of HiCy.</description>
+    <arm_group_label>PET Negative</arm_group_label>
+    <arm_group_label>PET Positive</arm_group_label>
+    <other_name>Rituxan</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>750 mg/m^2 on Day 1 of each cycle as part of R-CHOP.</description>
+    <arm_group_label>PET Negative</arm_group_label>
+    <arm_group_label>PET Positive</arm_group_label>
+    <other_name>Cytoxan</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxorubicin</intervention_name>
+    <description>50 mg/m^2 on Day 1 of each cycle as part of R-CHOP.</description>
+    <arm_group_label>PET Negative</arm_group_label>
+    <arm_group_label>PET Positive</arm_group_label>
+    <other_name>Adriamycin</other_name>
+    <other_name>Hydroxydaunorubicin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vincristine</intervention_name>
+    <description>1.4 mg/m^2 on Day 1 of each cycle as part of R-CHOP.</description>
+    <arm_group_label>PET Negative</arm_group_label>
+    <arm_group_label>PET Positive</arm_group_label>
+    <other_name>Oncovin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prednisone</intervention_name>
+    <description>100 mg/day on Days 1-5 of each cycle as part of R-CHOP.</description>
+    <arm_group_label>PET Negative</arm_group_label>
+    <arm_group_label>PET Positive</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ifosfamide</intervention_name>
+    <description>2000 mg/m^2/day on Days 1-3 of each cycle as part of R-CHOP.</description>
+    <arm_group_label>PET Positive</arm_group_label>
+    <other_name>Ifex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>Given on Day 2 of each cycle as part of R-CHOP. Dosed according to renal function.</description>
+    <arm_group_label>PET Positive</arm_group_label>
+    <other_name>Paraplatin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Etoposide</intervention_name>
+    <description>100 mg/m^2/day on Days 1-3 of each cycle as part of R-CHOP.</description>
+    <arm_group_label>PET Positive</arm_group_label>
+    <other_name>VP-16</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>High-dose cyclophosphamide</intervention_name>
+    <description>50 mg/kg/day on Days 2-5 of HiCy.</description>
+    <arm_group_label>PET Positive</arm_group_label>
+    <other_name>HiCy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>PET scan</intervention_name>
+    <description>Performed once between Days 16-20 of cycle 3 of R-CHOP.</description>
+    <arm_group_label>PET Negative</arm_group_label>
+    <arm_group_label>PET Positive</arm_group_label>
+    <other_name>FDG-PET</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  One of the following Biopsy-confirmed, aggressive non-Hodgkin's lymphoma
+
+               1. Diffuse large B-cell lymphoma
+
+               2. Mediastinal (thymic) B-cell lymphoma
+
+          -  Any stage (I through IV) as defined by the Ann Arbor staging system
+
+          -  ECOG performance status of 0 to 2
+
+          -  Radiographically measurable disease
+
+          -  No more than 3 cycles of chemotherapy for lymphoma
+
+          -  Greater than or equal to 18 years
+
+          -  Adequate pulmonary, cardiac, hepatic, or renal function
+
+          -  HIV antibody negative
+
+          -  Women- Not pregnant or breastfeeding
+
+          -  Men of reproductive potential must agree to use contraception
+
+        Exclusion Criteria:
+
+          -  Patients with the following aggressive lymphomas are not eligible:
+
+               1. Mantle cell
+
+               2. Lymphoblastic
+
+               3. Burkitt's
+
+               4. Mycosis fungoides/Sezary's syndrome
+
+               5. HTLV-1 associated T-cell leukemia/lymphoma
+
+               6. Primary CNS lymphoma
+
+               7. HIV-associated lymphoma
+
+               8. Transformed lymphomas
+
+               9. Immunodeficiency-associated lymphomas
+
+          -  Previous diagnosis of another hematologic malignancies
+
+          -  Progressive disease on CHOP or Rituximab-CHOP
+
+          -  Active CNS involvement by lymphoma
+
+          -  Serious co-morbid disease that could preclude full participation in study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lode Swinnen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>December 16, 2008</study_first_submitted>
+  <study_first_submitted_qc>December 16, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 17, 2008</study_first_posted>
+  <results_first_submitted>August 17, 2018</results_first_submitted>
+  <results_first_submitted_qc>September 24, 2018</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 25, 2018</results_first_posted>
+  <last_update_submitted>September 24, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 25, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>B-Cell</keyword>
+  <keyword>non-Hodgkin's</keyword>
+  <keyword>Lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Ifosfamide</mesh_term>
+    <mesh_term>Isophosphamide mustard</mesh_term>
+    <mesh_term>Liposomal doxorubicin</mesh_term>
+    <mesh_term>Etoposide phosphate</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>1 participant was deemed ineligible and therefore not assigned to intervention. One participant withdrew informed consent prior to starting the study.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>PET Negative</title>
+          <description>Patients with newly diagnosed diffuse large B-cell non-Hodgkin’s lymphoma that have received 3 cycles of R-CHOP, or an equivalent anthracycline-containing regimen (e.g. R-CHOEP, R-EPOCH), will have a whole-body PET-CT scan performed to determine PET-positive or PET-negative status. These patients will then be assigned to a treatment arm based on the PET-positive or PET-negative status.</description>
+        </group>
+        <group group_id="P2">
+          <title>PET Positive</title>
+          <description>Patients with newly diagnosed diffuse large B-cell non-Hodgkin’s lymphoma that have received 3 cycles of R-CHOP, or an equivalent anthracycline-containing regimen (e.g. R-CHOEP, R-EPOCH), will have a whole-body PET-CT scan performed to determine PET-positive or PET-negative status. These patients will then be assigned to a treatment arm based on the PET-positive or PET-negative status.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="20"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>PET Negative</title>
+          <description>Patients with newly diagnosed diffuse large B-cell non-Hodgkin’s lymphoma that have received 3 cycles of R-CHOP, or an equivalent anthracycline-containing regimen (e.g. R-CHOEP, R-EPOCH), will have a whole-body PET-CT scan performed to determine PET-positive or PET-negative status. These patients will then be assigned to a treatment arm based on the PET-positive or PET-negative status.</description>
+        </group>
+        <group group_id="B2">
+          <title>PET Positive</title>
+          <description>Patients with newly diagnosed diffuse large B-cell non-Hodgkin’s lymphoma that have received 3 cycles of R-CHOP, or an equivalent anthracycline-containing regimen (e.g. R-CHOEP, R-EPOCH), will have a whole-body PET-CT scan performed to determine PET-positive or PET-negative status. These patients will then be assigned to a treatment arm based on the PET-positive or PET-negative status.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="20"/>
+            <count group_id="B2" value="5"/>
+            <count group_id="B3" value="25"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="52.5" lower_limit="23" upper_limit="72"/>
+                    <measurement group_id="B2" value="50" lower_limit="26" upper_limit="66"/>
+                    <measurement group_id="B3" value="52" lower_limit="23" upper_limit="72"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Event-free Survival in Patient Receiving Early Treatment Intensification Based on a Positive Mid-treatment PET Scan</title>
+        <time_frame>2 years</time_frame>
+        <population>The study was placed on hold to determine a quantitative method for the evaluation of PET scan results. No decision was reached on the evaluation mechanism for the PET scans, so the study was terminated. Data for this outcome was not collected because a standardized evaluation mechanism for the PET scans was not found.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PET Negative</title>
+            <description>Patients with newly diagnosed diffuse large B-cell non-Hodgkin’s lymphoma that have received 3 cycles of R-CHOP, or an equivalent anthracycline-containing regimen (e.g. R-CHOEP, R-EPOCH), will have a whole-body PET-CT scan performed to determine PET-positive or PET-negative status. These patients will then be assigned to a treatment arm based on the PET-positive or PET-negative status.</description>
+          </group>
+          <group group_id="O2">
+            <title>PET Positive</title>
+            <description>Patients with newly diagnosed diffuse large B-cell non-Hodgkin’s lymphoma that have received 3 cycles of R-CHOP, or an equivalent anthracycline-containing regimen (e.g. R-CHOEP, R-EPOCH), will have a whole-body PET-CT scan performed to determine PET-positive or PET-negative status. These patients will then be assigned to a treatment arm based on the PET-positive or PET-negative status.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Event-free Survival in Patient Receiving Early Treatment Intensification Based on a Positive Mid-treatment PET Scan</title>
+          <population>The study was placed on hold to determine a quantitative method for the evaluation of PET scan results. No decision was reached on the evaluation mechanism for the PET scans, so the study was terminated. Data for this outcome was not collected because a standardized evaluation mechanism for the PET scans was not found.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival in Patients Whose Treatment is Determined on the Basis of a Mid-treatment [18F] FDG-PET Scan Result.</title>
+        <time_frame>5 years</time_frame>
+        <population>The study was placed on hold to determine a quantitative method for the evaluation of PET scan results. No decision was reached on the evaluation mechanism for the PET scans, so the study was terminated. Data for this outcome was not collected because a standardized evaluation mechanism for the PET scans was not found.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PET Negative</title>
+            <description>Patients with newly diagnosed diffuse large B-cell non-Hodgkin’s lymphoma that have received 3 cycles of R-CHOP, or an equivalent anthracycline-containing regimen (e.g. R-CHOEP, R-EPOCH), will have a whole-body PET-CT scan performed to determine PET-positive or PET-negative status. These patients will then be assigned to a treatment arm based on the PET-positive or PET-negative status.</description>
+          </group>
+          <group group_id="O2">
+            <title>PET Positive</title>
+            <description>Patients with newly diagnosed diffuse large B-cell non-Hodgkin’s lymphoma that have received 3 cycles of R-CHOP, or an equivalent anthracycline-containing regimen (e.g. R-CHOEP, R-EPOCH), will have a whole-body PET-CT scan performed to determine PET-positive or PET-negative status. These patients will then be assigned to a treatment arm based on the PET-positive or PET-negative status.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival in Patients Whose Treatment is Determined on the Basis of a Mid-treatment [18F] FDG-PET Scan Result.</title>
+          <population>The study was placed on hold to determine a quantitative method for the evaluation of PET scan results. No decision was reached on the evaluation mechanism for the PET scans, so the study was terminated. Data for this outcome was not collected because a standardized evaluation mechanism for the PET scans was not found.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Up to 2 years</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>PET Negative</title>
+          <description>Patients with newly diagnosed diffuse large B-cell non-Hodgkin’s lymphoma that have received 3 cycles of R-CHOP, or an equivalent anthracycline-containing regimen (e.g. R-CHOEP, R-EPOCH), will have a whole-body PET-CT scan performed to determine PET-positive or PET-negative status. These patients will then be assigned to a treatment arm based on the PET-positive or PET-negative status.</description>
+        </group>
+        <group group_id="E2">
+          <title>PET Positive</title>
+          <description>Patients with newly diagnosed diffuse large B-cell non-Hodgkin’s lymphoma that have received 3 cycles of R-CHOP, or an equivalent anthracycline-containing regimen (e.g. R-CHOEP, R-EPOCH), will have a whole-body PET-CT scan performed to determine PET-positive or PET-negative status. These patients will then be assigned to a treatment arm based on the PET-positive or PET-negative status.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTCAE (3.0)</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Febrile Neutropenia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hemorrhage, CNS</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="20"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Lode Swinnen</name_or_title>
+      <organization>Johns Hopkins Sidney Kimmel Cancer Center</organization>
+      <phone>410-955-8603</phone>
+      <email>lswinne1@jhmi.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+
